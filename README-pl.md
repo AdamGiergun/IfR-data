@@ -1,0 +1,1 @@
+Zaślepka dla przyszłej informacji.
