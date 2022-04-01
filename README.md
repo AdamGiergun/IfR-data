@@ -64,9 +64,9 @@ Data are structured in three types: [spot](https://github.com/AdamGiergun/IfR-da
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_SPOT_(language).md
   
 ### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit
-* Territorial unit is one of the properties of spot coming from administrative division of country.
-  For Poland searchable list of territorial units can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
-  but as it is a standard based on ISO 19000 I strongly suspect that other countries have equivalent lists. 
+* "Territorial unit id" is one of the properties of spot coming from administrative division of country.
+  For Poland searchable list of territorial units with ids can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
+  but as ids come from standard based on ISO 19000 I strongly suspect that other countries have equivalent lists.
   If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2)
   Data file for territorial units is [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json)
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_TU_(language).md

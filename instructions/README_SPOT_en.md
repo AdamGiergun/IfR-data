@@ -31,34 +31,62 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
 },
  - field left for future use for some elaborate info, feel free to use it, I'll find the way of displaying it. 
 
-"territorialUnitId": "PL-1465",
-
+"territorialUnitId": "",
+ - "Territorial unit id" is one of the properties of spot coming from administrative division of country.
+   For Poland searchable list of territorial units with ids can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
+   but as ids come from standard based on ISO 19000 I strongly suspect that other countries have equivalent lists.
+   If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2)
 
 "location": {
+ - any field here can be left empty if not needed
+
 "locality": "",
+ - name of city, town, or village
+
 "street": "",
+ - name of the street
+
 "buildingId": "",
+ - not always a number, it can look like 12B, or F
+
 "flatOrRoomId": "",
+ - not always a number, it can look like 12B, or F
+
 "postCode": "",
+ - I hope it's obvious
+
 "latitude": "0.0",
 "longitude": "0.0"
+ - geographic coordinates of the spot. One of the easiest ways of finding it will be opening Google Maps, marking the spot and pressing mark icon or clicking it with mouse's right button. 
+   Then on computer with mouse's left button you can copy coordinates to the clipboard.
+
 },
 "contacts": [
+ - if there is more then one contact for the spot multiply part included in {} separating it with commas 
+
 {
-"phone": "+48477217575",
+"phone": "",
+
 "eMail": "",
+
 "sms": "",
+
 "name": "",
+ - contact person name (if needed)
+
 "services": [],
+ - use it only if there are services served only by specific contacts, look at the end for services explanation
 "www": {
-"en": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy",
-"pl": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy",
-"ru": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy",
-"uk": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy"
+   - use it if there is spot's website available. If there is only one website's language version use "en" and delete the rest (and commas).
+"pl": "",
+"ru": "",
+"uk": ""
 }
 }
 ],
 "services": [
-"information"
+"example1",
+"example2"   
 ]
 }
+ - list of services' ids available at the spot. List of services is available [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json) and expandable.     
