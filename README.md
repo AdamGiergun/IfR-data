@@ -8,12 +8,9 @@
     <li><a href="#objectives">Objectives</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#contribution">Contribution</a>
-    <ol>
-      <li><a href="#spot">Spot</a></li>
-      <li><a href="#territorial-unit">Territorial unit</a></li>
-      <li><a href="#service">Service</a></li>
-    </ol>
-  </li>
+    <ol><li><a href="#spot">Spot</a></li>
+    <li><a href="#territorial-unit">Territorial unit</a></li>
+    <li><a href="#service">Service</a></li></ol></li>
     <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
