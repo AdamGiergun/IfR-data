@@ -7,7 +7,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#objectives">Objectives</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#Contribution">Roadmap</a></li>
     <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
@@ -40,7 +40,7 @@ Long term:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ROADMAP -->
+<!-- CONTRIBUTION -->
 
 ## Contribution
 
@@ -69,5 +69,7 @@ Data are structured in three types: "spot", "territorial unit" and "services".
 <!-- ACKNOWLEDGMENTS -->
 
 ## Credits
+
+* This is a place waiting for You :-)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
