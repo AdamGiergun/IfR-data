@@ -52,12 +52,12 @@ Using Android Studio for entering data is not a must, so look at the [info about
 
 Data are structured in three types: "spot", "territorial unit" and "services".
 
-###   Spot
+### &nbsp;&nbsp;&nbsp;&nbsp; Spot
 * Spot contains all the info about place.
   Spots data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json)
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_SPOT_(language).md
   
-###   Territorial unit
+### &nbsp;&nbsp;&nbsp;&nbsp; Territorial unit
 * Territorial unit is one of the properties of spot coming from administrative division of country.
   For Poland searchable list of territorial units can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
   but as it is a standard based on ISO 19000 I strongly suspect that other countries have equivalent lists. 
@@ -65,7 +65,7 @@ Data are structured in three types: "spot", "territorial unit" and "services".
   Data file for territorial units is [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json)
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_TU_(language).md
 
-###   Service  
+### &nbsp;&nbsp;&nbsp;&nbsp; Service  
 * Service is (just as it name suggests) a service offered by the spot.
   Services data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json)
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_SERVICE_(language).md
