@@ -8,9 +8,12 @@
     <li><a href="#objectives">Objectives</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#contribution">Contribution</a>
-    <ol><li><a href="#spot">Spot</a></li>
+    <ol>
+    <li><a href="#translations">Translations</a></li>
+    <li><a href="#spot">Spot</a></li>
     <li><a href="#territorial-unit">Territorial unit</a></li>
-    <li><a href="#service">Service</a></li></ol></li>
+    <li><a href="#service">Service</a></li>
+    </ol></li>
     <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
@@ -47,10 +50,13 @@ Long term:
 
 ### Contribution
 
-The best way of supporting this project will be providing me with a data formatted as a JSON file, accordingly to the standard I set.
+The best way of supporting this project will be providing me with <a href="#translations">translations</a>, and an app's data formatted as a JSON file, accordingly to the standard I propose.
 Using Android Studio for entering data is not a must, so look at the [info about alternatives](https://github.com/AdamGiergun/IfR-data/issues/1)
 
-Data are structured in three types: "spot", "territorial unit" and "services".
+### &nbsp;&nbsp;&nbsp;&nbsp; Translations
+* Translations are needed for all READMEs in this repository, and also for strings used in the app.
+
+Data are structured in three types: <a href="#spot">Spot</a>, <a href="#spot">Territorial unit</a> and <a href="#spot">Services</a>.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Spot
 * Spot contains all the info about place.
