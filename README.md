@@ -9,10 +9,10 @@
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#contribution">Contribution</a>
     <ol>
-    <li><a href="#translations">Translations</a></li>
-    <li><a href="#spot">Spot</a></li>
-    <li><a href="#territorial-unit">Territorial unit</a></li>
-    <li><a href="#service">Service</a></li>
+    <li><a href="#translations">&nbsp;&nbsp;&nbsp;&nbsp;Translations</a></li>
+    <li><a href="#spot">&nbsp;&nbsp;&nbsp;&nbsp;Spot</a></li>
+    <li><a href="#territorial-unit">&nbsp;&nbsp;&nbsp;&nbsp;Territorial unit</a></li>
+    <li><a href="#service">&nbsp;&nbsp;&nbsp;&nbsp;Service</a></li>
     </ol></li>
     <li><a href="#credits">Credits</a></li>
   </ol>
@@ -53,17 +53,17 @@ Long term:
 The best way of supporting this project will be providing me with <a href="#translations">translations</a>, and an app's data formatted as a JSON file, accordingly to the standard I propose.
 Using Android Studio for entering data is not a must, so look at the [info about alternatives](https://github.com/AdamGiergun/IfR-data/issues/1)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Translations
+### &nbsp;&nbsp;&nbsp;&nbsp;Translations
 * Translations are needed for all READMEs in this repository, and also for strings used in the app.
 
 Data are structured in three types: <a href="#spot">Spot</a>, <a href="#spot">Territorial unit</a> and <a href="#spot">Services</a>.
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Spot
+### &nbsp;&nbsp;&nbsp;&nbsp;Spot
 * Spot contains all the info about place.
   Spots data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json)
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_SPOT_(language).md
   
-### &nbsp;&nbsp;&nbsp;&nbsp; Territorial unit
+### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit
 * Territorial unit is one of the properties of spot coming from administrative division of country.
   For Poland searchable list of territorial units can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
   but as it is a standard based on ISO 19000 I strongly suspect that other countries have equivalent lists. 
@@ -71,7 +71,7 @@ Data are structured in three types: <a href="#spot">Spot</a>, <a href="#spot">Te
   Data file for territorial units is [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json)
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_TU_(language).md
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Service  
+###  &nbsp;&nbsp;&nbsp;&nbsp;Service  
 * Service is (just as it name suggests) a service offered by the spot.
   Services data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json)
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_SERVICE_(language).md
