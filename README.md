@@ -39,7 +39,7 @@ Longer term:
 * Create tools for entering data to the database (like a some nice web interface).
 
 Much longer term:
-* Unfortunately this refugee crisis is not the only one. I hope to convert this project into permanent, to serve in any similar crisis. Please feel free to contact me if you want to help me achieve it: [my e-mail](mailto:adam.giergun@gmail.com) #IfR-permanent:
+* Unfortunately this refugee crisis is not the only one. I hope to convert this project into permanent, to serve in any similar crisis. Please feel free to contact me if you want to help me achieve it: [my e-mail](mailto:adam.giergun@gmail.com) with #IfR-permanent: in e-mail subject.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -57,7 +57,7 @@ The best way of supporting this project will be providing me with [translations]
 Using Android Studio for entering data is not a must, so look at the [info about alternatives](https://github.com/AdamGiergun/IfR-data/issues/1)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Translations
-* Translations are needed for all READMEs in this repository, and also for strings used in the app.
+* Translations are needed for all READMEs in this repository, and also for [strings](https://github.com/AdamGiergun/IfR-data/blob/main/data/strings.xml) used in the app.
 
 Data are structured in three types: [spot](https://github.com/AdamGiergun/IfR-data#spot), [territorial unit](https://github.com/AdamGiergun/IfR-data#territorial-unit) and [service](https://github.com/AdamGiergun/IfR-data#service).
 
