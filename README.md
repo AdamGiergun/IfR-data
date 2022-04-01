@@ -50,13 +50,13 @@ Long term:
 
 ### Contribution
 
-The best way of supporting this project will be providing me with <a href="#translations">&nbsp;&nbsp;&nbsp;&nbsp;Translations</a>, and an app's data formatted as a JSON file, accordingly to the standard I propose.
+The best way of supporting this project will be providing me with [translations](https://github.com/AdamGiergun/IfR-data#translations), and an app's data formatted as a JSON file, accordingly to the standard I propose.
 Using Android Studio for entering data is not a must, so look at the [info about alternatives](https://github.com/AdamGiergun/IfR-data/issues/1)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Translations
 * Translations are needed for all READMEs in this repository, and also for strings used in the app.
 
-Data are structured in three types: <a href="#spot">&nbsp;&nbsp;&nbsp;&nbsp;Spot</a>, <a href="#spot">&nbsp;&nbsp;&nbsp;&nbsp;Territorial unit</a> and <a href="#spot">&nbsp;&nbsp;&nbsp;&nbsp;Service</a>.
+Data are structured in three types: [spot](https://github.com/AdamGiergun/IfR-data#spot), [territorial unit](https://github.com/AdamGiergun/IfR-data#territorial-unit) and [service](https://github.com/AdamGiergun/IfR-data#service).
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Spot
 * Spot contains all the info about place.
