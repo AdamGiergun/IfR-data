@@ -1,1 +1,3 @@
-Stub for future info about contributing to development of this database.
+Заглушка для майбутньої інформації про сприяння розвитку цієї бази даних.
+
+Якщо ви хочете допомогти перекласти та надіслати мені [цей документ](https://github.com/AdamGiergun/IfR-data/blob/main/README.md).
