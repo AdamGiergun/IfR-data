@@ -78,15 +78,26 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
  - use it only if there are services served only by specific contacts, look at the end for services explanation
 "www": {
    - use it if there is spot's website available. If there is only one website's language version use "en" and delete the rest (and commas).
+
 "pl": "",
+
 "ru": "",
+
 "uk": ""
+
 }
+
 }
+
 ],
+
 "services": [
+
 "example1",
+
 "example2"   
+
 ]
+
 }
  - list of services' ids available at the spot. List of services is available [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json) and expandable.     
