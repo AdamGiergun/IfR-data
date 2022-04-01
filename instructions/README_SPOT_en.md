@@ -82,6 +82,8 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
 "www": {
    - use it if there is spot's website available. If there is only one website's language version use "en" and delete the rest (and commas).
 
+"en": "",
+
 "pl": "",
 
 "ru": "",
