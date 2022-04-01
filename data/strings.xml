@@ -6,27 +6,7 @@
 <resources>
     <string name="app_name">IfR</string>
     <string name="appbar_title">Information for refugees</string>
-    <string name="appbar_subtitle">from the Polish government</string>
     <string name="action_share">Share</string>
-
-    <string name="action_create_notification">Create Notification</string>
-    <string name="title_activity_notification_parent">Notification Demo</string>
-    <string name="title_activity_webview">WebviewActivity</string>
-    <string name="notification_title">Open Web Content</string>
-    <string name="notification_text">Open your web content on Chrome Custom Tabs</string>
-    <string name="notification_sample_url">https://developer.chrome.com/multidevice/android/customtabs</string>
-    <string name="label_url">URL:</string>
-    <string name="default_test_url">http://developer.android.com</string>
-    <string name="back_to_app">Back to your application!</string>
-    <string name="label_start_custom_tab">Open Custom Tab</string>
-    <string name="label_add_menus">Add Menus</string>
-    <string name="label_add_action_button">Add Action Button</string>
-    <string name="label_action">Perform Action</string>
-
-    <string name="label_toolbar_color">Toolbar Color:</string>
-    <string name="default_toolbar_color">#980e03</string>
-    <string name="menu_item_title">Sample Menu Item</string>
-    <string name="label_may_launch_url">May Launch URL</string>
 
     <string name="share_app">Share app</string>
     <string name="weblink">Website</string>
@@ -48,13 +28,14 @@
         While I am able to (as far as possible), work on the first goal, it is impossible for me to find and put in the application all the necessary data in a very short time. I need a lot of help to achieve this.\n\n
         I do not doubt that finding many willing to provide this help will be much more likely if this app will be downloaded in a short time by a very significant number of users. Because this will prove a great demand for it.\n\n
         At the link below, anyone willing to help shell find more information:\n
-        <a href="https://github.com/AdamGiergun/IfR-data/blob/main/README.md"> https://github.com/AdamGiergun/IfR-data/blob/main/README.md </a>\n\n
-        You need to click the button below to access current app data. This info will be later available via menu option “Helpers”. And one of the easiest ways of sharing this info and app will be the use of “share” icon from toolbar.</string>
+        <a href="https://github.com/AdamGiergun/IfR-data/blob/main/README.md"> https://github.com/AdamGiergun/IfR-data/blob/main/README.md </a>\n\n %s</string>
+    <string name="welcome_text_end">You need to click the button below to access current app data. This info will be later available via menu option “Helpers”. And one of the easiest ways of sharing this info and app will be the use of “share” icon from toolbar.</string>
     <string name="don_t_show_again">Don\'t show again</string>
     <string name="helpers">Helpers</string>
     <string name="help">Help</string>
     <string name="search_info_text">Use it for searching any text in spots data.</string>
     <string name="location_info_text">Use it for sorting spots by the distance from your current location.</string>
     <string name="share_info_text">Use it for sharing info about this app.</string>
+    <string name="link_info_text">All the blue links in text can be touched to go to the https://webpage, or to make phone call, or to start writing e-mail.</string>
 
 </resources>
