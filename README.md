@@ -70,6 +70,6 @@ Data are structured in three types: "spot", "territorial unit" and "services".
 
 ## Credits
 
-* This is a place waiting for You :-)
+* This is a place waiting for You :smile:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
