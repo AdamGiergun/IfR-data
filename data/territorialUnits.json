@@ -1,0 +1,527 @@
+{
+  "territorialUnits":
+  [
+    {
+        "id": "PL",
+        "dbType": "new",
+        "name": {
+            "en": "Poland",
+            "pl": "Polska",
+            "ru": "Польша",
+            "uk": "Польща"
+    }}, 
+    {
+        "id": "PL-02",
+        "dbType": "new",
+        "name": {
+            "en": "Lower Silesian Voivodeship",
+            "pl": "Województwo dolnośląskie",
+            "ru": "Нижнесилезское воеводство",
+            "uk": "Нижньосілезьке воєводство"
+    }},
+    {
+        "id": "PL-0264",
+        "dbType": "new",
+        "name": {
+            "en": "Wroclaw",
+            "pl": "Wrocław",
+            "ru": "Вроцлав",
+            "uk": "Вроцлав"
+    }},
+    {
+        "id": "PL-04",
+        "dbType": "new",
+        "name": {
+            "en": "Kuyavian-Pomeranian Voivodeship",
+            "pl": "Województwo kujawsko-pomorskie",
+            "ru": "Куявско-Поморское воеводство",
+            "uk": "Куявсько-Поморське воєводство"
+    }},
+    {
+        "id": "PL-0463",
+        "dbType": "new",
+        "name": {
+            "en": "Toruń",
+            "pl": "Toruń",
+            "ru": "Торунь",
+            "uk": "Торунь"
+    }},
+    {
+        "id": "PL-0461",
+        "dbType": "new",
+        "name": {
+            "en": "Bydgoszcz",
+            "pl": "Bydgoszcz",
+            "ru": "Быдгощ",
+            "uk": "Бидгощ"
+    }},
+    {
+        "id": "PL-06",
+      "dbType": "new",
+        "name": {
+            "en": "Lublin Voivodeship",
+            "pl": "Województwo lubelskie",
+            "ru": "Люблинское воеводство",
+            "uk": "Люблінське воєводство"
+    }},
+    {
+        "id": "PL-0603",
+        "dbType": "new",
+        "name": {
+            "en": "Chełm County",
+            "pl": "Powiat chełmski",
+            "ru": "Хелмский повет",
+            "uk": "Холмський повіт"
+    }},
+    {
+        "id": "PL-0603042",
+        "dbType": "new",
+        "name": {
+            "en": "Gmina Dorohusk",
+            "pl": "Gmina Dorohusk",
+            "ru": "Дорохуск (гмина)",
+            "uk": "Дорогуськ (гміна)"
+    }},
+    {
+        "id": "PL-0604",
+        "dbType": "new",
+        "name": {
+            "en": "Hrubieszów County",
+            "pl": "Powiat hrubieszowski",
+            "ru": "Хрубешувский повет",
+            "uk": "Грубешівський повіт"
+    }},
+    {
+        "id": "PL-0604011",
+        "dbType": "new",
+        "name": {
+            "en": "Hrubieszów",
+            "pl": "Hrubieszów",
+            "ru": "Хрубешув",
+            "uk": "Грубешів"
+    }},
+    {
+        "id": "PL-0604022",
+        "dbType": "new",
+        "name": {
+            "en": "Gmina Dołhobyczów",
+            "pl": "Gmina Dołhobyczów",
+            "ru": "Долхобычув (гмина)",
+            "uk": "Долобичів (гміна)"
+    }},
+    {
+        "id": "PL-0604032",
+        "dbType": "new",
+        "name": {
+            "en": "Gmina Horodło",
+            "pl": "Gmina Horodło",
+            "ru": "Хородло (гмина)",
+            "uk": "Городло (гміна)"
+    }},
+    {
+      "id": "PL-0604052",
+      "dbType": "new",
+      "name": {
+        "en": "Mircze",
+        "pl": "Mircze",
+        "ru": "Мирче",
+        "uk": "Мірче"
+      }},
+    {
+        "id": "PL-0618",
+        "dbType": "new",
+        "name": {
+            "en": "Tomaszów County",
+            "pl": "Powiat tomaszowski",
+            "ru": "Томашувский повет",
+            "uk": "Томашівський повіт"
+    }},
+    {
+      "id": "PL-0618011",
+      "dbType": "new",
+      "name": {
+        "en": "Tomaszów Lubelski",
+        "pl": "Tomaszów Lubelski",
+        "ru": "Томашув-Любельски",
+        "uk": "Томашів-Любельський"
+      }},
+    {
+        "id": "PL-0618054",
+        "dbType": "new",
+        "name": {
+            "en": "Lubycza Królewska",
+            "pl": "Lubycza Królewska",
+            "ru": "Любыча-Крулевская",
+            "uk": "Любича Королівська"
+    }},
+    {
+        "id": "PL-0662",
+        "dbType": "new",
+        "name": {
+            "en": "Chełm",
+            "pl": "Chełm",
+            "ru": "Хелм",
+            "uk": "Холм"
+    }},
+    {
+      "id": "PL-0663",
+      "dbType": "new",
+      "name": {
+        "en": "Lublin",
+        "pl": "Lublin",
+        "ru": "Люблин",
+        "uk": "Люблін"
+      }},
+    {
+      "id": "PL-0664",
+      "dbType": "new",
+      "name": {
+        "en": "Zamość County",
+        "pl": "Zamość - powiat",
+        "ru": "Замосць повет",
+        "uk": "Замостя повіт"
+      }},
+    {
+      "id": "PL-0664011",
+      "dbType": "new",
+      "name": {
+        "en": "Zamość",
+        "pl": "Zamość",
+        "ru": "Замосць",
+        "uk": "Замостя"
+      }},
+    {
+      "id": "PL-08",
+      "dbType": "new",
+      "name": {
+        "en": "Lubusz Voivodeship",
+        "pl": "Województwo lubuskie",
+        "ru": "Любушское воеводство",
+        "uk": "Любуське воєводство"
+      }},
+    {
+      "id": "PL-0861",
+      "dbType": "new",
+      "name": {
+        "en": "Gorzów Wielkopolski",
+        "pl": "Gorzów Wielkopolski",
+        "ru": "Гожув-Велькопольски",
+        "uk": "Ґожув-Велькопольський"
+      }},
+    {
+      "id": "PL-10",
+      "dbType": "new",
+      "name": {
+        "en": "Łódź Voivodeship",
+        "pl": "Województwo łódzkie",
+        "ru": "Лодзинское воеводство",
+        "uk": "Лодзинське воєводство"
+      }},
+    {
+      "id": "PL-1061",
+      "dbType": "new",
+      "name": {
+        "en": "Łódź",
+        "pl": "Łódź",
+        "ru": "Лодзь",
+        "uk": "Лодзь"
+      }},
+    {
+      "id": "PL-12",
+      "dbType": "new",
+      "name": {
+        "en": "Lesser Poland Voivodeship",
+        "pl": "Województwo małopolskie",
+        "ru": "Малопольское воеводство",
+        "uk": "Малопольське воєводство"
+      }},
+    {
+      "id": "PL-1212",
+      "dbType": "new",
+      "name": {
+        "en": "Olkusz County",
+        "pl": "Olkusz - powiat",
+        "ru": "Олькушский повет",
+        "uk": "Олькуський повіт"
+      }},
+    {
+      "id": "PL-1212054",
+      "dbType": "new",
+      "name": {
+        "en": "Olkusz",
+        "pl": "Olkusz",
+        "ru": "Олькуш",
+        "uk": "Олькуш"
+      }},
+    {
+      "id": "PL-1261",
+      "dbType": "new",
+      "name": {
+        "en": "Kraków",
+        "pl": "Kraków",
+        "ru": "Краков",
+        "uk": "Краків"
+      }},
+    {
+      "id": "PL-1263",
+      "dbType": "new",
+      "name": {
+        "en": "Tarnów",
+        "pl": "Tarnów",
+        "ru": "Тарнув",
+        "uk": "Тарнів"
+      }},
+    {
+      "id": "PL-14",
+      "dbType": "new",
+      "name": {
+        "en": "Masovian Voivodeship",
+        "pl": "Województwo mazowieckie",
+        "ru": "Мазовецкое воеводство",
+        "uk": "Мазовецьке воєводство"
+      }},
+    {
+      "id": "PL-1465",
+      "dbType": "new",
+      "name": {
+        "en": "Warsaw",
+        "pl": "Warszawa",
+        "ru": "Варшава",
+        "uk": "Варшава"
+      }},
+    {
+      "id": "PL-16",
+      "dbType": "new",
+      "name": {
+        "en": "Opole Voivodeship",
+        "pl": "Województwo opolskie",
+        "ru": "Опольское воеводство",
+        "uk": "Опольське воєводство"
+      }},
+    {
+      "id": "PL-1661",
+      "dbType": "new",
+      "name": {
+        "en": "Opole",
+        "pl": "Opole",
+        "ru": "Ополе",
+        "uk": "Ополе"
+      }},
+    {
+      "id": "PL-18",
+      "dbType": "new",
+      "name": {
+        "en": "Subcarpathian Voivodeship",
+        "pl": "Województwo podkarpackie",
+        "ru": "Подкарпатское воеводство",
+        "uk": "Підкарпатське воєводство"
+      }},
+    {
+      "id": "PL-1801",
+      "dbType": "new",
+      "name": {
+        "en": "Bieszczady County",
+        "pl": "Powiat bieszczadzki",
+        "ru": "Бещадский повят",
+        "uk": "Бещадський повіт"
+      }},
+    {
+      "id": "PL-1801083",
+      "dbType": "new",
+      "name": {
+        "en": "Ustrzyki Dolne (gmina)",
+        "pl": "Ustrzyki Dolne (gmina)",
+        "ru": "Устшики-Дольне (гмина)",
+        "uk": "Устрики-Долішні (гміна)"
+      }},
+    {
+      "id": "PL-1804",
+      "dbType": "new",
+      "name": {
+        "en": "Jarosław County",
+        "pl": "Powiat jarosławski",
+        "ru": "Ярославский повят",
+        "uk": "Ярославський повіт"
+      }},
+    {
+      "id": "PL-1804082",
+      "dbType": "new",
+      "name": {
+        "en": "Radymno (rural gmina)",
+        "pl": "Radymno (gmina wiejska)",
+        "ru": "Радымно (гмина)",
+        "uk": "Радимно (гміна)"
+      }},
+    {
+      "id": "PL-1809",
+      "dbType": "new",
+      "name": {
+        "en": "Lubaczów County",
+        "pl": "Powiat lubaczowski",
+        "ru": "Любачувский повят",
+        "uk": "Любачівський повіт"
+      }},
+    {
+      "id": "PL-1809042",
+      "dbType": "new",
+      "name": {
+        "en": "Lubaczów (rural gmina)",
+        "pl": "Lubaczów (gmina wiejska)",
+        "ru": "Любачув (гмина)",
+        "uk": "Любачів (гміна)"
+      }},
+    {
+      "id": "PL-1813",
+      "dbType": "new",
+      "name": {
+        "en": "Przemyśl County",
+        "pl": "Powiat przemyski",
+        "ru": "Перемышльский повят",
+        "uk": "Перемишльський повіт"
+      }},
+    {
+      "id": "PL-1813062",
+      "dbType": "new",
+      "name": {
+        "en": "Medyka (rural gmina)",
+        "pl": "Medyka (gmina wiejska)",
+        "ru": "Медыка (гмина)",
+        "uk": "Медика (гміна)"
+      }},
+    {
+      "id": "PL-1862",
+      "dbType": "new",
+      "name": {
+        "en": "Przemyśl",
+        "pl": "Przemyśl",
+        "ru": "Пшемысль",
+        "uk": "Перемишль"
+      }},
+    {
+      "id": "PL-20",
+      "dbType": "new",
+      "name": {
+        "en": "Podlaskie Voivodeship",
+        "pl": "Województwo podlaskie",
+        "ru": "Подляское воеводство",
+        "uk": "Підляське воєводство"
+      }},
+    {
+      "id": "PL-2061",
+      "dbType": "new",
+      "name": {
+        "en": "Białystok",
+        "pl": "Białystok",
+        "ru": "Белосток",
+        "uk": "Білосток"
+      }},
+    {
+      "id": "PL-22",
+      "dbType": "new",
+      "name": {
+        "en": "Pomeranian Voivodeship",
+        "pl": "Województwo pomorskie",
+        "ru": "Поморское воеводство",
+        "uk": "Поморське воєводство"
+      }},
+    {
+      "id": "PL-2261",
+      "dbType": "new",
+      "name": {
+        "en": "Gdańsk",
+        "pl": "Gdańsk",
+        "ru": "Гданьск",
+        "uk": "Гданськ"
+      }},
+    {
+      "id": "PL-24",
+      "dbType": "new",
+      "name": {
+        "en": "Silesian Voivodeship",
+        "pl": "Województwo śląskie",
+        "ru": "Силезское воеводство",
+        "uk": "Сілезьке воєводство"
+      }},
+    {
+      "id": "PL-2469",
+      "dbType": "new",
+      "name": {
+        "en": "Katowice",
+        "pl": "Katowice",
+        "ru": "Катовице",
+        "uk": "Катовиці"
+      }},
+    {
+      "id": "PL-26",
+      "dbType": "new",
+      "name": {
+        "en": "Świętokrzyskie Voivodeship",
+        "pl": "Województwo świętokrzyskie",
+        "ru": "Свентокшиское воеводство",
+        "uk": "Свентокшиське воєводство"
+      }},
+    {
+      "id": "PL-2661",
+      "dbType": "new",
+      "name": {
+        "en": "Kielce",
+        "pl": "Kielce",
+        "ru": "Кельце",
+        "uk": "Кельці"
+      }},
+    {
+      "id": "PL-28",
+      "dbType": "new",
+      "name": {
+        "en": "Warmian-Masurian Voivodeship",
+        "pl": "Województwo warmińsko-mazurskie",
+        "ru": "Варминьско-Мазурское воеводство",
+        "uk": "Вармінсько-Мазурське воєводство"
+      }},
+    {
+      "id": "PL-2862",
+      "dbType": "new",
+      "name": {
+        "en": "Olsztyn",
+        "pl": "Olsztyn",
+        "ru": "Ольштын",
+        "uk": "Ольштин"
+      }},
+    {
+      "id": "PL-30",
+      "dbType": "new",
+      "name": {
+        "en": "Greater Poland Voivodeship",
+        "pl": "Województwo wielkopolskie",
+        "ru": "Великопольское воеводство",
+        "uk": "Великопольське воєводство"
+      }},
+    {
+      "id": "PL-3064",
+      "dbType": "new",
+      "name": {
+        "en": "Poznań",
+        "pl": "Poznań",
+        "ru": "Познань",
+        "uk": "Познань"
+      }},
+    {
+      "id": "PL-32",
+      "dbType": "new",
+      "name": {
+        "en": "West Pomeranian Voivodeship",
+        "pl": "Województwo zachodniopomorskie",
+        "ru": "Западно-Поморское воеводство",
+        "uk": "Західнопоморське воєводство"
+      }},
+    {
+      "id": "PL-3262",
+      "dbType": "new",
+      "name": {
+        "en": "Szczecin",
+        "pl": "Szczecin",
+        "ru": "Щецин",
+        "uk": "Щецин"
+      }}
+  ]
+}

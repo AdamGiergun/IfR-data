@@ -1,0 +1,2119 @@
+{
+  "spots": [
+    {
+      "id": "1",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "The Ministry of Internal Affairs and Administration",
+        "pl": "Ministerstwo Spraw Wewnętrznych i Administracji",
+        "ru": "Министерство внутренних дел и администрация",
+        "uk": "Міністерство внутрішніх справ та адміністрації"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1465",
+      "location": {
+        "locality": "",
+        "street": "",
+        "buildingId": "",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": "0.0",
+        "longitude": "0.0"
+      },
+      "contacts": [
+        {
+          "phone": "+48477217575",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy",
+            "pl": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy",
+            "ru": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy",
+            "uk": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Embassy of Ukraine - Consular Faculty",
+        "pl": "Ambasada Ukrainy - Wydział Konsularny",
+        "ru": "Посольство Украины - консульский факультет",
+        "uk": "Посольство України - консульський факультет"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1465",
+      "location": {
+        "locality": "Warszawa",
+        "street": "ul. A.Malczewskiego",
+        "buildingId": "17",
+        "flatOrRoomId": "",
+        "postCode": "02-617",
+        "latitude": "52.19398416981805",
+        "longitude": "21.020664685438334"
+      },
+      "contacts": [
+        {
+          "phone": "+48698608837",
+          "eMail": "consul_pl@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://poland.mfa.gov.ua/pl/embassy/kontakt",
+            "pl": "https://poland.mfa.gov.ua/pl/embassy/kontakt",
+            "ru": "https://poland.mfa.gov.ua/kontakti",
+            "uk": "https://poland.mfa.gov.ua/kontakti"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Consulate General of Ukraine",
+        "pl": "Konsulat Generalny Ukrainy",
+        "ru": "Генеральный консульство Украины",
+        "uk": "Генеральне консульство України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0663",
+      "location": {
+        "locality": "Lublin",
+        "street": "ul. 3 Maja",
+        "buildingId": "14",
+        "flatOrRoomId": "",
+        "postCode": "20-078",
+        "latitude": "51.25006909892723",
+        "longitude": "22.55782235606597"
+      },
+      "contacts": [
+        {
+          "phone": "+48815318889",
+          "eMail": "gc_pll@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://lublin.mfa.gov.ua/pl",
+            "pl": "https://lublin.mfa.gov.ua/pl",
+            "ru": "https://lublin.mfa.gov.ua/",
+            "uk": "https://lublin.mfa.gov.ua/"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Consulate General of Ukraine",
+        "pl": "Konsulat Generalny Ukrainy",
+        "ru": "Генеральне консульство України",
+        "uk": "Генеральне консульство України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "al. Beliny-Prażmowskiego",
+        "buildingId": "4",
+        "flatOrRoomId": "",
+        "postCode": "31-514",
+        "latitude": "50.0674179430582",
+        "longitude": "19.959114996445848"
+      },
+      "contacts": [
+        {
+          "phone": "+48124296066",
+          "eMail": "gc_plk@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://krakow.mfa.gov.ua/en",
+            "pl": "https://krakow.mfa.gov.ua/pl",
+            "ru": "https://krakow.mfa.gov.ua/",
+            "uk": "https://krakow.mfa.gov.ua/"
+          }
+        },
+        {
+          "phone": "+48124294522",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Consulate of Ukraine",
+        "pl": "Konsulat Ukrainy",
+        "ru": "Консульство України",
+        "uk": "Консульство України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-2261",
+      "location": {
+        "locality": "Gdańsk",
+        "street": "ul. Bernarda Chrzanowskiego",
+        "buildingId": "60-А",
+        "flatOrRoomId": "",
+        "postCode": "80-278",
+        "latitude": "54.38578552226191",
+        "longitude": "18.57945997744341"
+      },
+      "contacts": [
+        {
+          "phone": "+48607654333",
+          "eMail": "gc_plg@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://gdansk.mfa.gov.ua/",
+            "pl": "https://gdansk.mfa.gov.ua/",
+            "ru": "https://gdansk.mfa.gov.ua/",
+            "uk": "https://gdansk.mfa.gov.ua/"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Dom Studencki T-16 \"Tower\"",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0264",
+      "location": {
+        "locality": "Wrocław",
+        "street": "ul. Edwarda Wittiga",
+        "buildingId": "4",
+        "flatOrRoomId": "",
+        "postCode": "51-628",
+        "latitude": "51.10377711501138",
+        "longitude": "17.084961670070065"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Port Lotniczy",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0264",
+      "location": {
+        "locality": "Wrocław",
+        "street": "ul. Skarżyńskiego",
+        "buildingId": "36",
+        "flatOrRoomId": "",
+        "postCode": "54-530",
+        "latitude": "51.10487370760546",
+        "longitude": "16.90015466705063"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Hotel Kopernik",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0463",
+      "location": {
+        "locality": "Toruń",
+        "street": "ul. Wola Zamkowa",
+        "buildingId": "16",
+        "flatOrRoomId": "",
+        "postCode": "87-100",
+        "latitude": "53.011790123252815",
+        "longitude": "18.615402251204095"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Noclegi Pracownicze",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0463",
+      "location": {
+        "locality": "Bydgoszcz",
+        "street": "ul. Zygmunta Augusta",
+        "buildingId": "20",
+        "flatOrRoomId": "",
+        "postCode": "85-082",
+        "latitude": "53.13515995665331",
+        "longitude": "17.994620749211318"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Pałac Suchodolskich Gminny Ośrodek Kultury i Turystyki",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0603042",
+      "location": {
+        "locality": "Dorohusk–Osada",
+        "street": "ul. Parkowa",
+        "buildingId": "5",
+        "flatOrRoomId": "",
+        "postCode": "22-175",
+        "latitude": "51.16548363203273",
+        "longitude": "23.804791250911965"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Przygraniczne Centrum Kultury i Rekreacji",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0604022",
+      "location": {
+        "locality": "Dołhobyczów",
+        "street": " ul. Spółdzielcza",
+        "buildingId": "8",
+        "flatOrRoomId": "",
+        "postCode": "22-540",
+        "latitude": "50.58791542252863",
+        "longitude": "24.030823717298453"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Przygraniczne Centrum Kultury i Rekreacji",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0604032",
+      "location": {
+        "locality": "Horodło",
+        "street": " ul. Piłsudskiego",
+        "buildingId": "58",
+        "flatOrRoomId": "",
+        "postCode": "22-523",
+        "latitude": "50.892679681987815",
+        "longitude": "24.039067627738852"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Szkoła Podstawowa",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Back of the sports hall",
+        "pl": "Zaplecze hali sportowej",
+        "ru": "Задняя часть спортивного зала",
+        "uk": "Назад спортивного залу"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0618054",
+      "location": {
+        "locality": "Lubycza Królewska",
+        "street": " ul. Parkowa",
+        "buildingId": "1",
+        "flatOrRoomId": "",
+        "postCode": "22-680",
+        "latitude": "50.33950480050416",
+        "longitude": "23.521221594370903"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Miejski Ośrodek Sportu i Rekreacji",
+      "type": "receptionPoint",
+      "dbType": "new",
+    "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0662",
+      "location": {
+        "locality": "Chełm",
+        "street": " ul. Graniczna",
+        "buildingId": "2A",
+        "flatOrRoomId": "",
+        "postCode": "22-100",
+        "latitude": "51.12896139613835",
+        "longitude": "23.493050115444298"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Ośrodek Sportu i Rekreacji",
+      "type": "receptionPoint",
+      "dbType": "new",
+    "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0604011",
+      "location": {
+        "locality": "Hrubieszów",
+        "street": "ul. Ciesielczuka",
+        "buildingId": "2",
+        "flatOrRoomId": "",
+        "postCode": "22-500",
+        "latitude": "50.8076470375459",
+        "longitude": "23.88019402773721"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Ośrodek Sportu i Rekreacji",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0618011",
+      "location": {
+        "locality": "Tomaszów Lubelski",
+        "street": "Aleja Sportowa",
+        "buildingId": "8",
+        "flatOrRoomId": "",
+        "postCode": "22-600",
+        "latitude": "50.44899394635937",
+        "longitude": "23.401287156566617"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Hala OSiR",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0664011",
+      "location": {
+        "locality": "Zamość",
+        "street": "ul. Jana Zamojskiego",
+        "buildingId": "62a",
+        "flatOrRoomId": "",
+        "postCode": "22-400",
+        "latitude": "50.719939156450232",
+        "longitude": "23.28304032773539"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Gminny Ośrodek Kultury",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0604052",
+      "location": {
+        "locality": "Mircze",
+        "street": "ul. Kryłowska",
+        "buildingId": "18",
+        "flatOrRoomId": "",
+        "postCode": "22-530",
+        "latitude": "50.65090280762936",
+        "longitude": "23.8979607277341"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Zespół Szkół Nr 4",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0604011",
+      "location": {
+        "locality": "Hrubieszów",
+        "street": "ul. Grabowiecka",
+        "buildingId": "18J",
+        "flatOrRoomId": "",
+        "postCode": "22-500",
+        "latitude": "50.810680835272855",
+        "longitude": "23.869185670064144"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Urząd Wojewódzki",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-0861",
+      "location": {
+        "locality": "Gorzów Wielkopolski",
+        "street": "ul. Jagiellończyka",
+        "buildingId": "8",
+        "flatOrRoomId": "",
+        "postCode": "66-400",
+        "latitude": "52.73889298834938",
+        "longitude": "15.2302711854496335"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Łódzki Dom Kultury",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1061",
+      "location": {
+        "locality": "Łódź",
+        "street": "ul. Traugutta",
+        "buildingId": "18",
+        "flatOrRoomId": "",
+        "postCode": "90-113",
+        "latitude": "51.769241736998296",
+        "longitude": "19.46208464124699"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Dworzec Główny",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "At the entrance to the fourth platform from the ticket office side",
+        "pl": "Przy wejściu na czwarty peron od strony kas biletowych",
+        "ru": "На входе на четвертую платформу из билета",
+        "uk": "На в'їзді на четверту платформу з боку каса"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Pawia",
+        "buildingId": "18",
+        "flatOrRoomId": "",
+        "postCode": "31-154",
+        "latitude": "50.067763313632845",
+        "longitude": "19.94821064117231"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Dworzec PKP",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1263",
+      "location": {
+        "locality": "Tarnów",
+        "street": "Plac Dworcowy",
+        "buildingId": "1",
+        "flatOrRoomId": "",
+        "postCode": "33-100",
+        "latitude": "50.0056183830232",
+        "longitude": "20.974462503337886"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Dworzec PKS",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1212054",
+      "location": {
+        "locality": "Olkusz",
+        "street": "ul. Kazimierza Wielkiego",
+        "buildingId": "70",
+        "flatOrRoomId": "",
+        "postCode": "32-300",
+        "latitude": "50.27524367225402",
+        "longitude": "19.57244025999947"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Dworzec Warszawa Zachodnia",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1465",
+      "location": {
+        "locality": "Warszawa",
+        "street": " Al. Jerozolimskie",
+        "buildingId": "142",
+        "flatOrRoomId": "",
+        "postCode": "02-305",
+        "latitude": "52.21951245548323",
+        "longitude": "20.965474488645675"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "COS Torwar",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1465",
+      "location": {
+        "locality": "Warszawa",
+        "street": "ul. Łazienkowska",
+        "buildingId": "6A",
+        "flatOrRoomId": "",
+        "postCode": "00-449",
+        "latitude": "52.22242518990456",
+        "longitude": "21.042217816414365"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Dom Studenta „Sokrates”",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1661",
+      "location": {
+        "locality": "Opole",
+        "street": "ul. Małopolska",
+        "buildingId": "22",
+        "flatOrRoomId": "",
+        "postCode": "45-301",
+        "latitude": "50.672240789926335",
+        "longitude": "17.957211070061465"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Świetlica",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1804082",
+      "location": {
+        "locality": "Korczowa",
+        "street": "",
+        "buildingId": "155",
+        "flatOrRoomId": "",
+        "postCode": "37-552",
+        "latitude": "49.95625920845812",
+        "longitude": "23.079428298883766"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Hala sportowa",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1813062",
+      "location": {
+        "locality": "Medyka",
+        "street": "",
+        "buildingId": "285",
+        "flatOrRoomId": "",
+        "postCode": "37-732",
+        "latitude": "49.80571112778078",
+        "longitude": "22.93099177375561"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Szkoła Podstawowa w m. Krowica Sama ,  Krowica Sama",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1809042",
+      "location": {
+        "locality": "Krowica Sama",
+        "street": "",
+        "buildingId": "183",
+        "flatOrRoomId": "",
+        "postCode": "37-625",
+        "latitude": "50.1010683436203",
+        "longitude": "23.232508297030854"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Była Szkoła Podstawowa",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1801083",
+      "location": {
+        "locality": "Łodyna",
+        "street": "",
+        "buildingId": "41",
+        "flatOrRoomId": "",
+        "postCode": "38-700",
+        "latitude": "49.460396577534034",
+        "longitude": "22.594849755484837"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Centrum Handlu i Magazynowania Korczowa Dolina – Hala Kijowska",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1804082",
+      "location": {
+        "locality": "Młyny",
+        "street": "",
+        "buildingId": "90",
+        "flatOrRoomId": "",
+        "postCode": "37-552",
+        "latitude": "49.97123175017438",
+        "longitude": "23.038627091460885"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Dworzec kolejowy",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1862",
+      "location": {
+        "locality": "Przemyśl",
+        "street": "Plac Legionów",
+        "buildingId": "1",
+        "flatOrRoomId": "",
+        "postCode": "37-700",
+        "latitude": "49.7836135457487",
+        "longitude": "22.776384695519244"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Dworzec PKP",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-2061",
+      "location": {
+        "locality": "Białystok",
+        "street": "ul. Kolejowa",
+        "buildingId": "9",
+        "flatOrRoomId": "",
+        "postCode": "15-701",
+        "latitude": "53.13409441664071",
+        "longitude": "23.135397627784723"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Dom Harcerza",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-2261",
+      "location": {
+        "locality": "Gdańsk",
+        "street": "ul. Za murami",
+        "buildingId": "2",
+        "flatOrRoomId": "10",
+        "postCode": "15-701",
+        "latitude": "54.34848850027326",
+        "longitude": "18.64783302781027"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Urząd Wojewódzki",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-2661",
+      "location": {
+        "locality": "Kielce",
+        "street": "Al. IX Wieków Kielc",
+        "buildingId": "3",
+        "flatOrRoomId": "",
+        "postCode": "25-516",
+        "latitude": "50.875390379140164",
+        "longitude": "20.629356648166713"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Dworzec PKP",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-2469",
+      "location": {
+        "locality": "Katowice",
+        "street": "plac Wilhelma Szewczyka",
+        "buildingId": "2",
+        "flatOrRoomId": "",
+        "postCode": "40-097",
+        "latitude": "50.258267397944614",
+        "longitude": "19.016995741216665"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Miejskie Centrum Kultury",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-2469",
+      "location": {
+        "locality": "Katowice",
+        "street": "plac Sejmu Śląskiego",
+        "buildingId": "2",
+        "flatOrRoomId": "",
+        "postCode": "40-032",
+        "latitude": "50.2529766997212",
+        "longitude": "19.023284987255085"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Punkt recepcyjny",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-2862",
+      "location": {
+        "locality": "Olsztyn",
+        "street": "ul. Niepodległości ",
+        "buildingId": "53/55",
+        "flatOrRoomId": "",
+        "postCode": "11-041",
+        "latitude": "53.77255742089117",
+        "longitude": "20.478774652060515"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Międzynarodowe Targi Poznańskie",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-3064",
+      "location": {
+        "locality": "Poznań",
+        "street": "ul. Głogowska",
+        "buildingId": "14",
+        "flatOrRoomId": "",
+        "postCode": "60-734",
+        "latitude": "52.40280260641604",
+        "longitude": "16.90927486452918"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Punkt recepcyjny",
+      "type": "receptionPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-3262",
+      "location": {
+        "locality": "Szczecin",
+        "street": "Al. Piastów",
+        "buildingId": "40A",
+        "flatOrRoomId": "",
+        "postCode": "71-899",
+        "latitude": "53.41900455576961",
+        "longitude": "14.533892827790725"
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "reception",
+        "information",
+        "hotMeals",
+        "warmDrinks",
+        "temporaryAccommodation",
+        "restPlace",
+        "basicMedicalAssistance"
+      ]
+    }
+  ]
+}

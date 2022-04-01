@@ -1,0 +1,304 @@
+{
+  "services": [
+    {
+      "id": "reception",
+      "dbType": "new",
+      "name": {
+        "en": "Reception",
+        "pl": "Punkt recepcyjny",
+        "ru": "Стойка регистрации",
+        "uk": "Прийом"
+      }
+    },
+    {
+      "id": "information",
+      "dbType": "new",
+      "name": {
+        "en": "Information point",
+        "pl": "Punkt informacyjny",
+        "ru": "Информационная точка",
+        "uk": "Інформаційна точка"
+      }
+    },
+    {
+      "id": "hotMeals",
+      "dbType": "new",
+      "name": {
+        "en": "Hot meals",
+        "pl": "Gorące posiłki",
+        "ru": "Горячая еда",
+        "uk": "Гаряча страва"
+      }
+    },
+    {
+      "id": "takeawayFood",
+      "dbType": "new",
+      "name": {
+        "en": "Takeaway food",
+        "pl": "Jedzenie na wynos",
+        "ru": "Забрать",
+        "uk": "Приготування"
+      }
+    },
+    {
+      "id": "longTermFood",
+      "dbType": "new",
+      "name": {
+        "en": "Long-term food",
+        "pl": "Żywność długoterminowa",
+        "ru": "Долгосрочная еда",
+        "uk": "Довгострокова їжа"
+      }
+    },
+    {
+      "id": "foodForCooking",
+      "dbType": "new",
+      "name": {
+        "en": "Food for cooking",
+        "pl": "Żywność do gotowania",
+        "ru": "Еда для приготовления пищи",
+        "uk": "Їжа для приготування їжі"
+      }
+    },
+    {
+      "id": "warmDrinks",
+      "dbType": "new",
+      "name": {
+        "en": "Warm drinks",
+        "pl": "Ciepłe napoje",
+        "ru": "Теплые напитки",
+        "uk": "Теплий напій"
+      }
+    },
+    {
+      "id": "bottledDrinks",
+      "dbType": "new",
+      "name": {
+        "en": "Bottled drinks",
+        "pl": "Napoje butelkowane",
+        "ru": "Выпиты в бутылках",
+        "uk": "Пити в пляшках"
+      }
+    },
+    {
+      "id": "hygieneProducts",
+      "dbType": "new",
+      "name": {
+        "en": "Hygienic products",
+        "pl": "Produkty higieniczne",
+        "ru": "Гигиенические продукты",
+        "uk": "Гігієнічні продукти"
+      }
+    },
+    {
+      "id": "toys",
+      "dbType": "new",
+      "name": {
+        "en": "Toys",
+        "pl": "Zabawki",
+        "ru": "Игрушки",
+        "uk": "Іграшки"
+      }
+    },
+    {
+      "id": "clothes",
+      "dbType": "new",
+      "name": {
+        "en": "Clothes",
+        "pl": "Odzież",
+        "ru": "Одежда",
+        "uk": "Одяг"
+      }
+    },
+    {
+      "id": "articlesForChildren",
+      "dbType": "new",
+      "name": {
+        "en": "Articles for children",
+        "pl": "Artykuły dla dzieci",
+        "ru": "Статьи для детей",
+        "uk": "Статті для дітей"
+      }
+    },
+    {
+      "id": "restPlace",
+      "dbType": "new",
+      "name": {
+        "en": "A place for a rest",
+        "pl": "Miejsce na odpoczynek",
+        "ru": "Место для отдыха",
+        "uk": "Місце для відпочинку"
+      }
+    },
+    {
+      "id": "nightShelter",
+      "dbType": "new",
+      "name": {
+        "en": "Night shelter",
+        "pl": "Nocleg",
+        "ru": "Ночное укрытие",
+        "uk": "Нічний притулок"
+      }
+    },
+    {
+      "id": "temporaryAccommodation",
+      "dbType": "new",
+      "name": {
+        "en": "Temporary accommodation",
+        "pl": "Tymczasowe zakwaterowanie",
+        "ru": "Временное проживание",
+        "uk": "Тимчасове розміщення"
+      }
+    },
+    {
+      "id": "longTermAccommodation",
+      "dbType": "new",
+      "name": {
+        "en": "Long term accommodation",
+        "pl": "Długoterminowe zakwaterowanie",
+        "ru": "Долгосрочное размещение",
+        "uk": "Довгострокові номери"
+      }
+    },
+    {
+      "id": "office",
+      "dbType": "new",
+      "name": {
+        "en": "Office",
+        "pl": "Urząd",
+        "ru": "Офис",
+        "uk": "Офіс"
+      }
+    },
+    {
+      "id": "jobOffers",
+      "dbType": "new",
+      "name": {
+        "en": "Job offers",
+        "pl": "Oferty pracy",
+        "ru": "Предложения о работе",
+        "uk": "Пропозиції роботи"
+      }
+    },
+    {
+      "id": "languageSchool",
+      "dbType": "new",
+      "name": {
+        "en": "Language school",
+        "pl": "Szkoła językowa",
+        "ru": "Языковая школа",
+        "uk": "Мовна школа"
+      }
+    },
+    {
+      "id": "primarySchool",
+      "dbType": "new",
+      "name": {
+        "en": "Primary school",
+        "pl": "Szkoła Podstawowa",
+        "ru": "Начальная школа",
+        "uk": "Початкова школа"
+      }
+    },
+    {
+      "id": "secondarySchool",
+      "dbType": "new",
+      "name": {
+        "en": "Secondary school",
+        "pl": "Szkoła średnia",
+        "ru": "Средняя школа",
+        "uk": "Середня школа"
+      }
+    },
+    {
+      "id": "kindergarten",
+      "dbType": "new",
+      "name": {
+        "en": "Kindergarten",
+        "pl": "Przedszkole",
+        "ru": "Детский сад",
+        "uk": "Дитячий сад"
+      }
+    },
+    {
+      "id": "nursery",
+      "dbType": "new",
+      "name": {
+        "en": "Nursery",
+        "pl": "Żłobek",
+        "ru": "Питомник",
+        "uk": "Розплідник"
+      }
+    },
+    {
+      "id": "police",
+      "dbType": "new",
+      "name": {
+        "en": "Police",
+        "pl": "Policja",
+        "ru": "Полиция",
+        "uk": "Поліцейський"
+      }
+    },
+    {
+      "id": "basicMedicalAssistance",
+      "dbType": "new",
+      "name": {
+        "en": "Basic medical assistance",
+        "pl": "Podstawowa opieka medyczna",
+        "ru": "Основная медицинская помощь",
+        "uk": "Основна медична допомога"
+      }
+    },
+    {
+      "id": "medicalAssistanceForChildren",
+      "dbType": "new",
+      "name": {
+        "en": "Medical assistance for children",
+        "pl": "Pomoc medyczna dla dzieci",
+        "ru": "Медицинская помощь для детей",
+        "uk": "Медична допомога для дітей"
+      }
+    },
+    {
+      "id": "COVID-19vaccinations",
+      "dbType": "new",
+      "name": {
+        "en": "COVID-19 vaccinations",
+        "pl": "Szczepienia Covid-19",
+        "ru": "Covid-19 прививки",
+        "uk": "Вакцинація з вакцинації Covid-19"
+      }
+    },
+    {
+      "id": "COVID-19test",
+      "dbType": "new",
+      "name": {
+        "en": "COVID-19 test",
+        "pl": "Test Covid-19",
+        "ru": "Тест COVID-19",
+        "uk": "Тест Covid-19"
+      }
+    },
+    {
+      "id": "firstAidStation",
+      "dbType": "new",
+      "name": {
+        "en": "First Aid Station",
+        "pl": "SOR",
+        "ru": "Станция скорой помощи",
+        "uk": "Станція швидкої допомоги"
+      }
+    },
+    {
+      "id": "diplomatic",
+      "dbType": "new",
+      "name": {
+        "en": "Diplomatic",
+        "pl": "Placówka dyplomatyczna",
+        "ru": "Дипломатический",
+        "uk": "Дипломатичний"
+      }
+    }
+  ]
+}
