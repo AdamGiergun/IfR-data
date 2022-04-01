@@ -7,7 +7,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#objectives">Objectives</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#Contribution">Roadmap</a></li>
+    <li><a href="#contribution">Contribution</a></li>
     <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
