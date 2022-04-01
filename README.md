@@ -19,14 +19,15 @@
 Part of a project created as a quick response to a huge humanitarian crisis caused by the War on Ukraine.
 It is repository containing list of spots providing help to Ukrainian refugees and used by my Android app, [available here](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees). 
 Spots can have physical addresses, phone numbers, e-mails, websites, info about services provided, etc..
-As filling this data for as many as possible spots in a short time is "mission impossible" for one person I need help.
-Below one will be able to find instructions for providing this data.
+
+ As filling this data for as many as possible spots in a short time is "mission impossible" for one person I need help.
+Below are instructions for entering this data.
 
 ### Objectives
 
 Short term:
 * Create a list of (at least) most of the spots providing help for refugees.
-* Provide better translations ([let me know](mailto:adam.giergun@gmail.com) (please, start e-mail subject with #IfR: ) if you are willing to do it)
+* Provide better translations ([let me know](mailto:adam.giergun@gmail.com) (please, start e-mail subject with #IfR-data: ) if you are willing to do it)
 
 Long term: 
 * Create tools for entering data to the database (like a some nice web interface).
