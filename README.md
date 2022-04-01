@@ -35,8 +35,11 @@ Short term:
 * Create a list of (at least) most of the spots providing help for refugees.
 * Provide better translations ([let me know](mailto:adam.giergun@gmail.com) (please, start e-mail subject with #IfR-data: ) if you are willing to do it)
 
-Long term: 
+Longer term: 
 * Create tools for entering data to the database (like a some nice web interface).
+
+Much longer term:
+* Unfortunately this refugee crisis is not the only one. I hope to convert this project into permanent, to serve in any similar crisis. Please feel free to contact me if you want to help me achieve it: [my e-mail](mailto:adam.giergun@gmail.com) #IfR-permanent:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
