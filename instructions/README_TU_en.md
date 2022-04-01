@@ -17,4 +17,5 @@ Examples of fulfilled territorial unit data are to be found [here](https://githu
             "ru": "Вроцлав",
             "uk": "Вроцлав"
     }},
-   - I hope it's quite self-explanatory 
+   - I hope it's quite self-explanatory. It is possible to use any official language acronym from [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).
+     (use "Subtag:" of "Type: language")
