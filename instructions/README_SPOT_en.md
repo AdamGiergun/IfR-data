@@ -74,8 +74,10 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
 "name": "",
  - contact person name (if needed)
 
-"services": [],
- - use it only if there are services served only by specific contacts, look at the end for services explanation
+"services": []
+- use it only if there are services served only by specific contacts, look at the end for services explanation
+
+},
 
 "www": {
    - use it if there is spot's website available. If there is only one website's language version use "en" and delete the rest (and commas).
