@@ -1,15 +1,15 @@
 {
   "spots": [
     {
-      "id": "1",
+      "id": "101",
       "name": "",
       "type": "office",
       "dbType": "new",
       "descriptionShort": {
-        "en": "The Ministry of Internal Affairs and Administration",
-        "pl": "Ministerstwo Spraw Wewnętrznych i Administracji",
-        "ru": "Министерство внутренних дел и администрация",
-        "uk": "Міністерство внутрішніх справ та адміністрації"
+        "en": "The Ministry of Internal Affairs and Administration - Call Center",
+        "pl": "Ministerstwo Spraw Wewnętrznych i Administracji - Infolinia telefoniczna",
+        "ru": "Министерство внутренних дел и администрация - Call Center",
+        "uk": "Міністерство внутрішніх справ та адміністрації - Коллцентр"
       },
       "descriptionLong": {
         "en": "",
@@ -24,8 +24,8 @@
         "buildingId": "",
         "flatOrRoomId": "",
         "postCode": "",
-        "latitude": "0.0",
-        "longitude": "0.0"
+        "latitude": "52.211573587200164",
+        "longitude": "21.01666334311178"
       },
       "contacts": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "201",
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -93,7 +93,197 @@
       ]
     },
     {
-      "id": "3",
+      "id": "202",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Embassy of Ukraine",
+        "ro": "Ambasada Ucraineană",
+        "ru": "Посольство Украины",
+        "uk": "Посольство України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "MD",
+      "location": {
+        "locality": "Кишинів",
+        "street": "вул. Васілє Лупу",
+        "buildingId": "17",
+        "flatOrRoomId": "",
+        "postCode": "2008",
+        "latitude": "47.02207385985123",
+        "longitude": "28.811274642510337"
+      },
+      "contacts": [
+        {
+          "phone": "+37322582284",
+          "eMail": "consul_md@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://moldova.mfa.gov.ua/",
+            "ru": "https://moldova.mfa.gov.ua/ru",
+            "uk": "https://moldova.mfa.gov.ua/"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "203",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Embassy of Ukraine",
+        "ro": "Ambasada Ucraineană",
+        "ru": "Посольство Украины",
+        "uk": "Посольство України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "RO",
+      "location": {
+        "locality": "Bucureşti",
+        "street": "Bulevardul Aviatorilor",
+        "buildingId": "24",
+        "flatOrRoomId": "Sector 1",
+        "postCode": "011 862",
+        "latitude": "44.458475255581625",
+        "longitude": "26.08783456894492"
+      },
+      "contacts": [
+        {
+          "phone": "+40212303660",
+          "eMail": "consul_ro@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://romania.mfa.gov.ua/ro",
+            "ro": "https://romania.mfa.gov.ua/ro",
+            "ru": "https://romania.mfa.gov.ua/",
+            "uk": "https://romania.mfa.gov.ua/"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "204",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Embassy of Ukraine",
+        "hu": "Ukrajna Nagykövetsége",
+        "ru": "Посольство Украины",
+        "uk": "Посольство України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "HU",
+      "location": {
+        "locality": "Budapest",
+        "street": "Istenhegyi út",
+        "buildingId": "84/B",
+        "flatOrRoomId": "",
+        "postCode": "1125",
+        "latitude": "47.50552307272443",
+        "longitude": "18.993912773711585"
+      },
+      "contacts": [
+        {
+          "phone": "+3614224120",
+          "eMail": "emb_hu@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://hungary.mfa.gov.ua/en",
+            "hu": "https://hungary.mfa.gov.ua/hu",
+            "ru": "https://hungary.mfa.gov.ua/",
+            "uk": "https://hungary.mfa.gov.ua/"
+          }
+        },
+        {
+          "phone": "+3614224122"
+        },
+        {
+          "phone": "+3614224123"
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+
+    {
+      "id": "205",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Embassy of Ukraine",
+        "sk": "Veľvyslanectvо Ukrajiny",
+        "ru": "Посольство Украины",
+        "uk": "Посольство України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "SK",
+      "location": {
+        "locality": "Bratislava",
+        "street": "Radvanská",
+        "buildingId": "35",
+        "flatOrRoomId": "",
+        "postCode": "811 01",
+        "latitude": "48.148158621568626",
+        "longitude": "17.08758912482981"
+      },
+      "contacts": [
+        {
+          "phone": "+421259202816",
+          "eMail": "consul_sk@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://slovakia.mfa.gov.ua/",
+            "sk": "https://slovakia.mfa.gov.ua/sk",
+            "ru": "https://slovakia.mfa.gov.ua/",
+            "uk": "https://slovakia.mfa.gov.ua/"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "301",
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -139,7 +329,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "302",
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -180,17 +370,7 @@
           }
         },
         {
-          "phone": "+48124294522",
-          "eMail": "",
-          "sms": "",
-          "name": "",
-          "services": [],
-          "www": {
-            "en": "",
-            "pl": "",
-            "ru": "",
-            "uk": ""
-          }
+          "phone": "+48124294522"
         }
       ],
       "services": [
@@ -198,7 +378,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "303",
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -244,7 +424,56 @@
       ]
     },
     {
-      "id": "6",
+      "id": "304",
+      "name": "",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Consulate of Ukraine",
+        "hu": "Konzulátus Ukrajna",
+        "ru": "Консульство України",
+        "uk": "Консульство України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "HU",
+      "location": {
+        "locality": "Nyíregyháza",
+        "street": "Korányi Frigyes u.",
+        "buildingId": "123",
+        "flatOrRoomId": "",
+        "postCode": "4400",
+        "latitude": "47.984622752869605",
+        "longitude": "21.729154898845696"
+      },
+      "contacts": [
+        {
+          "phone": "+3642501012",
+          "eMail": "gc_hun@mfa.gov.ua",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://nyiregyhaza.mfa.gov.ua/",
+            "pl": "https://nyiregyhaza.mfa.gov.ua/hu",
+            "ru": "https://nyiregyhaza.mfa.gov.ua/",
+            "uk": "https://nyiregyhaza.mfa.gov.ua/"
+          }
+        },
+        {
+          "phone": "+3642501015"
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": "1001",
       "name": "Dom Studencki T-16 \"Tower\"",
       "type": "receptionPoint",
       "dbType": "new",
@@ -296,7 +525,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "1002",
       "name": "Port Lotniczy",
       "type": "receptionPoint",
       "dbType": "new",
@@ -348,7 +577,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "1003",
       "name": "Hotel Kopernik",
       "type": "receptionPoint",
       "dbType": "new",
@@ -400,7 +629,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "1004",
       "name": "Noclegi Pracownicze",
       "type": "receptionPoint",
       "dbType": "new",
@@ -452,7 +681,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "1005",
       "name": "Pałac Suchodolskich Gminny Ośrodek Kultury i Turystyki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -504,7 +733,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "1006",
       "name": "Przygraniczne Centrum Kultury i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -556,7 +785,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "1007",
       "name": "Przygraniczne Centrum Kultury i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -608,7 +837,7 @@
       ]
     },
     {
-      "id": "13",
+      "id": "1008",
       "name": "Szkoła Podstawowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -660,11 +889,11 @@
       ]
     },
     {
-      "id": "14",
+      "id": "1009",
       "name": "Miejski Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
-    "descriptionShort": {
+      "descriptionShort": {
         "en": "",
         "pl": "",
         "ru": "",
@@ -712,11 +941,11 @@
       ]
     },
     {
-      "id": "15",
+      "id": "1010",
       "name": "Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
-    "descriptionShort": {
+      "descriptionShort": {
         "en": "",
         "pl": "",
         "ru": "",
@@ -764,7 +993,7 @@
       ]
     },
     {
-      "id": "16",
+      "id": "1011",
       "name": "Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -816,7 +1045,7 @@
       ]
     },
     {
-      "id": "17",
+      "id": "1012",
       "name": "Hala OSiR",
       "type": "receptionPoint",
       "dbType": "new",
@@ -868,7 +1097,7 @@
       ]
     },
     {
-      "id": "18",
+      "id": "1013",
       "name": "Gminny Ośrodek Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -920,7 +1149,7 @@
       ]
     },
     {
-      "id": "19",
+      "id": "1014",
       "name": "Zespół Szkół Nr 4",
       "type": "receptionPoint",
       "dbType": "new",
@@ -972,7 +1201,7 @@
       ]
     },
     {
-      "id": "20",
+      "id": "1015",
       "name": "Urząd Wojewódzki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1024,7 +1253,7 @@
       ]
     },
     {
-      "id": "21",
+      "id": "1016",
       "name": "Łódzki Dom Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1076,7 +1305,7 @@
       ]
     },
     {
-      "id": "22",
+      "id": "1017",
       "name": "Dworzec Główny",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1128,7 +1357,7 @@
       ]
     },
     {
-      "id": "23",
+      "id": "1018",
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1180,7 +1409,7 @@
       ]
     },
     {
-      "id": "24",
+      "id": "1019",
       "name": "Dworzec PKS",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1232,7 +1461,7 @@
       ]
     },
     {
-      "id": "25",
+      "id": "1020",
       "name": "Dworzec Warszawa Zachodnia",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1284,7 +1513,7 @@
       ]
     },
     {
-      "id": "26",
+      "id": "1021",
       "name": "COS Torwar",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1336,7 +1565,7 @@
       ]
     },
     {
-      "id": "27",
+      "id": "1022",
       "name": "Dom Studenta „Sokrates”",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1388,7 +1617,7 @@
       ]
     },
     {
-      "id": "28",
+      "id": "1023",
       "name": "Świetlica",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1440,7 +1669,7 @@
       ]
     },
     {
-      "id": "29",
+      "id": "1024",
       "name": "Hala sportowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1492,7 +1721,7 @@
       ]
     },
     {
-      "id": "30",
+      "id": "1025",
       "name": "Szkoła Podstawowa w m. Krowica Sama ,  Krowica Sama",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1544,7 +1773,7 @@
       ]
     },
     {
-      "id": "31",
+      "id": "1026",
       "name": "Była Szkoła Podstawowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1596,7 +1825,7 @@
       ]
     },
     {
-      "id": "32",
+      "id": "1027",
       "name": "Centrum Handlu i Magazynowania Korczowa Dolina – Hala Kijowska",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1648,7 +1877,7 @@
       ]
     },
     {
-      "id": "33",
+      "id": "1028",
       "name": "Dworzec kolejowy",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1700,7 +1929,7 @@
       ]
     },
     {
-      "id": "34",
+      "id": "1029",
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1752,7 +1981,7 @@
       ]
     },
     {
-      "id": "35",
+      "id": "1030",
       "name": "Dom Harcerza",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1804,7 +2033,7 @@
       ]
     },
     {
-      "id": "36",
+      "id": "1031",
       "name": "Urząd Wojewódzki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1856,7 +2085,7 @@
       ]
     },
     {
-      "id": "37",
+      "id": "1032",
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1908,7 +2137,7 @@
       ]
     },
     {
-      "id": "38",
+      "id": "1033",
       "name": "Miejskie Centrum Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1960,7 +2189,7 @@
       ]
     },
     {
-      "id": "39",
+      "id": "1034",
       "name": "Punkt recepcyjny",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2012,7 +2241,7 @@
       ]
     },
     {
-      "id": "40",
+      "id": "1035",
       "name": "Międzynarodowe Targi Poznańskie",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2064,7 +2293,7 @@
       ]
     },
     {
-      "id": "41",
+      "id": "1036",
       "name": "Punkt recepcyjny",
       "type": "receptionPoint",
       "dbType": "new",

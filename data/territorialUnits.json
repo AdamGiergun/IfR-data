@@ -2,122 +2,158 @@
   "territorialUnits":
   [
     {
-        "id": "PL",
-        "dbType": "new",
-        "name": {
-            "en": "Poland",
-            "pl": "Polska",
-            "ru": "Польша",
-            "uk": "Польща"
-    }}, 
-    {
-        "id": "PL-02",
-        "dbType": "new",
-        "name": {
-            "en": "Lower Silesian Voivodeship",
-            "pl": "Województwo dolnośląskie",
-            "ru": "Нижнесилезское воеводство",
-            "uk": "Нижньосілезьке воєводство"
-    }},
-    {
-        "id": "PL-0264",
-        "dbType": "new",
-        "name": {
-            "en": "Wroclaw",
-            "pl": "Wrocław",
-            "ru": "Вроцлав",
-            "uk": "Вроцлав"
-    }},
-    {
-        "id": "PL-04",
-        "dbType": "new",
-        "name": {
-            "en": "Kuyavian-Pomeranian Voivodeship",
-            "pl": "Województwo kujawsko-pomorskie",
-            "ru": "Куявско-Поморское воеводство",
-            "uk": "Куявсько-Поморське воєводство"
-    }},
-    {
-        "id": "PL-0463",
-        "dbType": "new",
-        "name": {
-            "en": "Toruń",
-            "pl": "Toruń",
-            "ru": "Торунь",
-            "uk": "Торунь"
-    }},
-    {
-        "id": "PL-0461",
-        "dbType": "new",
-        "name": {
-            "en": "Bydgoszcz",
-            "pl": "Bydgoszcz",
-            "ru": "Быдгощ",
-            "uk": "Бидгощ"
-    }},
-    {
-        "id": "PL-06",
+      "id": "PL",
       "dbType": "new",
-        "name": {
-            "en": "Lublin Voivodeship",
-            "pl": "Województwo lubelskie",
-            "ru": "Люблинское воеводство",
-            "uk": "Люблінське воєводство"
-    }},
+      "name": {
+        "en": "Poland",
+        "pl": "Polska",
+        "ru": "Польша",
+        "uk": "Польща"
+      }},
     {
-        "id": "PL-0603",
-        "dbType": "new",
-        "name": {
-            "en": "Chełm County",
-            "pl": "Powiat chełmski",
-            "ru": "Хелмский повет",
-            "uk": "Холмський повіт"
-    }},
+      "id": "MD",
+      "dbType": "new",
+      "name": {
+        "en": "Moldova",
+        "ro": "Молдова",
+        "ru": "Молдавия",
+        "uk": "Молдова"
+      }},
     {
-        "id": "PL-0603042",
-        "dbType": "new",
-        "name": {
-            "en": "Gmina Dorohusk",
-            "pl": "Gmina Dorohusk",
-            "ru": "Дорохуск (гмина)",
-            "uk": "Дорогуськ (гміна)"
-    }},
+      "id": "RO",
+      "dbType": "new",
+      "name": {
+        "en": "Romania",
+        "ro": "România",
+        "ru": "Румыния",
+        "uk": "Румунія"
+      }},
     {
-        "id": "PL-0604",
-        "dbType": "new",
-        "name": {
-            "en": "Hrubieszów County",
-            "pl": "Powiat hrubieszowski",
-            "ru": "Хрубешувский повет",
-            "uk": "Грубешівський повіт"
-    }},
+      "id": "HU",
+      "dbType": "new",
+      "name": {
+        "en": "Hungary",
+        "hu": "Magyarország",
+        "ru": "Венгрия",
+        "uk": "Угорщина"
+      }},
     {
-        "id": "PL-0604011",
-        "dbType": "new",
-        "name": {
-            "en": "Hrubieszów",
-            "pl": "Hrubieszów",
-            "ru": "Хрубешув",
-            "uk": "Грубешів"
-    }},
+      "id": "SK",
+      "dbType": "new",
+      "name": {
+        "en": "Slovakia",
+        "sk": "Slovensko",
+        "ru": "Словакия",
+        "uk": "Словаччина"
+      }},
     {
-        "id": "PL-0604022",
-        "dbType": "new",
-        "name": {
-            "en": "Gmina Dołhobyczów",
-            "pl": "Gmina Dołhobyczów",
-            "ru": "Долхобычув (гмина)",
-            "uk": "Долобичів (гміна)"
-    }},
+      "id": "PL-02",
+      "dbType": "new",
+      "name": {
+        "en": "Lower Silesian Voivodeship",
+        "pl": "Województwo dolnośląskie",
+        "ru": "Нижнесилезское воеводство",
+        "uk": "Нижньосілезьке воєводство"
+      }},
     {
-        "id": "PL-0604032",
-        "dbType": "new",
-        "name": {
-            "en": "Gmina Horodło",
-            "pl": "Gmina Horodło",
-            "ru": "Хородло (гмина)",
-            "uk": "Городло (гміна)"
-    }},
+      "id": "PL-0264",
+      "dbType": "new",
+      "name": {
+        "en": "Wroclaw",
+        "pl": "Wrocław",
+        "ru": "Вроцлав",
+        "uk": "Вроцлав"
+      }},
+    {
+      "id": "PL-04",
+      "dbType": "new",
+      "name": {
+        "en": "Kuyavian-Pomeranian Voivodeship",
+        "pl": "Województwo kujawsko-pomorskie",
+        "ru": "Куявско-Поморское воеводство",
+        "uk": "Куявсько-Поморське воєводство"
+      }},
+    {
+      "id": "PL-0463",
+      "dbType": "new",
+      "name": {
+        "en": "Toruń",
+        "pl": "Toruń",
+        "ru": "Торунь",
+        "uk": "Торунь"
+      }},
+    {
+      "id": "PL-0461",
+      "dbType": "new",
+      "name": {
+        "en": "Bydgoszcz",
+        "pl": "Bydgoszcz",
+        "ru": "Быдгощ",
+        "uk": "Бидгощ"
+      }},
+    {
+      "id": "PL-06",
+      "dbType": "new",
+      "name": {
+        "en": "Lublin Voivodeship",
+        "pl": "Województwo lubelskie",
+        "ru": "Люблинское воеводство",
+        "uk": "Люблінське воєводство"
+      }},
+    {
+      "id": "PL-0603",
+      "dbType": "new",
+      "name": {
+        "en": "Chełm County",
+        "pl": "Powiat chełmski",
+        "ru": "Хелмский повет",
+        "uk": "Холмський повіт"
+      }},
+    {
+      "id": "PL-0603042",
+      "dbType": "new",
+      "name": {
+        "en": "Gmina Dorohusk",
+        "pl": "Gmina Dorohusk",
+        "ru": "Дорохуск (гмина)",
+        "uk": "Дорогуськ (гміна)"
+      }},
+    {
+      "id": "PL-0604",
+      "dbType": "new",
+      "name": {
+        "en": "Hrubieszów County",
+        "pl": "Powiat hrubieszowski",
+        "ru": "Хрубешувский повет",
+        "uk": "Грубешівський повіт"
+      }},
+    {
+      "id": "PL-0604011",
+      "dbType": "new",
+      "name": {
+        "en": "Hrubieszów",
+        "pl": "Hrubieszów",
+        "ru": "Хрубешув",
+        "uk": "Грубешів"
+      }},
+    {
+      "id": "PL-0604022",
+      "dbType": "new",
+      "name": {
+        "en": "Gmina Dołhobyczów",
+        "pl": "Gmina Dołhobyczów",
+        "ru": "Долхобычув (гмина)",
+        "uk": "Долобичів (гміна)"
+      }},
+    {
+      "id": "PL-0604032",
+      "dbType": "new",
+      "name": {
+        "en": "Gmina Horodło",
+        "pl": "Gmina Horodło",
+        "ru": "Хородло (гмина)",
+        "uk": "Городло (гміна)"
+      }},
     {
       "id": "PL-0604052",
       "dbType": "new",
@@ -128,14 +164,14 @@
         "uk": "Мірче"
       }},
     {
-        "id": "PL-0618",
-        "dbType": "new",
-        "name": {
-            "en": "Tomaszów County",
-            "pl": "Powiat tomaszowski",
-            "ru": "Томашувский повет",
-            "uk": "Томашівський повіт"
-    }},
+      "id": "PL-0618",
+      "dbType": "new",
+      "name": {
+        "en": "Tomaszów County",
+        "pl": "Powiat tomaszowski",
+        "ru": "Томашувский повет",
+        "uk": "Томашівський повіт"
+      }},
     {
       "id": "PL-0618011",
       "dbType": "new",
@@ -146,23 +182,23 @@
         "uk": "Томашів-Любельський"
       }},
     {
-        "id": "PL-0618054",
-        "dbType": "new",
-        "name": {
-            "en": "Lubycza Królewska",
-            "pl": "Lubycza Królewska",
-            "ru": "Любыча-Крулевская",
-            "uk": "Любича Королівська"
-    }},
+      "id": "PL-0618054",
+      "dbType": "new",
+      "name": {
+        "en": "Lubycza Królewska",
+        "pl": "Lubycza Królewska",
+        "ru": "Любыча-Крулевская",
+        "uk": "Любича Королівська"
+      }},
     {
-        "id": "PL-0662",
-        "dbType": "new",
-        "name": {
-            "en": "Chełm",
-            "pl": "Chełm",
-            "ru": "Хелм",
-            "uk": "Холм"
-    }},
+      "id": "PL-0662",
+      "dbType": "new",
+      "name": {
+        "en": "Chełm",
+        "pl": "Chełm",
+        "ru": "Хелм",
+        "uk": "Холм"
+      }},
     {
       "id": "PL-0663",
       "dbType": "new",
