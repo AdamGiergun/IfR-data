@@ -7,7 +7,7 @@
     <li><a href="#about-the-project">O projekcie</a></li>
     <li><a href="#objectives">Cele</a></li>
     <li><a href="#built-with">Stworzony przy pomocy</a></li>
-    <li><a href="#contribution">Kontrybucja</a>
+    <li><a href="#contribution">Jak można wesprzeć ten projekt</a>
     <ol>
     <li><a href="#translations">&nbsp;&nbsp;&nbsp;&nbsp;Tłumaczenia</a></li>
     <li><a href="#spot">&nbsp;&nbsp;&nbsp;&nbsp;Spot</a></li>
@@ -20,7 +20,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-### About The Project
+### O projekcie
 
 Część projektu stworzonego, jako szybka odpowiedź na ogromny kryzys humanitarny wywołany wojną na Ukrainie.<br>
 Jest to repozytorium zawierające listę miejsc udzielających pomocy ukraińskim uchodźcom i wykorzystywane przez moją aplikację na Androida, [dostępna tutaj](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
@@ -29,7 +29,7 @@ Miejsca mogą posiadać adresy, numery telefonów, e-maile, strony internetowe, 
 Ponieważ wprowadzenie tych danych dla jak największej liczby miejsc w krótkim czasie jest dla jednej osoby "mission impossible", to zdecydowanie potrzebuję pomocy.<br>
 Poniżej znajdują się instrukcje dotyczące przygotowywania tych danych.
 
-### Objectives
+### Cele
 
 Krótkoterminowe:
 * Stworzy listę (przynajmniej) większości miejsc udzielających pomocy uchodźcom.
@@ -41,11 +41,11 @@ Dłuższoterminowe:
 * Stworzyć narzędzia do wprowadzania danych do bazy (np. jakiś wygodny interfejs przeglądarkowy).
 * Utwórz interfejs użytkownika dla innych platform.
 
-Znacznie dłużej:
+Długoterminowe:
 * Niestety ten kryzys uchodźczy nie jest jedynym. Mam nadzieję przekształcić ten projekt w stały, by mógł służyć pomocą w każdym podobnym kryzysie. Zapraszam do kontaktu, jeśli chcesz mi w tym pomóc: [mój e-mail to](mailto:adam.giergun@gmail.com) - pamiętaj wtedy o `#IfR-permanent: `w temacie e-maila.
 <p align="right">(<a href="#top">powrót</a>)</p>
 
-### Built With
+### Stworzony przy pomocy
 
 * [Android Studio](https://developer.android.com/studio)
 
@@ -53,12 +53,12 @@ Znacznie dłużej:
 
 <!-- CONTRIBUTION -->
 
-### Contribution
+### Jak można wesprzeć ten projekt
 
 Najlepszym sposobem na wsparcie tego projektu będzie dostarczenie mi [tłumaczeń](https://github.com/AdamGiergun/IfR-data#translations) oraz danych aplikacji w formacie JSON, zgodnie z proponowanym przeze mnie standardem.<br>
 Używanie Android Studio do wprowadzania danych nie jest koniecznością, więc spójrz na [informacje o alternatywach](https://github.com/AdamGiergun/IfR-data/issues/1)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;Translations
+### &nbsp;&nbsp;&nbsp;&nbsp;Tłumaczenia
 * Potrzebne są dobre tłumaczenia dla wszystkich plików README w tym repozytorium, a także dla [strings](https://github.com/AdamGiergun/IfR-data/blob/main/data/strings.xml) używanych w aplikacji.
 
 Dane są podzielone na trzy rodzaje: [spot](https://github.com/AdamGiergun/IfR-data#spot), [territorial unit](https://github.com/AdamGiergun/IfR-data#territorial-unit) i [service](https://github.com/AdamGiergun/IfR-data#service).
