@@ -1,5 +1,6 @@
     SERVICE
-```{
+```
+    {
       "id": "",
       "dbType": "new",
       "name": {
@@ -11,7 +12,8 @@
     }
 ```
     TERRITORIAL UNIT
-```{
+```
+    {
       "id": "PL",
       "dbType": "new",
       "name": {
@@ -22,7 +24,8 @@
       }}
 ```
     SPOT
-```{
+```
+    {
       "id": "",
       "name": "",
       "type": "",
