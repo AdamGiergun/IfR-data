@@ -18,10 +18,10 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
  - for e new spot leave "new", otherwise use "update, or "delete" to let me know what am I supposed to do with it (remember to use existing id, as explained earlier).
 ```
 "descriptionShort": {
-"en": "",
-"pl": "",
-"ru": "",
-"uk": ""
+   "en": "",
+   "pl": "",
+   "ru": "",
+   "uk": ""
 },
 ```
  - use it for translated name (as explained in "name"), or some additional info. As for languages, these are not limited to these in example. You can use any acronym.
@@ -29,10 +29,10 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
    (use "Subtag:" of "Type: language")
 ```
 "descriptionLong": {
-"en": "",
-"pl": "",
-"ru": "",
-"uk": ""
+   "en": "",
+   "pl": "",
+   "ru": "",
+   "uk": ""
 },
 ```
  - field left for future use for some elaborate info, feel free to use it, I'll find the way of displaying it. 
@@ -48,28 +48,28 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
 ```
  - any field here can be left empty if not needed
 ```
-"locality": "",
+   "locality": "",
 ```
  - name of city, town, or village
 ```
-"street": "",
+   "street": "",
 ```
  - name of the street
 ```
-"buildingId": "",
+   "buildingId": "",
 ```
  - not always a number, it can look like 12B, or F
 ```
-"flatOrRoomId": "",
+   "flatOrRoomId": "",
 ```
  - not always a number, it can look like 12B, or F
 ```
-"postCode": "",
+   "postCode": "",
 ```
  - I hope it's obvious
 ```
-"latitude": "0.0",
-"longitude": "0.0"
+   "latitude": "0.0",
+   "longitude": "0.0"
 ```
  - geographic coordinates of the spot. One of the easiest ways of finding it will be opening Google Maps, marking the spot and pressing mark icon or clicking it with mouse's right button. 
    Then on computer with mouse's left button you can copy coordinates to the clipboard.
@@ -79,15 +79,15 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
 ```
  - if there is more then one contact for the spot multiply part included in {} separating it with commas 
 ```
-{
-"phone": "",
-"eMail": "",
-"sms": "",
-"name": "",
+   {
+      "phone": "",
+      "eMail": "",
+      "sms": "",
+      "name": "",
 ```
  - contact person name (if needed)
 ```
-"services": []
+   "services": []
 ```
 - use it only if there are services served only by specific contacts, look at the end for services explanation
 ```
@@ -103,10 +103,10 @@ Examples of fulfilled spot data are to be found [here](https://github.com/AdamGi
 ```
 - use it if there is spot's website available. If there is only one website's language version use "en" and delete the rest (and commas).
 ```
-   "services": [
-      "example1",
-      "example2"   
-   ]
+"services": [
+   "example1",
+   "example2"   
+]
 }
 ```
  - list of services' ids available at the spot. List of services is available [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json) and expandable.
