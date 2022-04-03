@@ -1,4 +1,4 @@
-Examples of fulfilled spot data are to be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) 
+Examples of entered spot data are to be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) 
 ```
 {
 "id": "0",
