@@ -4,17 +4,17 @@
 <details>
   <summary>Spis treści</summary>
   <ol>
-    <li><a href="#about-the-project">O projekcie</a></li>
-    <li><a href="#objectives">Cele</a></li>
-    <li><a href="#built-with">Stworzony przy pomocy</a></li>
-    <li><a href="#contribution">Jak można wesprzeć ten projekt</a>
+    <li><a href="#o-projekcie">O projekcie</a></li>
+    <li><a href="#cele">Cele</a></li>
+    <li><a href="#stworzony-przy-pomocy">Stworzony przy pomocy</a></li>
+    <li><a href="#jak-można-wesprzeć-ten-projekt">Jak można wesprzeć ten projekt</a>
     <ol>
-    <li><a href="#translations">&nbsp;&nbsp;&nbsp;&nbsp;Tłumaczenia</a></li>
+    <li><a href="#tłumaczenia">&nbsp;&nbsp;&nbsp;&nbsp;Tłumaczenia</a></li>
     <li><a href="#spot">&nbsp;&nbsp;&nbsp;&nbsp;Spot</a></li>
     <li><a href="#territorial-unit">&nbsp;&nbsp;&nbsp;&nbsp;Territorial unit</a></li>
     <li><a href="#service">&nbsp;&nbsp;&nbsp;&nbsp;Service</a></li>
     </ol></li>
-    <li><a href="#credits">Podziękowania</a></li>
+    <li><a href="#podziękowania">Podziękowania</a></li>
   </ol>
 </details>
 
