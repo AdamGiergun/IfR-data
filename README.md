@@ -33,7 +33,7 @@ Below are instructions for preparing this data.
 
 Short term:
 * Create a list of (at least) most of the spots providing help for refugees.
-* Provide better translations ([let me know](mailto:adam.giergun@gmail.com) if you wanna help me with this task (please, start then e-mail subject with `#IfR-data: `).
+* Provide better translations: [let me know](mailto:adam.giergun@gmail.com) if you wanna help me with this task (please, start then e-mail subject with `#IfR-data: `).
 
 Longer term:
 * Create tools for entering data to the database (like a some feasible web interface).
@@ -65,7 +65,7 @@ Data are structured in three types: [spot](https://github.com/AdamGiergun/IfR-da
 ### &nbsp;&nbsp;&nbsp;&nbsp;Spot
 * `Spot` contains all the info about place.
   Spots data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json).
-  For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_SPOT_<language acronym>.md
+  For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_SPOT_<language acronym>.md`.
   
 ### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit
 * `Territorial unit` is one of the properties of spot coming from administrative division of country.
@@ -73,12 +73,12 @@ Data are structured in three types: [spot](https://github.com/AdamGiergun/IfR-da
   but as ids come from standard based on ISO 19000 I strongly suspect that other countries have equivalent lists.
   If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2).
   Data file for territorial units is [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json).
-  For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_TU_<language acronym>.md.
+  For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_TU_<language acronym>.md`.
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;Service  
 * `Service` is (just as it name suggests) a service offered by the spot.
   Services data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json).
-  For instructions look [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), and find a proper README_SERVICE_<language acronym>.md.
+  For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_SERVICE_<language acronym>.md`.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
