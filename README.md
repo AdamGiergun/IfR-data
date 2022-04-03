@@ -76,7 +76,7 @@ Data are structured in three types: [spot](https://github.com/AdamGiergun/IfR-da
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_TU_<language acronym>.md`.
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;Service  
-* `Service` is (just as it name suggests) a service offered by the spot.
+* `Service` is (just as it name suggests) a service offered by the spot.<br>
   Services data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json). <br>
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_SERVICE_<language acronym>.md`.
   
