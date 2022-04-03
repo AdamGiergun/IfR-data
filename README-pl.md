@@ -1,4 +1,4 @@
-<h1 align="center">Repozytorium danych dla androidowej aplikacji "IfR - Informacje dla uchodzców"</h1>
+<h1 align="center">Repozytorium danych dla androidowej aplikacji<br>"IfR - Informacje dla uchodzców"</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -22,11 +22,11 @@
 
 ### About The Project
 
-Część projektu stworzonego jako szybka odpowiedź na ogromny kryzys humanitarny wywołany wojną na Ukrainie.
-Jest to repozytorium zawierające listę miejsc udzielających pomocy ukraińskim uchodźcom i wykorzystywane przez moją aplikację na Androida, [dostępna tutaj](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).
+Część projektu stworzonego, jako szybka odpowiedź na ogromny kryzys humanitarny wywołany wojną na Ukrainie.<br>
+Jest to repozytorium zawierające listę miejsc udzielających pomocy ukraińskim uchodźcom i wykorzystywane przez moją aplikację na Androida, [dostępna tutaj](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
 Miejsca mogą posiadać adresy, numery telefonów, e-maile, strony internetowe, informacje o świadczonych usługach, itp..
 
-Ponieważ wprowadzenie tych danych dla jak największej liczby miejsc w krótkim czasie jest dla jednej osoby "mission impossible", to potrzebuję pomocy.
+Ponieważ wprowadzenie tych danych dla jak największej liczby miejsc w krótkim czasie jest dla jednej osoby "mission impossible", to zdecydowanie potrzebuję pomocy.<br>
 Poniżej znajdują się instrukcje dotyczące przygotowywania tych danych.
 
 ### Objectives
@@ -53,7 +53,7 @@ Znacznie dłużej:
 
 ### Contribution
 
-Najlepszym sposobem na wsparcie tego projektu będzie dostarczenie mi [tłumaczeń](https://github.com/AdamGiergun/IfR-data#translations) oraz danych aplikacji w formacie JSON, zgodnie z proponowanym przeze mnie standardem.
+Najlepszym sposobem na wsparcie tego projektu będzie dostarczenie mi [tłumaczeń](https://github.com/AdamGiergun/IfR-data#translations) oraz danych aplikacji w formacie JSON, zgodnie z proponowanym przeze mnie standardem.<br>
 Używanie Android Studio do wprowadzania danych nie jest koniecznością, więc spójrz na [informacje o alternatywach](https://github.com/AdamGiergun/IfR-data/issues/1)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Translations
@@ -62,16 +62,16 @@ Używanie Android Studio do wprowadzania danych nie jest koniecznością, więc 
 Dane są podzielone na trzy rodzaje: [spot](https://github.com/AdamGiergun/IfR-data#spot), [territorial unit](https://github.com/AdamGiergun/IfR-data#territorial-unit) i [service](https://github.com/AdamGiergun/IfR-data#service).
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Spot
-* `Spot` zawiera wszystkie informacje o miejscu.
-  Plik danych spotów można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json).
+* `Spot` zawiera wszystkie informacje o miejscu.<br>
+  Plik danych spotów można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json).<br>
   Instrukcje można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/), wybierając konkretny plik README_SPOT_<akronim języka>.md
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit
-* `Territorial Unit`, czyli jednostka terytorialna to jedna z właściwości miejsca, wywodząca się z podziału administracyjnego kraju.
-  Dla Polski przeszukiwalny wykaz jednostek terytorialnych wraz z identyfikatorami jest dostarczany przez Główny Urząd Statystyczny i można go znaleźć [tutaj](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
-  Ponieważ identyfikatory pochodzą ze standardu opartego na ISO 19000, podejrzewam, że inne kraje posiadają równoważne listy.
-  Jeśli wiesz, gdzie znaleźć takie listy [daj mi znać](https://github.com/AdamGiergun/IfR-data/issues/2).
-  Plik danych jednostek terytorialnych można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json).
+* `Territorial Unit`, czyli jednostka terytorialna to jedna z właściwości miejsca, wywodząca się z podziału administracyjnego kraju.<br>
+  Dla Polski przeszukiwalny wykaz jednostek terytorialnych wraz z identyfikatorami jest dostarczany przez Główny Urząd Statystyczny i można go znaleźć [tutaj](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default).<br>
+  Ponieważ identyfikatory pochodzą ze standardu opartego na ISO 19000, podejrzewam, że inne kraje posiadają równoważne listy.<br>
+  Jeśli wiesz, gdzie znaleźć takie listy [daj mi znać](https://github.com/AdamGiergun/IfR-data/issues/2). <br>
+  Plik danych jednostek terytorialnych można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json). <br>
   Instrukcje można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/), wybierając konkretny plik README_TU_<akronim języka>.md.
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;Service

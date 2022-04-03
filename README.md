@@ -26,7 +26,7 @@ Part of a project created as a quick response to a huge humanitarian crisis caus
 It is repository containing list of spots providing help to Ukrainian refugees and used by my Android app, [available here](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
 Spots can have physical addresses, phone numbers, e-mails, websites, info about services provided, etc..
 
-As entering this data for as many as possible spots in a short time is "mission impossible" for one person I need help.<br>
+As entering this data for as many as possible spots in a short time is "mission impossible" for one person I obviously need a help.<br>
 Below are instructions for preparing this data.
 
 ### Objectives
@@ -71,13 +71,13 @@ Data are structured in three types: [spot](https://github.com/AdamGiergun/IfR-da
 * `Territorial unit` is one of the properties of spot coming from administrative division of country.<br>
   For Poland searchable list of territorial units with ids is provided by Central Statistical Office, and can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
   but as ids come from standard based on ISO 19000 I strongly suspect that other countries have equivalent lists.<br>
-  If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2).<br>
-  Data file for territorial units is [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json).<br>
+  If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2). <br>
+  Data file for territorial units is [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json). <br>
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_TU_<language acronym>.md`.
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;Service  
 * `Service` is (just as it name suggests) a service offered by the spot.
-  Services data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json).<br>
+  Services data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json). <br>
   For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_SERVICE_<language acronym>.md`.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
