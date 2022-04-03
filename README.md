@@ -1,4 +1,4 @@
-<h1 align="center">Data repository for "IfR - Info for Refugees" Android app</h1>
+<h1 align="center">Data repository for "IfR - Info for Refugees"<br>- an Android app</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details>
