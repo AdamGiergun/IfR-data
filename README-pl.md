@@ -33,7 +33,8 @@ Poniżej znajdują się instrukcje dotyczące przygotowywania tych danych.
 
 Krótkoterminowe:
 * Stworzy listę (przynajmniej) większości miejsc udzielających pomocy uchodźcom.
-* Zapewnić dobre tłumaczenia: [daj mi znać](mailto:adam.giergun@gmail.com), jeśli chcesz mi pomóc w tym zadaniu.<br>
+* Zapewnić dobre tłumaczenia.<br>
+  [Daj mi znać](mailto:adam.giergun@gmail.com), jeśli chcesz mi pomóc w tym zadaniu.<br>
   Proszę, zacznij w takim wypadku tytuł e-maila od `#IfR-data: `.
 
 Dłuższoterminowe:
