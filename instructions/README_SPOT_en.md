@@ -24,8 +24,8 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
    "uk": ""
 },
 ```
- - use it for translated name (as explained in "name"), or some additional info. As for languages, these are not limited to these in example. You can use any acronym.
-   Full list of language acronyms can be found here: [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).
+ - use it for translated name (as explained in "name"), or some additional info. As for languages, these are not limited to these in example. You can use any acronym.<br>
+   Full list of language acronyms can be found here: [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).<br>
    (use "Subtag:" of "Type: language")
 ```
 "descriptionLong": {
@@ -39,9 +39,9 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 ```
 "territorialUnitId": "",
 ```
- - "Territorial unit id" is one of the properties of spot coming from administrative division of country.
-   For Poland searchable list of territorial units with ids is provided by Central Statistical Office, and can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
-   but as ids come from standard based on ISO 19000 I strongly suspect that other countries have equivalent lists.
+ - "Territorial unit id" is one of the properties of spot coming from administrative division of country.<br>
+   For Poland searchable list of territorial units with ids is provided by Central Statistical Office, and can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default).<br>
+   As ids come from standard based on ISO 19000 I strongly suspect that other countries have equivalent lists.<br>
    If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2)
 ```
 "location": {
@@ -71,7 +71,7 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
    "latitude": "0.0",
    "longitude": "0.0"
 ```
- - geographic coordinates of the spot. One of the easiest ways of finding it will be opening Google Maps, marking the spot and pressing mark icon or clicking it with mouse's right button. 
+ - geographic coordinates of the spot. One of the easiest ways of finding it will be opening Google Maps, marking the spot and pressing mark icon or clicking it with mouse's right button.<br> 
    Then on computer with mouse's left button you can copy coordinates to the clipboard.
 ```
 },
