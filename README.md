@@ -33,7 +33,9 @@ Below are instructions for preparing this data.
 
 Short term:
 * Create a list of (at least) most of the spots providing help for refugees.<br>
-* Provide better translations: [let me know](mailto:adam.giergun@gmail.com) if you wanna help me with this task (please, start then e-mail subject with `#IfR-data: `).
+* Provide better translations.<br>
+  [Let me know](mailto:adam.giergun@gmail.com) if you wanna help me with this task.<br>
+  Please, start then e-mail subject with `#IfR-data: `.
 
 Longer term:
 * Create tools for entering data to the database (like a some feasible web interface).
