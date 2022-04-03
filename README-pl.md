@@ -10,7 +10,7 @@
     <li><a href="#jak-można-wesprzeć-ten-projekt">Jak można wesprzeć ten projekt</a>
     <ol>
     <li><a href="#tłumaczenia">&nbsp;&nbsp;&nbsp;&nbsp;Tłumaczenia</a></li>
-    <li><a href="#dane">&nbsp;&nbsp;Dane</a></li>
+    <li><a href="#dane">Dane</a></li>
     <li><a href="#spot">&nbsp;&nbsp;&nbsp;&nbsp;Spot</a></li>
     <li><a href="#territorial-unit">&nbsp;&nbsp;&nbsp;&nbsp;Territorial unit</a></li>
     <li><a href="#service">&nbsp;&nbsp;&nbsp;&nbsp;Service</a></li>
@@ -62,7 +62,7 @@ Używanie Android Studio do wprowadzania danych nie jest koniecznością, więc 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Tłumaczenia
 * Potrzebne są dobre tłumaczenia dla wszystkich plików README w tym repozytorium, a także dla [strings](https://github.com/AdamGiergun/IfR-data/blob/main/data/strings.xml) używanych w aplikacji.
 
-### &nbsp;&nbsp;Dane
+### Dane
 Dane są podzielone na trzy rodzaje: [spot](https://github.com/AdamGiergun/IfR-data#spot), [territorial unit](https://github.com/AdamGiergun/IfR-data#territorial-unit) i [service](https://github.com/AdamGiergun/IfR-data#service).
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Spot
