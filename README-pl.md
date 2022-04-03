@@ -56,7 +56,7 @@ Długoterminowe:
 
 ### Jak można wesprzeć ten projekt
 
-Najlepszym sposobem na wsparcie tego projektu będzie dostarczenie mi [tłumaczeń](https://github.com/AdamGiergun/IfR-data#translations) oraz danych aplikacji w formacie JSON, zgodnie z proponowanym przeze mnie standardem.<br>
+Najlepszym sposobem na wsparcie tego projektu będzie dostarczenie mi [tłumaczeń](https://github.com/AdamGiergun/IfR-data#translations) oraz danych aplikacji w formacie JSON, wprowadzonych zgodnie z proponowanym przeze mnie standardem.<br>
 Używanie Android Studio do wprowadzania danych nie jest koniecznością, więc spójrz na [informacje o alternatywach](https://github.com/AdamGiergun/IfR-data/issues/1)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Tłumaczenia
