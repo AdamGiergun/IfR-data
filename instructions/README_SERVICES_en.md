@@ -17,5 +17,5 @@ Expandable list of services is to be found [here](https://github.com/AdamGiergun
       }
     }
 ```
-   - I hope it's quite self-explanatory. It is possible to use any official language acronym from [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).
+   - I hope it's quite self-explanatory. It is possible to use any official language acronym from [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).<br>
      (use "Subtag:" of "Type: language")
