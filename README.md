@@ -40,7 +40,7 @@ Longer term:
 * Create user interface for other platforms.
 
 Much longer term:
-* Unfortunately this refugee crisis is not the only one. I hope to convert this project into permanent, to serve in any similar crisis. Please feel free to contact me if you want to help me achieve it: [my e-mail](mailto:adam.giergun@gmail.com) with '#IfR-permanent: 'in e-mail subject.
+* Unfortunately this refugee crisis is not the only one. I hope to convert this project into permanent, to serve in any similar crisis. Please feel free to contact me if you want to help me achieve it: [my e-mail](mailto:adam.giergun@gmail.com) with `#IfR-permanent: `in e-mail subject.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
