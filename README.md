@@ -31,6 +31,9 @@ Below are instructions for preparing this data.
 
 ### Objectives
 
+Now:
+* Add ability to report new spots directly thorough the app
+
 Short term:
 * Create a list of (at least) most of the spots providing help for refugees.<br>
 * Provide better translations.<br>
