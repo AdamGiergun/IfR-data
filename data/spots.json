@@ -2,14 +2,15 @@
   "spots": [
     {
       "id": "101",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
       "descriptionShort": {
-        "en": "The Ministry of Internal Affairs and Administration - Call Center",
-        "pl": "Ministerstwo Spraw Wewnętrznych i Administracji - Infolinia telefoniczna",
-        "ru": "Министерство внутренних дел и администрация - Call Center",
-        "uk": "Міністерство внутрішніх справ та адміністрації - Коллцентр"
+        "en": "The Ministry of Internal Affairs and Administration \n- Call Center",
+        "pl": "Ministerstwo Spraw Wewnętrznych i Administracji \n- Infolinia telefoniczna",
+        "ru": "Министерство внутренних дел и администрация \n- Коллцентр",
+        "uk": "Міністерство внутрішніх справ та адміністрації \n- Коллцентр"
       },
       "descriptionLong": {
         "en": "",
@@ -24,8 +25,8 @@
         "buildingId": "",
         "flatOrRoomId": "",
         "postCode": "",
-        "latitude": "52.211573587200164",
-        "longitude": "21.01666334311178"
+        "latitude": 52.211573587200164,
+        "longitude": 21.01666334311178
       },
       "contacts": [
         {
@@ -48,6 +49,7 @@
     },
     {
       "id": "201",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -70,8 +72,8 @@
         "buildingId": "17",
         "flatOrRoomId": "",
         "postCode": "02-617",
-        "latitude": "52.19398416981805",
-        "longitude": "21.020664685438334"
+        "latitude": 52.19398416981805,
+        "longitude": 21.020664685438334
       },
       "contacts": [
         {
@@ -94,6 +96,7 @@
     },
     {
       "id": "202",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -116,8 +119,8 @@
         "buildingId": "17",
         "flatOrRoomId": "",
         "postCode": "2008",
-        "latitude": "47.02207385985123",
-        "longitude": "28.811274642510337"
+        "latitude": 47.02207385985123,
+        "longitude": 28.811274642510337
       },
       "contacts": [
         {
@@ -139,6 +142,7 @@
     },
     {
       "id": "203",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -161,8 +165,8 @@
         "buildingId": "24",
         "flatOrRoomId": "Sector 1",
         "postCode": "011 862",
-        "latitude": "44.458475255581625",
-        "longitude": "26.08783456894492"
+        "latitude": 44.458475255581625,
+        "longitude": 26.08783456894492
       },
       "contacts": [
         {
@@ -185,6 +189,7 @@
     },
     {
       "id": "204",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -207,8 +212,8 @@
         "buildingId": "84/B",
         "flatOrRoomId": "",
         "postCode": "1125",
-        "latitude": "47.50552307272443",
-        "longitude": "18.993912773711585"
+        "latitude": 47.50552307272443,
+        "longitude": 18.993912773711585
       },
       "contacts": [
         {
@@ -238,6 +243,7 @@
 
     {
       "id": "205",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -260,8 +266,8 @@
         "buildingId": "35",
         "flatOrRoomId": "",
         "postCode": "811 01",
-        "latitude": "48.148158621568626",
-        "longitude": "17.08758912482981"
+        "latitude": 48.148158621568626,
+        "longitude": 17.08758912482981
       },
       "contacts": [
         {
@@ -284,6 +290,7 @@
     },
     {
       "id": "301",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -306,8 +313,8 @@
         "buildingId": "14",
         "flatOrRoomId": "",
         "postCode": "20-078",
-        "latitude": "51.25006909892723",
-        "longitude": "22.55782235606597"
+        "latitude": 51.25006909892723,
+        "longitude": 22.55782235606597
       },
       "contacts": [
         {
@@ -330,6 +337,7 @@
     },
     {
       "id": "302",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -352,8 +360,8 @@
         "buildingId": "4",
         "flatOrRoomId": "",
         "postCode": "31-514",
-        "latitude": "50.0674179430582",
-        "longitude": "19.959114996445848"
+        "latitude": 50.0674179430582,
+        "longitude": 19.959114996445848
       },
       "contacts": [
         {
@@ -379,6 +387,7 @@
     },
     {
       "id": "303",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -401,8 +410,8 @@
         "buildingId": "60-А",
         "flatOrRoomId": "",
         "postCode": "80-278",
-        "latitude": "54.38578552226191",
-        "longitude": "18.57945997744341"
+        "latitude": 54.38578552226191,
+        "longitude": 18.57945997744341
       },
       "contacts": [
         {
@@ -425,6 +434,7 @@
     },
     {
       "id": "304",
+      "confirmed": true,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -447,8 +457,8 @@
         "buildingId": "123",
         "flatOrRoomId": "",
         "postCode": "4400",
-        "latitude": "47.984622752869605",
-        "longitude": "21.729154898845696"
+        "latitude": 47.984622752869605,
+        "longitude": 21.729154898845696
       },
       "contacts": [
         {
@@ -474,6 +484,7 @@
     },
     {
       "id": "1001",
+      "confirmed": true,
       "name": "Dom Studencki T-16 \"Tower\"",
       "type": "receptionPoint",
       "dbType": "new",
@@ -496,8 +507,8 @@
         "buildingId": "4",
         "flatOrRoomId": "",
         "postCode": "51-628",
-        "latitude": "51.10377711501138",
-        "longitude": "17.084961670070065"
+        "latitude": 51.10377711501138,
+        "longitude": 17.084961670070065
       },
       "contacts": [
         {
@@ -526,6 +537,7 @@
     },
     {
       "id": "1002",
+      "confirmed": true,
       "name": "Port Lotniczy",
       "type": "receptionPoint",
       "dbType": "new",
@@ -548,8 +560,8 @@
         "buildingId": "36",
         "flatOrRoomId": "",
         "postCode": "54-530",
-        "latitude": "51.10487370760546",
-        "longitude": "16.90015466705063"
+        "latitude": 51.10487370760546,
+        "longitude": 16.90015466705063
       },
       "contacts": [
         {
@@ -578,6 +590,7 @@
     },
     {
       "id": "1003",
+      "confirmed": true,
       "name": "Hotel Kopernik",
       "type": "receptionPoint",
       "dbType": "new",
@@ -600,8 +613,8 @@
         "buildingId": "16",
         "flatOrRoomId": "",
         "postCode": "87-100",
-        "latitude": "53.011790123252815",
-        "longitude": "18.615402251204095"
+        "latitude": 53.011790123252815,
+        "longitude": 18.615402251204095
       },
       "contacts": [
         {
@@ -630,6 +643,7 @@
     },
     {
       "id": "1004",
+      "confirmed": true,
       "name": "Noclegi Pracownicze",
       "type": "receptionPoint",
       "dbType": "new",
@@ -652,8 +666,8 @@
         "buildingId": "20",
         "flatOrRoomId": "",
         "postCode": "85-082",
-        "latitude": "53.13515995665331",
-        "longitude": "17.994620749211318"
+        "latitude": 53.13515995665331,
+        "longitude": 17.994620749211318
       },
       "contacts": [
         {
@@ -682,6 +696,7 @@
     },
     {
       "id": "1005",
+      "confirmed": true,
       "name": "Pałac Suchodolskich Gminny Ośrodek Kultury i Turystyki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -704,8 +719,8 @@
         "buildingId": "5",
         "flatOrRoomId": "",
         "postCode": "22-175",
-        "latitude": "51.16548363203273",
-        "longitude": "23.804791250911965"
+        "latitude": 51.16548363203273,
+        "longitude": 23.804791250911965
       },
       "contacts": [
         {
@@ -734,6 +749,7 @@
     },
     {
       "id": "1006",
+      "confirmed": true,
       "name": "Przygraniczne Centrum Kultury i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -756,8 +772,8 @@
         "buildingId": "8",
         "flatOrRoomId": "",
         "postCode": "22-540",
-        "latitude": "50.58791542252863",
-        "longitude": "24.030823717298453"
+        "latitude": 50.58791542252863,
+        "longitude": 24.030823717298453
       },
       "contacts": [
         {
@@ -786,6 +802,7 @@
     },
     {
       "id": "1007",
+      "confirmed": true,
       "name": "Przygraniczne Centrum Kultury i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -808,8 +825,8 @@
         "buildingId": "58",
         "flatOrRoomId": "",
         "postCode": "22-523",
-        "latitude": "50.892679681987815",
-        "longitude": "24.039067627738852"
+        "latitude": 50.892679681987815,
+        "longitude": 24.039067627738852
       },
       "contacts": [
         {
@@ -838,6 +855,7 @@
     },
     {
       "id": "1008",
+      "confirmed": true,
       "name": "Szkoła Podstawowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -860,8 +878,8 @@
         "buildingId": "1",
         "flatOrRoomId": "",
         "postCode": "22-680",
-        "latitude": "50.33950480050416",
-        "longitude": "23.521221594370903"
+        "latitude": 50.33950480050416,
+        "longitude": 23.521221594370903
       },
       "contacts": [
         {
@@ -890,6 +908,7 @@
     },
     {
       "id": "1009",
+      "confirmed": true,
       "name": "Miejski Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -912,8 +931,8 @@
         "buildingId": "2A",
         "flatOrRoomId": "",
         "postCode": "22-100",
-        "latitude": "51.12896139613835",
-        "longitude": "23.493050115444298"
+        "latitude": 51.12896139613835,
+        "longitude": 23.493050115444298
       },
       "contacts": [
         {
@@ -942,6 +961,7 @@
     },
     {
       "id": "1010",
+      "confirmed": true,
       "name": "Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -964,8 +984,8 @@
         "buildingId": "2",
         "flatOrRoomId": "",
         "postCode": "22-500",
-        "latitude": "50.8076470375459",
-        "longitude": "23.88019402773721"
+        "latitude": 50.8076470375459,
+        "longitude": 23.88019402773721
       },
       "contacts": [
         {
@@ -994,6 +1014,7 @@
     },
     {
       "id": "1011",
+      "confirmed": true,
       "name": "Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1016,8 +1037,8 @@
         "buildingId": "8",
         "flatOrRoomId": "",
         "postCode": "22-600",
-        "latitude": "50.44899394635937",
-        "longitude": "23.401287156566617"
+        "latitude": 50.44899394635937,
+        "longitude": 23.401287156566617
       },
       "contacts": [
         {
@@ -1046,6 +1067,7 @@
     },
     {
       "id": "1012",
+      "confirmed": true,
       "name": "Hala OSiR",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1068,8 +1090,8 @@
         "buildingId": "62a",
         "flatOrRoomId": "",
         "postCode": "22-400",
-        "latitude": "50.719939156450232",
-        "longitude": "23.28304032773539"
+        "latitude": 50.719939156450232,
+        "longitude": 23.28304032773539
       },
       "contacts": [
         {
@@ -1098,6 +1120,7 @@
     },
     {
       "id": "1013",
+      "confirmed": true,
       "name": "Gminny Ośrodek Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1120,8 +1143,8 @@
         "buildingId": "18",
         "flatOrRoomId": "",
         "postCode": "22-530",
-        "latitude": "50.65090280762936",
-        "longitude": "23.8979607277341"
+        "latitude": 50.65090280762936,
+        "longitude": 23.8979607277341
       },
       "contacts": [
         {
@@ -1150,6 +1173,7 @@
     },
     {
       "id": "1014",
+      "confirmed": true,
       "name": "Zespół Szkół Nr 4",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1172,8 +1196,8 @@
         "buildingId": "18J",
         "flatOrRoomId": "",
         "postCode": "22-500",
-        "latitude": "50.810680835272855",
-        "longitude": "23.869185670064144"
+        "latitude": 50.810680835272855,
+        "longitude": 23.869185670064144
       },
       "contacts": [
         {
@@ -1202,6 +1226,7 @@
     },
     {
       "id": "1015",
+      "confirmed": true,
       "name": "Urząd Wojewódzki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1224,8 +1249,8 @@
         "buildingId": "8",
         "flatOrRoomId": "",
         "postCode": "66-400",
-        "latitude": "52.73889298834938",
-        "longitude": "15.2302711854496335"
+        "latitude": 52.73889298834938,
+        "longitude": 15.2302711854496335
       },
       "contacts": [
         {
@@ -1254,6 +1279,7 @@
     },
     {
       "id": "1016",
+      "confirmed": true,
       "name": "Łódzki Dom Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1276,8 +1302,8 @@
         "buildingId": "18",
         "flatOrRoomId": "",
         "postCode": "90-113",
-        "latitude": "51.769241736998296",
-        "longitude": "19.46208464124699"
+        "latitude": 51.769241736998296,
+        "longitude": 19.46208464124699
       },
       "contacts": [
         {
@@ -1306,6 +1332,7 @@
     },
     {
       "id": "1017",
+      "confirmed": true,
       "name": "Dworzec Główny",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1328,8 +1355,8 @@
         "buildingId": "18",
         "flatOrRoomId": "",
         "postCode": "31-154",
-        "latitude": "50.067763313632845",
-        "longitude": "19.94821064117231"
+        "latitude": 50.067763313632845,
+        "longitude": 19.94821064117231
       },
       "contacts": [
         {
@@ -1358,6 +1385,7 @@
     },
     {
       "id": "1018",
+      "confirmed": true,
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1380,8 +1408,8 @@
         "buildingId": "1",
         "flatOrRoomId": "",
         "postCode": "33-100",
-        "latitude": "50.0056183830232",
-        "longitude": "20.974462503337886"
+        "latitude": 50.0056183830232,
+        "longitude": 20.974462503337886
       },
       "contacts": [
         {
@@ -1410,6 +1438,7 @@
     },
     {
       "id": "1019",
+      "confirmed": true,
       "name": "Dworzec PKS",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1432,8 +1461,8 @@
         "buildingId": "70",
         "flatOrRoomId": "",
         "postCode": "32-300",
-        "latitude": "50.27524367225402",
-        "longitude": "19.57244025999947"
+        "latitude": 50.27524367225402,
+        "longitude": 19.57244025999947
       },
       "contacts": [
         {
@@ -1462,6 +1491,7 @@
     },
     {
       "id": "1020",
+      "confirmed": true,
       "name": "Dworzec Warszawa Zachodnia",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1484,8 +1514,8 @@
         "buildingId": "142",
         "flatOrRoomId": "",
         "postCode": "02-305",
-        "latitude": "52.21951245548323",
-        "longitude": "20.965474488645675"
+        "latitude": 52.21951245548323,
+        "longitude": 20.965474488645675
       },
       "contacts": [
         {
@@ -1514,6 +1544,7 @@
     },
     {
       "id": "1021",
+      "confirmed": true,
       "name": "COS Torwar",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1536,8 +1567,8 @@
         "buildingId": "6A",
         "flatOrRoomId": "",
         "postCode": "00-449",
-        "latitude": "52.22242518990456",
-        "longitude": "21.042217816414365"
+        "latitude": 52.22242518990456,
+        "longitude": 21.042217816414365
       },
       "contacts": [
         {
@@ -1566,6 +1597,7 @@
     },
     {
       "id": "1022",
+      "confirmed": true,
       "name": "Dom Studenta „Sokrates”",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1588,8 +1620,8 @@
         "buildingId": "22",
         "flatOrRoomId": "",
         "postCode": "45-301",
-        "latitude": "50.672240789926335",
-        "longitude": "17.957211070061465"
+        "latitude": 50.672240789926335,
+        "longitude": 17.957211070061465
       },
       "contacts": [
         {
@@ -1618,6 +1650,7 @@
     },
     {
       "id": "1023",
+      "confirmed": true,
       "name": "Świetlica",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1640,8 +1673,8 @@
         "buildingId": "155",
         "flatOrRoomId": "",
         "postCode": "37-552",
-        "latitude": "49.95625920845812",
-        "longitude": "23.079428298883766"
+        "latitude": 49.95625920845812,
+        "longitude": 23.079428298883766
       },
       "contacts": [
         {
@@ -1670,6 +1703,7 @@
     },
     {
       "id": "1024",
+      "confirmed": true,
       "name": "Hala sportowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1692,8 +1726,8 @@
         "buildingId": "285",
         "flatOrRoomId": "",
         "postCode": "37-732",
-        "latitude": "49.80571112778078",
-        "longitude": "22.93099177375561"
+        "latitude": 49.80571112778078,
+        "longitude": 22.93099177375561
       },
       "contacts": [
         {
@@ -1722,6 +1756,7 @@
     },
     {
       "id": "1025",
+      "confirmed": true,
       "name": "Szkoła Podstawowa w m. Krowica Sama ,  Krowica Sama",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1744,8 +1779,8 @@
         "buildingId": "183",
         "flatOrRoomId": "",
         "postCode": "37-625",
-        "latitude": "50.1010683436203",
-        "longitude": "23.232508297030854"
+        "latitude": 50.1010683436203,
+        "longitude": 23.232508297030854
       },
       "contacts": [
         {
@@ -1774,6 +1809,7 @@
     },
     {
       "id": "1026",
+      "confirmed": true,
       "name": "Była Szkoła Podstawowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1796,8 +1832,8 @@
         "buildingId": "41",
         "flatOrRoomId": "",
         "postCode": "38-700",
-        "latitude": "49.460396577534034",
-        "longitude": "22.594849755484837"
+        "latitude": 49.460396577534034,
+        "longitude": 22.594849755484837
       },
       "contacts": [
         {
@@ -1826,6 +1862,7 @@
     },
     {
       "id": "1027",
+      "confirmed": true,
       "name": "Centrum Handlu i Magazynowania Korczowa Dolina – Hala Kijowska",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1848,8 +1885,8 @@
         "buildingId": "90",
         "flatOrRoomId": "",
         "postCode": "37-552",
-        "latitude": "49.97123175017438",
-        "longitude": "23.038627091460885"
+        "latitude": 49.97123175017438,
+        "longitude": 23.038627091460885
       },
       "contacts": [
         {
@@ -1878,6 +1915,7 @@
     },
     {
       "id": "1028",
+      "confirmed": true,
       "name": "Dworzec kolejowy",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1900,8 +1938,8 @@
         "buildingId": "1",
         "flatOrRoomId": "",
         "postCode": "37-700",
-        "latitude": "49.7836135457487",
-        "longitude": "22.776384695519244"
+        "latitude": 49.7836135457487,
+        "longitude": 22.776384695519244
       },
       "contacts": [
         {
@@ -1930,6 +1968,7 @@
     },
     {
       "id": "1029",
+      "confirmed": true,
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1952,8 +1991,8 @@
         "buildingId": "9",
         "flatOrRoomId": "",
         "postCode": "15-701",
-        "latitude": "53.13409441664071",
-        "longitude": "23.135397627784723"
+        "latitude": 53.13409441664071,
+        "longitude": 23.135397627784723
       },
       "contacts": [
         {
@@ -1982,6 +2021,7 @@
     },
     {
       "id": "1030",
+      "confirmed": true,
       "name": "Dom Harcerza",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2004,8 +2044,8 @@
         "buildingId": "2",
         "flatOrRoomId": "10",
         "postCode": "15-701",
-        "latitude": "54.34848850027326",
-        "longitude": "18.64783302781027"
+        "latitude": 54.34848850027326,
+        "longitude": 18.64783302781027
       },
       "contacts": [
         {
@@ -2034,6 +2074,7 @@
     },
     {
       "id": "1031",
+      "confirmed": true,
       "name": "Urząd Wojewódzki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2056,8 +2097,8 @@
         "buildingId": "3",
         "flatOrRoomId": "",
         "postCode": "25-516",
-        "latitude": "50.875390379140164",
-        "longitude": "20.629356648166713"
+        "latitude": 50.875390379140164,
+        "longitude": 20.629356648166713
       },
       "contacts": [
         {
@@ -2086,6 +2127,7 @@
     },
     {
       "id": "1032",
+      "confirmed": true,
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2108,8 +2150,8 @@
         "buildingId": "2",
         "flatOrRoomId": "",
         "postCode": "40-097",
-        "latitude": "50.258267397944614",
-        "longitude": "19.016995741216665"
+        "latitude": 50.258267397944614,
+        "longitude": 19.016995741216665
       },
       "contacts": [
         {
@@ -2138,6 +2180,7 @@
     },
     {
       "id": "1033",
+      "confirmed": true,
       "name": "Miejskie Centrum Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2160,8 +2203,8 @@
         "buildingId": "2",
         "flatOrRoomId": "",
         "postCode": "40-032",
-        "latitude": "50.2529766997212",
-        "longitude": "19.023284987255085"
+        "latitude": 50.2529766997212,
+        "longitude": 19.023284987255085
       },
       "contacts": [
         {
@@ -2190,6 +2233,7 @@
     },
     {
       "id": "1034",
+      "confirmed": true,
       "name": "Punkt recepcyjny",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2212,8 +2256,8 @@
         "buildingId": "53/55",
         "flatOrRoomId": "",
         "postCode": "11-041",
-        "latitude": "53.77255742089117",
-        "longitude": "20.478774652060515"
+        "latitude": 53.77255742089117,
+        "longitude": 20.478774652060515
       },
       "contacts": [
         {
@@ -2242,6 +2286,7 @@
     },
     {
       "id": "1035",
+      "confirmed": true,
       "name": "Międzynarodowe Targi Poznańskie",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2264,8 +2309,8 @@
         "buildingId": "14",
         "flatOrRoomId": "",
         "postCode": "60-734",
-        "latitude": "52.40280260641604",
-        "longitude": "16.90927486452918"
+        "latitude": 52.40280260641604,
+        "longitude": 16.90927486452918
       },
       "contacts": [
         {
@@ -2294,6 +2339,7 @@
     },
     {
       "id": "1036",
+      "confirmed": true,
       "name": "Punkt recepcyjny",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2316,8 +2362,8 @@
         "buildingId": "40A",
         "flatOrRoomId": "",
         "postCode": "71-899",
-        "latitude": "53.41900455576961",
-        "longitude": "14.533892827790725"
+        "latitude": 53.41900455576961,
+        "longitude": 14.533892827790725
       },
       "contacts": [
         {

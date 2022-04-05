@@ -5,6 +5,10 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 ```
 - dla nowego wpisu należy pozostawić 0, numer zostanie przypisany później. Natomiest jeśli jest to zaktualizowany lub przeznaczony do usunięcia wpis, należy skopiuj istniejące dane [stąd](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) i zmienić je pozostawiając oryginalne id.
 ```
+"confirmed": false,
+```
+- należy pozostawić domyślną wartość `false`,
+```
 "name": "",
 ```
 - to nazwa miejsca. Sugeruję, żeby była w języku polskim, bo czasem może to ułatwić znalezienie tego miejsca. Jeśli ktoś uważa, że przetłumaczona nazwa będzie lepszym rozwiązaniem, powinien użyć zamiast "name" - "descriptionShort", a pole "name" pozostawić puste ("")

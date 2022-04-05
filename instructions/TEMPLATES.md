@@ -27,6 +27,7 @@
 ```
     {
       "id": "",
+      "confirmed": false,
       "name": "",
       "type": "",
       "dbType": "new",
@@ -49,8 +50,8 @@
         "buildingId": "",
         "flatOrRoomId": "",
         "postCode": "",
-        "latitude": "0.0",
-        "longitude": "0.0"
+        "latitude": 0.0,
+        "longitude": 0.0
       },
       "contacts": [
         {

@@ -5,6 +5,10 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 ```
  - for a new record leave it as 0, I'll assign it later. But when it's an updated or aimed to be deleted record, copy existing data to be deleted or updated [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) and use it's id.
 ```
+"confirmed": false,
+```
+ - leave default `false` value,
+```
 "name": "",
 ```
  - it's the name of the spot, my suggestion is to provide it in local language, as it may sometimes help find it easier. If you think that translated name will be a better solution use "descriptionShort" instead, and leave "name" empty ("")
