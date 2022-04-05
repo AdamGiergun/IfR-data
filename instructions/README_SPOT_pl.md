@@ -72,8 +72,8 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 ```
 - mam nadzieję, że to oczywiste,
 ```
-   "latitude": "0.0",
-   "longitude": "0.0"
+   "latitude": 0.0,
+   "longitude": 0.0
 ```
 - współrzędne geograficzne miejsca. Jednym z najłatwiejszych sposobów ich odnalezienia będzie wejście na Google Maps, zaznaczenie miejsca i naciśnięcie ikonki zaznaczenia lub kliknięcie jej prawym przyciskiem myszy.<br>
   Następnie na komputerze lewym przyciskiem myszy można skopiować wyświetlone współrzędne do schowka.

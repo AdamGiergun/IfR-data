@@ -72,8 +72,8 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 ```
  - I hope it's obvious
 ```
-   "latitude": "0.0",
-   "longitude": "0.0"
+   "latitude": 0.0,
+   "longitude": 0.0
 ```
  - geographic coordinates of the spot. One of the easiest ways of finding it will be opening Google Maps, marking the spot and pressing mark icon or clicking it with mouse's right button.<br> 
    Then on computer with mouse's left button you can copy coordinates to the clipboard.
