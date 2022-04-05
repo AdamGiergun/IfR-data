@@ -1,7 +1,7 @@
 Examples of entered spot data are to be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) 
 ```
 {
-"id": "0",
+"id": 0,
 ```
  - for a new record leave it as 0, I'll assign it later. But when it's an updated or aimed to be deleted record, copy existing data to be deleted or updated [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) and use it's id.
 ```

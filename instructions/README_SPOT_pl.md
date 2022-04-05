@@ -1,9 +1,9 @@
 Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json)
 ```
 {
-"id": "0",
+"id": 0,
 ```
-- dla nowego wpisu należy pozostawić 0, numer zostanie przypisany później. Natomiest jeśli jest to zaktualizowany lub przeznaczony do usunięcia wpis, należy skopiuj istniejące dane [stąd](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) i zmienić je pozostawiając oryginalne id.
+- dla nowego wpisu należy pozostawić 0, numer zostanie przypisany później. Natomiest jeśli jest to zaktualizowany lub przeznaczony do usunięcia wpis, należy skopiować istniejące dane [stąd](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) i zmienić je pozostawiając oryginalne id.
 ```
 "confirmed": false,
 ```
