@@ -38,5 +38,20 @@
     <string name="location_info_text">Use it for sorting spots by the distance from your current location.</string>
     <string name="share_info_text">Use it for sharing info about this app.</string>
     <string name="link_info_text">All the blue links in text can be touched to go to the https://webpage, or to make phone call, or to start writing e-mail.</string>
+    <string name="map_icon_info_text">Touch this icon on the list to find this spot on the map.</string>
+    <string name="pinpoint_info_text">Touch this pinpoint on the map, and then the directions icon in the right bottom corner, to find a route to this point.</string>
+    <string name="report_new_spot">Report a new spot</string>
+    <string name="name_label">Name:</string>
+    <string name="send_email">send as an e-mail</string>
+    <string name="description_short">Short description:</string>
+    <string name="description_long">Longer description:</string>
+    <string name="territorial_unit">Territorial unit:</string>
+    <string name="locality">Locality:</string>
+    <string name="street">Street:</string>
+    <string name="building">Building:</string>
+    <string name="room">Room:</string>
+    <string name="post_code">Post code:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
 
 </resources>
