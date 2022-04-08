@@ -4,10 +4,50 @@
       "id": "reception",
       "dbType": "new",
       "name": {
-        "en": "Reception",
+        "en": "Reception point",
         "pl": "Punkt recepcyjny",
         "ru": "Стойка регистрации",
         "uk": "Прийом"
+      }
+    },
+    {
+      "id": "registration",
+      "dbType": "new",
+      "name": {
+        "en": "Registration point",
+        "pl": "Punkt rejestracji",
+        "ru": "Пункт регистрации",
+        "uk": "Пункт реєстрації"
+      }
+    },
+    {
+      "id": "PESEL",
+      "dbType": "new",
+      "name": {
+        "en": "PESEL registration point",
+        "pl": "Punkt rejestracji PESEL",
+        "ru": "Пункт регистрации PESEL",
+        "uk": "Пункт реєстрації PESEL"
+      }
+    },
+    {
+      "id": "ZUS",
+      "dbType": "new",
+      "name": {
+        "en": "ZUS registration point",
+        "pl": "Punkt rejestracji ZUS",
+        "ru": "Пункт регистрации ZUS",
+        "uk": "Пункт реєстрації ZUS"
+      }
+    },
+    {
+      "id": "educationRegistration",
+      "dbType": "new",
+      "name": {
+        "en": "Children's registration point for educational institutions",
+        "pl": "Punkt rejestracji dzieci do placówek oświatowych",
+        "ru": "Детский регистрационный пункт для образовательных учреждений",
+        "uk": "Пункт реєстрації дітей для навчальних закладів"
       }
     },
     {
@@ -18,6 +58,16 @@
         "pl": "Punkt informacyjny",
         "ru": "Информационная точка",
         "uk": "Інформаційна точка"
+      }
+    },
+    {
+      "id": "financialSupport",
+      "dbType": "new",
+      "name": {
+        "en": "Financial support",
+        "pl": "Wsparcie finansowe",
+        "ru": "Финансовая поддержка",
+        "uk": "Фінансова підтримка"
       }
     },
     {

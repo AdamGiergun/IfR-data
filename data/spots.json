@@ -1,7 +1,236 @@
 {
   "spots": [
     {
+      "id": 1,
+      "confirmed": true,
+      "name": "Сайт Республіки Польща",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL",
+      "location": {
+        "locality": "",
+        "street": "",
+        "buildingId": "",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://www.gov.pl/web/ua"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": 51,
+      "confirmed": true,
+      "name": "UNHCR - The UN Refugee Agency",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Information for New Arrivals From Ukraine",
+        "pl": "Informacje dla osób pochodzących z Ukrainy",
+        "ru": "Информация для прибывших в Польшу из Украины",
+        "uk": "Інформація для прибулих до Польщі з України"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL",
+      "location": {
+        "locality": "",
+        "street": "",
+        "buildingId": "",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "contacts": [
+        {
+          "phone": "+48226286930",
+          "eMail": "polwa@unhcr.org",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://help.unhcr.org/poland/information-for-new-arrivals-from-ukraine/",
+            "pl": "https://help.unhcr.org/poland/pl/informacje-dla-osob-pochodzacych-z-ukrainy/",
+            "ru": "https://help.unhcr.org/poland/uk/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%b8%d0%b1%d1%83%d0%bb%d0%b8%d1%85-%d0%b4%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d1%89%d1%96-%d0%b7-%d1%83%d0%ba/",
+            "uk": "https://help.unhcr.org/poland/uk/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%b8%d0%b1%d1%83%d0%bb%d0%b8%d1%85-%d0%b4%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d1%89%d1%96-%d0%b7-%d1%83%d0%ba/"
+          }
+        }
+      ],
+      "services": [
+        "financialSupport"
+      ]
+    },
+    {
+      "id": 52,
+      "confirmed": true,
+      "name": "UNHCR - The UN Refugee Agency",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Financial help for the refugees from Ukraine.\nPlease, register on the www website first.",
+        "pl": "Pomoc finansowa dla uchodźców z Ukrainy.\nProszę najpierw zarejestrować się na stronie www.",
+        "ru": "Фінансова допомога біженцям з України.\nБудь ласка, спочатку зареєструйтеся на сайті www.",
+        "uk": "Материальная помощь беженцам из Украины.\nПожалуйста, сначала зарегистрируйтесь на сайте www."
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1465",
+      "location": {
+        "locality": "Warszawa",
+        "street": "ul. Grochowska",
+        "buildingId": "316/320",
+        "flatOrRoomId": "",
+        "postCode": "03-839",
+        "latitude": 52.24710094963868,
+        "longitude": 21.060939185507905
+      },
+      "contacts": [
+        {
+          "phone": "+48226286930",
+          "eMail": "polwa@unhcr.org",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://help.unhcr.org/poland/information-for-new-arrivals-from-ukraine/",
+            "pl": "https://help.unhcr.org/poland/pl/informacje-dla-osob-pochodzacych-z-ukrainy/",
+            "ru": "https://help.unhcr.org/poland/uk/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%b8%d0%b1%d1%83%d0%bb%d0%b8%d1%85-%d0%b4%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d1%89%d1%96-%d0%b7-%d1%83%d0%ba/",
+            "uk": "https://help.unhcr.org/poland/uk/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%b8%d0%b1%d1%83%d0%bb%d0%b8%d1%85-%d0%b4%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d1%89%d1%96-%d0%b7-%d1%83%d0%ba/"
+          }
+        }
+      ],
+      "services": [
+        "financialSupport"
+      ]
+    },
+    {
+      "id": 53,
+      "confirmed": true,
+      "name": "UNHCR - The UN Refugee Agency",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Financial help for the refugees from Ukraine.\nPlease, register on the www website first.",
+        "pl": "Pomoc finansowa dla uchodźców z Ukrainy.\nProszę najpierw zarejestrować się na stronie www.",
+        "ru": "Фінансова допомога біженцям з України.\nБудь ласка, спочатку зареєструйтеся на сайті www.",
+        "uk": "Материальная помощь беженцам из Украины.\nПожалуйста, сначала зарегистрируйтесь на сайте www."
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Stanisława Lema ",
+        "buildingId": "7",
+        "flatOrRoomId": "TAURON Arena",
+        "postCode": "31-571",
+        "latitude": 50.06774911263514,
+        "longitude": 19.991413556627077
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "polwa@unhcr.org",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://help.unhcr.org/poland/information-for-new-arrivals-from-ukraine/",
+            "pl": "https://help.unhcr.org/poland/pl/informacje-dla-osob-pochodzacych-z-ukrainy/",
+            "ru": "https://help.unhcr.org/poland/uk/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%b8%d0%b1%d1%83%d0%bb%d0%b8%d1%85-%d0%b4%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d1%89%d1%96-%d0%b7-%d1%83%d0%ba/",
+            "uk": "https://help.unhcr.org/poland/uk/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%b8%d0%b1%d1%83%d0%bb%d0%b8%d1%85-%d0%b4%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d1%89%d1%96-%d0%b7-%d1%83%d0%ba/"
+          }
+        }
+      ],
+      "services": [
+        "financialSupport"
+      ]
+    },
+    {
       "id": 101,
+      "confirmed": true,
+      "name": "Сайт Республіки Польща",
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL",
+      "location": {
+        "locality": "",
+        "street": "",
+        "buildingId": "",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "https://www.gov.pl/web/ua"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+    {
+      "id": 103,
       "confirmed": true,
       "name": "",
       "type": "office",
@@ -25,8 +254,8 @@
         "buildingId": "",
         "flatOrRoomId": "",
         "postCode": "",
-        "latitude": 52.211573587200164,
-        "longitude": 21.01666334311178
+        "latitude": 0.0,
+        "longitude": 0.0
       },
       "contacts": [
         {
@@ -2388,6 +2617,58 @@
         "temporaryAccommodation",
         "restPlace",
         "basicMedicalAssistance"
+      ]
+    },
+    {
+      "id": 1037,
+      "confirmed": true,
+      "name": "Punkt rejestracji",
+      "type": "registrationPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Stanisława Lema ",
+        "buildingId": "7",
+        "flatOrRoomId": "TAURON Arena",
+        "postCode": "31-571",
+        "latitude": 50.06774911263514,
+        "longitude": 19.991413556627077
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "registration",
+        "information",
+        "PESEL",
+        "financialSupport",
+        "jobOffers",
+        "ZUS"
       ]
     }
   ]
