@@ -3,14 +3,14 @@
     {
       "id": 1,
       "confirmed": true,
-      "name": "Сайт Республіки Польща",
+      "name": "",
       "type": "office",
       "dbType": "new",
       "descriptionShort": {
-        "en": "",
-        "pl": "",
-        "ru": "",
-        "uk": ""
+        "en": "Website of the Republic of Poland for refugees from Ukraine",
+        "pl": "Witryna Rzeczypospolitej Polskiej dla uchodźców z Ukrainy",
+        "ru": "Сайт Республики Польша для беженцев из Украины",
+        "uk": "Веб-сайт Республіки Польща для біженців з України"
       },
       "descriptionLong": {
         "en": "",
@@ -187,50 +187,6 @@
     },
     {
       "id": 101,
-      "confirmed": true,
-      "name": "Сайт Республіки Польща",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
-        "en": "",
-        "pl": "",
-        "ru": "",
-        "uk": ""
-      },
-      "descriptionLong": {
-        "en": "",
-        "pl": "",
-        "ru": "",
-        "uk": ""
-      },
-      "territorialUnitId": "PL",
-      "location": {
-        "locality": "",
-        "street": "",
-        "buildingId": "",
-        "flatOrRoomId": "",
-        "postCode": "",
-        "latitude": 0.0,
-        "longitude": 0.0
-      },
-      "contacts": [
-        {
-          "phone": "",
-          "eMail": "",
-          "sms": "",
-          "name": "",
-          "services": [],
-          "www": {
-            "en": "https://www.gov.pl/web/ua"
-          }
-        }
-      ],
-      "services": [
-        "information"
-      ]
-    },
-    {
-      "id": 103,
       "confirmed": true,
       "name": "",
       "type": "office",

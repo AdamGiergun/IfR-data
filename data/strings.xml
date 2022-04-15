@@ -9,6 +9,7 @@
     <string name="action_share">Share</string>
 
     <string name="share_app">Share app</string>
+    <string name="app_link" translatable="false">https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees</string>
     <string name="weblink">Website</string>
     <string name="eMail">e-mail</string>
     <string name="app_link_info">\"%1$s\" - app link in Google Play Store</string>
@@ -21,15 +22,9 @@
     <string name="gps_disabled_info">GPS seems to be disabled, do you want to enable it?</string>
     <string name="km">km</string>
 
-    <string name="preference_file_key" translatable="false">ifr_preferences</string>
     <string name="dismiss">DISMISS</string>
     <string name="close">CLOSE</string>
-    <string name="welcome_text">Hi, let me tell you why it is so important that the big number of people have downloaded this app and/or made it available to other interested in it, even if now there are still not too much data in it.\n\n
-        The ultimate goal of this application is to enable refugees to find in one place at least the majority of information about where they can find the necessary help. Currently, the application is under development, and next to some useful functions, mainly needs to provide data searched by users.\n\n
-        While I am able to (as far as possible), work on the first goal, it is impossible for me to find and put in the application all the necessary data in a very short time. I need a lot of help to achieve this.\n\n
-        I do not doubt that finding many willing to provide this help will be much more likely if this app will be downloaded in a short time by a very significant number of users. Because this will prove a great demand for it.\n\n
-        At the link below, anyone willing to help shell find more information:\n
-        <a href="https://github.com/AdamGiergun/IfR-data/blob/main/README.md"> https://github.com/AdamGiergun/IfR-data/blob/main/README.md </a>\n\n %s</string>
+    <string name="welcome_text">This app is not affiliated by any government institution and all of the links provided in this app are here only for informational purposes.\n\n        Hi, let me tell you why it is so important that the big number of people have downloaded this app and/or made it available to other interested in it, even if now there are still not too much data in it.\n\nThe ultimate goal of this application is to enable refugees to find in one place at least the majority of information about where they can find the necessary help. Currently, the application is under development, and next to some useful functions, mainly needs to provide data searched by users.\n\nWhile I am able to (as far as possible), work on the first goal, it is impossible for me to find and put in the application all the necessary data in a very short time. I need a lot of help to achieve this.\n\nI do not doubt that finding many willing to provide this help will be much more likely if this app will be downloaded in a short time by a very significant number of users. Because this will prove a great demand for it.\n\nAt the link below, anyone willing to help shell find more information:\n\n<a href="https://github.com/AdamGiergun/IfR-data/blob/main/README.md"> https://github.com/AdamGiergun/IfR-data/blob/main/README.md </a>\n\n %s</string>
     <string name="welcome_text_end">You need to click the button below to access current app data. This info will be later available via menu option “Helpers”. And one of the easiest ways of sharing this info and app will be the use of “share” icon from toolbar.</string>
     <string name="don_t_show_again">Don\'t show again</string>
     <string name="helpers">Helpers</string>
@@ -53,4 +48,16 @@
     <string name="post_code">Post code:</string>
     <string name="latitude">Latitude:</string>
     <string name="longitude">Longitude:</string>
+    <string name="get_location_button">Get location button</string>
+    <string name="contacts">Contacts:</string>
+    <string name="contact">Contact</string>
+    <string name="phone_label">Phone:</string>
+    <string name="email_label">e-Mail:</string>
+    <string name="website_label">Website:</string>
+    <string name="contact_services_label">Services:\n(use only if there are specific services assigned to contact)</string>
+    <string name="person_label" >Contact person name or department:</string>
+    <string name="services_label">Services:</string>
+    <string name="use_only_if_needed">Use only if needed</string>
+    <string name="privacy_policy_link"><a href="https://www.adamgiergun.eu/privacy_policy/privacy-policy-for-info-for-refugees">Privacy policy</a></string>
+    <string name="action_contact">Contact</string>
 </resources>

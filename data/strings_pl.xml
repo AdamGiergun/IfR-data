@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">IfR</string>
+    <string name="appbar_title">Informacje dla uchodźców</string>
+    <string name="action_share">Udostępnij</string>
+
+    <string name="share_app">Udostępnij apkę</string>
+    <string name="weblink">Strona WWW</string>
+    <string name="eMail">e-mail</string>
+    <string name="app_link_info">\"%1$s\" -  link do apki w Google Play Store</string>
+    <string name="map_link">Przycisk mapy</string>
+    <string name="search">Szukaj</string>
+    <string name="action_locate">Znajdź najbliższe</string>
+    <string name="location_required_error">Usługi lokalizacji muszą być włączone do korzystania z tej opcji.</string>
+    <string name="location_not_fixed">Lokalizacja nie została ustalona</string>
+    <string name="awaiting_for_gps_fix">Oczekiwanie na lokalizację GPS</string>
+    <string name="gps_disabled_info">GPS wydaje się być wyłączony, czy chcesz go włączyć?</string>
+    <string name="km">km</string>
+    <string name="dismiss">UKRYJ</string>
+    <string name="welcome_text">Ta aplikacja nie jest powiązana z żadną instytucją rządową, a wszystkie linki zawarte w tej aplikacji są dostępne wyłącznie w celach informacyjnych.\n\nWitam. Pozwólcie, że powiem wam, dlaczego tak ważne jest, aby jak największa liczba ludzi pobrała tą aplikację i/lub udostępniła innym zainteresowanym informację o niej, nawet jeśli teraz nie ma w niej jeszcze zbyt wiele danych.\n\nOstatecznym celem tej aplikacji jest umożliwienie uchodźcom znalezienie w jednym miejscu przynajmniej większości informacji o tym, gdzie mogą znaleźć potrzebną pomoc. Obecnie aplikacja jest w trakcie rozwoju, i obok niektórych przydatnych funkcji, przede wszystkim potrzebuje dostarczenia danych poszukiwanych przez użytkowników.\n\nPodczas, gdy jestem w stanie (w miarę) pracować nad pierwszym celem, niemożliwe jest, aby znaleźć i umieścić w aplikacji wszystkie te potrzebne dane w bardzo krótkim czasie. Potrzebuję pomocy, aby to osiągnąć.\n\nNie wątpię, że znalezienie wielu chętnych do udzielenia tej pomocy będzie znacznie bardziej prawdopodobne, jeśli ta aplikacja zostanie pobrana w krótkim czasie przez znaczącą liczbę użytkowników. Bo będzie to świadczyło o dużym zapotrzebowaniu na nią.\n\nPod poniższym linkiem każdy chętny do pomocy znajdzie więcej informacji:\n\n<a href="https://github.com/AdamGiergun/IfR-data/blob/main/README-pl.md"> https://github.com/AdamGiergun/IfR-data/blob/main/README-pl.md </a>\n\n %s</string>
+    <string name="welcome_text_end">Nawet jeśli klikniesz poniższy przycisk, znajdziesz tę informację również w menu aplikacji jako "Pomagam". A jednym z najłatwiejszych sposobów udostępniania tych informacji i aplikacji będzie korzystanie z ikony "Udostępnij" z paska narzędzi.\n\n</string>
+    <string name="don_t_show_again">Nie pokazuj ponownie</string>
+    <string name="helpers">Pomagam</string>
+    <string name="help">Pomoc</string>
+    <string name="location_info_text">Użyj go do sortowania punktów wg odległości od bieżącej lokalizacji.</string>
+    <string name="search_info_text">Użyj go do wyszukiwania dowolnego tekstu w danych punktów.</string>
+    <string name="share_info_text">Użyj go do udostępniania informacji o tej aplikacji.</string>
+    <string name="close">ZAMKNIJ</string>
+    <string name="link_info_text">Wszystkie niebieskie linki w tekście można dotknąć, aby przejść do https://strony.internetowej, lub do wykonania połączenia telefonicznego, lub aby rozpocząć pisanie wiadomości e-mail.</string>
+    <string name="pinpoint_info_text">Dotknij tej ikonki na mapie, a następnie ikonki wskazówek w prawym dolnym rogu, aby znaleźć trasę do tego punktu.</string>
+    <string name="map_icon_info_text">Dotknij tej ikony na liście, aby znaleźć to miejsce na mapie.</string>
+    <string name="report_new_spot">Zgłoś nowe miejsce</string>
+    <string name="name_label">Nazwa:</string>
+    <string name="send_email">wyślij jako e-mail</string>
+    <string name="description_short">Krótki opis:</string>
+    <string name="description_long">Dłuższy opis:</string>
+    <string name="territorial_unit">Jednostka terytorialna:</string>
+    <string name="locality">Miejscowość:</string>
+    <string name="street">Ulica:</string>
+    <string name="building">Budynek:</string>
+    <string name="post_code">Kod pocztowy:</string>
+    <string name="longitude">Długość g.:</string>
+    <string name="get_location_button">Przycisk pobierz lokalizację</string>
+    <string name="contacts">Kontakty:</string>
+    <string name="contact">Kontakt</string>
+    <string name="phone_label">Telefon:</string>
+    <string name="email_label">e-mail:</string>
+    <string name="website_label">Strona www:</string>
+    <string name="contact_services_label">Usługi:\n(Używaj tylko wtedy, gdy są przypisane konkretne usługi do kontaktu)</string>
+    <string name="person_label" >Nazwisko osoby kontaktowej lub dział:</string>
+    <string name="services_label">Usługi:</string>
+    <string name="room">Pokój:</string>
+    <string name="latitude">Szerokość g.:</string>
+    <string name="use_only_if_needed">Użyj tylko w razie potrzeby</string>
+    <string name="privacy_policy_link"><a href="https://www.adamgiergun.eu/privacy_policy/privacy-policy-for-info-for-refugees">Polityka prywatności</a></string>
+    <string name="action_contact" >Kontakt</string>
+</resources>
