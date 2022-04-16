@@ -1,13 +1,19 @@
     SERVICE
 ```
     {
-      "id": "",
+      "id": "basicMedicalAssistance",
       "dbType": "new",
       "name": {
-        "en": "",
-        "pl": "",
-        "ru": "",
-        "uk": ""
+        "en": "Basic medical assistance",
+        "pl": "Podstawowa opieka medyczna",
+        "ru": "Основная медицинская помощь",
+        "uk": "Основна медична допомога"
+      },
+      "keywords": {
+        "en": "Doctor, Nurse, Health",
+        "pl": "lekarz, pielęgniarz, pielęgniarka, zdrowie",
+        "ru": "Доктор, медсестра, здоровье",
+        "uk": "Доктор, медсестра, здоров'я"
       }
     }
 ```
