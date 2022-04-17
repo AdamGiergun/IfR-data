@@ -3,6 +3,7 @@
     {
       "id": 1,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -35,6 +36,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://www.gov.pl/web/ua"
           }
@@ -47,6 +54,7 @@
     {
       "id": 51,
       "confirmed": true,
+      "verified": false,
       "name": "UNHCR - The UN Refugee Agency",
       "type": "office",
       "dbType": "new",
@@ -79,6 +87,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://help.unhcr.org/poland/information-for-new-arrivals-from-ukraine/",
             "pl": "https://help.unhcr.org/poland/pl/informacje-dla-osob-pochodzacych-z-ukrainy/",
@@ -94,6 +108,7 @@
     {
       "id": 52,
       "confirmed": true,
+      "verified": false,
       "name": "UNHCR - The UN Refugee Agency",
       "type": "office",
       "dbType": "new",
@@ -126,6 +141,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://help.unhcr.org/poland/information-for-new-arrivals-from-ukraine/",
             "pl": "https://help.unhcr.org/poland/pl/informacje-dla-osob-pochodzacych-z-ukrainy/",
@@ -141,6 +162,7 @@
     {
       "id": 53,
       "confirmed": true,
+      "verified": false,
       "name": "UNHCR - The UN Refugee Agency",
       "type": "office",
       "dbType": "new",
@@ -173,6 +195,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://help.unhcr.org/poland/information-for-new-arrivals-from-ukraine/",
             "pl": "https://help.unhcr.org/poland/pl/informacje-dla-osob-pochodzacych-z-ukrainy/",
@@ -188,6 +216,7 @@
     {
       "id": 101,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -220,6 +249,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy",
             "pl": "https://www.gov.pl/web/mswia/informacja-dla-uchodzcow-z-ukrainy",
@@ -235,6 +270,7 @@
     {
       "id": 201,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -267,6 +303,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://poland.mfa.gov.ua/pl/embassy/kontakt",
             "pl": "https://poland.mfa.gov.ua/pl/embassy/kontakt",
@@ -282,6 +324,7 @@
     {
       "id": 202,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -314,6 +357,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://moldova.mfa.gov.ua/",
             "ru": "https://moldova.mfa.gov.ua/ru",
@@ -328,6 +377,7 @@
     {
       "id": 203,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -360,6 +410,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://romania.mfa.gov.ua/ro",
             "ro": "https://romania.mfa.gov.ua/ro",
@@ -375,6 +431,7 @@
     {
       "id": 204,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -407,6 +464,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://hungary.mfa.gov.ua/en",
             "hu": "https://hungary.mfa.gov.ua/hu",
@@ -429,6 +492,7 @@
     {
       "id": 205,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -461,6 +525,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://slovakia.mfa.gov.ua/",
             "sk": "https://slovakia.mfa.gov.ua/sk",
@@ -476,6 +546,7 @@
     {
       "id": 301,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -508,6 +579,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://lublin.mfa.gov.ua/pl",
             "pl": "https://lublin.mfa.gov.ua/pl",
@@ -523,6 +600,7 @@
     {
       "id": 302,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -555,6 +633,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://krakow.mfa.gov.ua/en",
             "pl": "https://krakow.mfa.gov.ua/pl",
@@ -573,6 +657,7 @@
     {
       "id": 303,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -605,6 +690,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://gdansk.mfa.gov.ua/",
             "pl": "https://gdansk.mfa.gov.ua/",
@@ -620,6 +711,7 @@
     {
       "id": 304,
       "confirmed": true,
+      "verified": false,
       "name": "",
       "type": "office",
       "dbType": "new",
@@ -652,6 +744,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "https://nyiregyhaza.mfa.gov.ua/",
             "pl": "https://nyiregyhaza.mfa.gov.ua/hu",
@@ -670,6 +768,7 @@
     {
       "id": 1001,
       "confirmed": true,
+      "verified": false,
       "name": "Dom Studencki T-16 \"Tower\"",
       "type": "receptionPoint",
       "dbType": "new",
@@ -702,6 +801,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -723,6 +828,7 @@
     {
       "id": 1002,
       "confirmed": true,
+      "verified": false,
       "name": "Port Lotniczy",
       "type": "receptionPoint",
       "dbType": "new",
@@ -755,6 +861,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -776,6 +888,7 @@
     {
       "id": 1003,
       "confirmed": true,
+      "verified": false,
       "name": "Hotel Kopernik",
       "type": "receptionPoint",
       "dbType": "new",
@@ -808,6 +921,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -829,6 +948,7 @@
     {
       "id": 1004,
       "confirmed": true,
+      "verified": false,
       "name": "Noclegi Pracownicze",
       "type": "receptionPoint",
       "dbType": "new",
@@ -861,6 +981,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -882,6 +1008,7 @@
     {
       "id": 1005,
       "confirmed": true,
+      "verified": false,
       "name": "Pałac Suchodolskich Gminny Ośrodek Kultury i Turystyki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -914,6 +1041,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -935,6 +1068,7 @@
     {
       "id": 1006,
       "confirmed": true,
+      "verified": false,
       "name": "Przygraniczne Centrum Kultury i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -967,6 +1101,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -988,6 +1128,7 @@
     {
       "id": 1007,
       "confirmed": true,
+      "verified": false,
       "name": "Przygraniczne Centrum Kultury i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1020,6 +1161,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1041,6 +1188,7 @@
     {
       "id": 1008,
       "confirmed": true,
+      "verified": false,
       "name": "Szkoła Podstawowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1073,6 +1221,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1094,6 +1248,7 @@
     {
       "id": 1009,
       "confirmed": true,
+      "verified": false,
       "name": "Miejski Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1126,6 +1281,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1147,6 +1308,7 @@
     {
       "id": 1010,
       "confirmed": true,
+      "verified": false,
       "name": "Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1179,6 +1341,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1200,6 +1368,7 @@
     {
       "id": 1011,
       "confirmed": true,
+      "verified": false,
       "name": "Ośrodek Sportu i Rekreacji",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1232,6 +1401,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1253,6 +1428,7 @@
     {
       "id": 1012,
       "confirmed": true,
+      "verified": false,
       "name": "Hala OSiR",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1285,6 +1461,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1306,6 +1488,7 @@
     {
       "id": 1013,
       "confirmed": true,
+      "verified": false,
       "name": "Gminny Ośrodek Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1338,6 +1521,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1359,6 +1548,7 @@
     {
       "id": 1014,
       "confirmed": true,
+      "verified": false,
       "name": "Zespół Szkół Nr 4",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1391,6 +1581,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1412,6 +1608,7 @@
     {
       "id": 1015,
       "confirmed": true,
+      "verified": false,
       "name": "Urząd Wojewódzki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1444,6 +1641,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1465,6 +1668,7 @@
     {
       "id": 1016,
       "confirmed": true,
+      "verified": false,
       "name": "Łódzki Dom Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1497,6 +1701,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1518,6 +1728,7 @@
     {
       "id": 1017,
       "confirmed": true,
+      "verified": false,
       "name": "Dworzec Główny",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1550,6 +1761,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1571,6 +1788,7 @@
     {
       "id": 1018,
       "confirmed": true,
+      "verified": false,
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1603,6 +1821,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1624,6 +1848,7 @@
     {
       "id": 1019,
       "confirmed": true,
+      "verified": false,
       "name": "Dworzec PKS",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1656,6 +1881,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1677,6 +1908,7 @@
     {
       "id": 1020,
       "confirmed": true,
+      "verified": false,
       "name": "Dworzec Warszawa Zachodnia",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1709,6 +1941,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1730,6 +1968,7 @@
     {
       "id": 1021,
       "confirmed": true,
+      "verified": false,
       "name": "COS Torwar",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1762,6 +2001,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1783,6 +2028,7 @@
     {
       "id": 1022,
       "confirmed": true,
+      "verified": false,
       "name": "Dom Studenta „Sokrates”",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1815,6 +2061,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1836,6 +2088,7 @@
     {
       "id": 1023,
       "confirmed": true,
+      "verified": false,
       "name": "Świetlica",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1868,6 +2121,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1889,6 +2148,7 @@
     {
       "id": 1024,
       "confirmed": true,
+      "verified": false,
       "name": "Hala sportowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1921,6 +2181,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1942,6 +2208,7 @@
     {
       "id": 1025,
       "confirmed": true,
+      "verified": false,
       "name": "Szkoła Podstawowa w m. Krowica Sama ,  Krowica Sama",
       "type": "receptionPoint",
       "dbType": "new",
@@ -1974,6 +2241,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -1995,6 +2268,7 @@
     {
       "id": 1026,
       "confirmed": true,
+      "verified": false,
       "name": "Była Szkoła Podstawowa",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2027,6 +2301,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2048,6 +2328,7 @@
     {
       "id": 1027,
       "confirmed": true,
+      "verified": false,
       "name": "Centrum Handlu i Magazynowania Korczowa Dolina – Hala Kijowska",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2080,6 +2361,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2101,6 +2388,7 @@
     {
       "id": 1028,
       "confirmed": true,
+      "verified": false,
       "name": "Dworzec kolejowy",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2133,6 +2421,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2154,6 +2448,7 @@
     {
       "id": 1029,
       "confirmed": true,
+      "verified": false,
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2186,6 +2481,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2207,6 +2508,7 @@
     {
       "id": 1030,
       "confirmed": true,
+      "verified": false,
       "name": "Dom Harcerza",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2239,6 +2541,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2260,6 +2568,7 @@
     {
       "id": 1031,
       "confirmed": true,
+      "verified": false,
       "name": "Urząd Wojewódzki",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2292,6 +2601,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2313,6 +2628,7 @@
     {
       "id": 1032,
       "confirmed": true,
+      "verified": false,
       "name": "Dworzec PKP",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2345,6 +2661,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2366,6 +2688,7 @@
     {
       "id": 1033,
       "confirmed": true,
+      "verified": false,
       "name": "Miejskie Centrum Kultury",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2398,6 +2721,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2419,6 +2748,7 @@
     {
       "id": 1034,
       "confirmed": true,
+      "verified": false,
       "name": "Punkt recepcyjny",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2451,6 +2781,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2472,6 +2808,7 @@
     {
       "id": 1035,
       "confirmed": true,
+      "verified": false,
       "name": "Międzynarodowe Targi Poznańskie",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2504,6 +2841,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2525,6 +2868,7 @@
     {
       "id": 1036,
       "confirmed": true,
+      "verified": false,
       "name": "Punkt recepcyjny",
       "type": "receptionPoint",
       "dbType": "new",
@@ -2557,6 +2901,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -2578,6 +2928,7 @@
     {
       "id": 1037,
       "confirmed": true,
+      "verified": false,
       "name": "Punkt rejestracji",
       "type": "registrationPoint",
       "dbType": "new",
@@ -2610,6 +2961,12 @@
           "sms": "",
           "name": "",
           "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",

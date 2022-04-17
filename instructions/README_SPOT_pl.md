@@ -6,6 +6,7 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 - dla nowego wpisu należy pozostawić 0, numer zostanie przypisany później. Natomiest jeśli jest to zaktualizowany lub przeznaczony do usunięcia wpis, należy skopiować istniejące dane [stąd](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) i zmienić je pozostawiając oryginalne id.
 ```
 "confirmed": false,
+"verified": false,
 ```
 - należy pozostawić domyślną wartość `false`,
 ```
@@ -90,11 +91,20 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
       "sms": "",
       "name": "",
 ```
-- imię i nazwisko osoby do kontaktu (o ile jest taka)
+- ostatnia pozycja to n.p. imię i nazwisko osoby do kontaktu lub wydział (wypełniamy tylko jeśli to potrzebne)
 ```
    "services": []
 ```
-- używać go tylko wtedy, gdy są usługi obsługiwane tylko przez określone kontakty. Na końcu tej instrukcji znajduje się wyjaśnienie usług.
+- używać go tylko wtedy, gdy są usługi obsługiwane tylko przez określone kontakty/wydziały. Na końcu tej instrukcji znajduje się wyjaśnienie usług.
+```
+   "info": {
+      "en": "",
+      "pl": "",
+      "ru": "",
+      "uk": ""
+   },
+```
+ - używać jeśli potrzebne jest umieszczenie dodatkowych informacji dla kontaktu
 ```
    },
    "www": {
@@ -114,4 +124,7 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 ]
 }
 ```
-- lista identyfikatorów usług dostępnych w danej lokalizacji. Pełna lista rodzajów usług jest dostępna [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json), i można proponować dodatkowe opcje.
+- lista identyfikatorów usług dostępnych w danej lokalizacji.<br>
+  Używać jeśli nie wypełniamy tej informacji dla kontaktu, lub gdy potrzebne jest poinformowanie o usługach nieprzypisanych do żadnego konkretnego kontaktu.<br>
+  Pełna lista rodzajów usług jest dostępna [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json).<br>
+  W razie potrzeby proszę zaproponować dodatkowe usługi. [Instrukcja tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/README_SERVICES_pl.md)

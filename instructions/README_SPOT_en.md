@@ -6,8 +6,9 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
  - for a new record leave it as 0, I'll assign it later. But when it's an updated or aimed to be deleted record, copy existing data to be deleted or updated [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json) and use it's id.
 ```
 "confirmed": false,
+"verified": false,
 ```
- - leave default `false` value,
+ - leave default `false` value, it's for internal use,
 ```
 "name": "",
 ```
@@ -90,11 +91,20 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
       "sms": "",
       "name": "",
 ```
- - contact person name (if needed)
+ - last position is for example for contact person name or department (if needed)
 ```
    "services": []
 ```
 - use it only if there are services served only by specific contacts, look at the end for services explanation
+```
+   "info": {
+      "en": "",
+      "pl": "",
+      "ru": "",
+      "uk": ""
+   },
+```
+- use it if additional info is needed for contact
 ```
    },
    "www": {
@@ -114,4 +124,7 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 ]
 }
 ```
- - list of services' ids available at the spot. List of services is available [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json) and expandable.
+ - list of services' ids available at the spot.<br>
+   Use if you do not fill this information for contact, or when you need to inform about the services not assigned with any contact.<br>
+   List of all services is available [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json).
+   If necessary, please propose additional services. [instruction here](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/README_SERVICES_en.md)
