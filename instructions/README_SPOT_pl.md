@@ -28,9 +28,10 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
    "uk": ""
 },
 ```
-- To pole można użyć dla przetłumaczonej nazwy (jak wyjaśniłem w "name") lub dodatkowych informacji. Jeśli chodzi o języki, nie ograniczają się one do tych z przykładu. Można użyć dowolnego akronimu.<br>
+- To pole można użyć dla przetłumaczonej nazwy (jeśli jest potrzebne, jak wyjaśniłem w opisie pola "name") i/lub dodatkowych informacji.<br>
+  Jeśli chodzi o języki, nie ograniczają się one do tych z przykładu. Można użyć dowolnego akronimu języka.<br>
   Pełną listę akronimów językowych można znaleźć tutaj: [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).<br>
-  (należy używać wartości pola "Subtag:" z wpisu oznaczonego jako "Type: language")
+  (należy używać wartości pola "Subtag:" z rekordu oznaczonego jako "Type: language")
 ```
 "descriptionLong": {
    "en": "",

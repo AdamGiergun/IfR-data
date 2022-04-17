@@ -28,9 +28,10 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
    "uk": ""
 },
 ```
- - use it for translated name (as explained in "name"), or some additional info. As for languages, these are not limited to these in example. You can use any acronym.<br>
+ - use it for translated name (if needed, as explained in the "name" field description), and/or for providing some additional info.<br>
+   As for languages, these are not limited to these in example. You can use any language acronym.<br>
    Full list of language acronyms can be found here: [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).<br>
-   (use "Subtag:" of "Type: language")
+   (use "Subtag:" of "Type: language" record)
 ```
 "descriptionLong": {
    "en": "",
@@ -39,7 +40,7 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
    "uk": ""
 },
 ```
- - field left for future use for some elaborate info, feel free to use it, I'll find the way of displaying it. 
+ - content of this field will be visible in an extended view of a spot, and available via "more info"
 ```
 "territorialUnitId": "",
 ```
