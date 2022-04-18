@@ -15,6 +15,7 @@
     <li><a href="#service">&nbsp;&nbsp;&nbsp;&nbsp;Service</a></li>
     </ol></li>
     <li><a href="#credits">Credits</a></li>
+    <li><a href="#about-me">About me</a></li>
   </ol>
 </details>
 
@@ -100,3 +101,31 @@ The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-
 * This is a place waiting for `You` :smile:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ABOUT_ME -->
+
+## About me
+
+* I am an IT specialist, in recent years mainly developing my own Android application projects and self-improving in the art of programming.
+* I have many years of experience in the IT industry, most of which is work in a small, dynamic, high-tech company, where a creative approach to projects was very important.
+  I participated in many team projects. Often my work was an important (and sometimes a key) part of them, and I also ran many one-man projects for which I was fully responsible.
+* Z ostatnich lat mam też za sobą również doświadczenie z pracy w miedzynarodowym zespole rozproszonym w różnych lokalizacjach, dla firmy [DIO-soft](http://www.dio-soft.com/en/) z Ukrainy,
+  zakontraktowanej przez globalną korporację finansową (niestety utraciła ona ten kontrakt przez obawy koncernu związane z agresją Rosji).
+* In addition to practical experience, eight years ago I graduated from [Cracow University of Economics](https://uek.krakow.pl/),
+  in the field of [Applied Computer Science](https://studiuj.uek.krakow.pl/listings/kierunek-informatyka-stosowana-niestarówka-i-stopien/) [(specialization Software Engineering)](https://studiuj.uek.krakow.pl/listings/specjalnosc-inzynieria-oprogramowania-niestacjonarne-i-stopien/).
+  The studies were financed from the European Union funds (which was connected with increased requirements). During them, I got a scholarship for my academic performance and my final grade was "Very Good".
+* If I have to describe 
+
+* When it comes to projects of social importance, I am afraid that I am "hereditary" in this direction: wink: <br>
+  Two of my grandparents were very famous in their neighborhood for community service and as a result were elected to the City Council. <br>
+  Both of my parents received state badges for their social activities.
+  I myself have been involved in various social activities over the years and creating a project like this is much more important to me than getting a well-paid job as a programmer.
+
+* If I were to describe my other advantages, relevant to my ability to lead this project, they would be:<br>
+  Extensive general knowledge (not only in the field of IT).<br>
+  Creativity (my "problem" is excess, not lack of ideas).<br>
+  The ability to quickly assimilate very specialized knowledge, combined with its successful application in practical solutions.<br>
+  Ability to work hard and persistently in order to achieve ambitious goals.<br>
+  Communicative and non-conflict, open-minded personality.
+  
+<p align="right">(<a href="#top">powrót</a>)</p>

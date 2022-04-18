@@ -16,6 +16,7 @@
     <li><a href="#service">&nbsp;&nbsp;&nbsp;&nbsp;Service</a></li>
     </ol></li>
     <li><a href="#podziękowania">Podziękowania</a></li>
+    <li><a href="#o-mnie">O mnie</a></li>
   </ol>
 </details>
 
@@ -100,5 +101,34 @@ Dane są podzielone na trzy typy: [spot](https://github.com/AdamGiergun/IfR-data
 ## Podziękowania
 
 * To miejsce czeka na `Ciebie` :smile:
+
+<p align="right">(<a href="#top">powrót</a>)</p>
+
+<!-- ABOUT_ME -->
+
+## O mnie
+
+* Jestem specjalistą IT, w ostatnich latach głównie rozwijającym własne projekty aplikacji na system Android i samodoskonalącym się w sztuce programowania.
+* Mam za sobą wieloletnie doświadczenie w branży IT, z czego większość to praca w małej, dynamicznej firmie high-tech, w której bardzo liczyło się kreatywne podejście do projektów. 
+  Uczestniczyłem w niej w wielu projektach zespołowych. Często moja praca była ważną (a czasem kluczową) ich częścią, jak również prowadziłem wiele jednoosobowych projektów, za które odpowiadałem w całości.
+* Z ostatnich lat mam też za sobą również doświadczenie z pracy w miedzynarodowym zespole rozproszonym w różnych lokalizacjach, dla firmy [DIO-soft](http://www.dio-soft.com/en/) z Ukrainy,
+  zakontraktowanej przez globalną korporację finansową (niestety utraciła ona ten kontrakt przez obawy koncernu związane z agresją Rosji).
+* Oprócz doświadczeń praktycznych, osiem lat temu ukończyłem studia na [Uniwersytecie Ekonomicznym w Krakowie](https://uek.krakow.pl/), 
+  na kierunku [Informatyka Stosowana](https://studiuj.uek.krakow.pl/listings/kierunek-informatyka-stosowana-niestacjonarne-i-stopien/) [(specjalność Inżynieria Oprogramowania)](https://studiuj.uek.krakow.pl/listings/specjalnosc-inzynieria-oprogramowania-niestacjonarne-i-stopien/).
+  Studia były opłacone z funduszy Unii Europejskiej (co wiązało się z podwyższonymi wymogami). W ich trakcie zdobywałem stypendium za wyniki w nauce i ukończyłem je z wynikiem "bardzo dobrym".  
+  Oprócz zajęć dotyczących czysto matematyczno-informatycznej wiedzy, poznawałem tam też podstawy np. ekonomii, ekonomiki przedsiębiorstw, zarządzania, psychologii, czy prawa.
+
+* Jak chodzi o projekty o znaczeniu społecznym, to obawiam się, że jestem "dziedzicznie uwarunkowany" w tym kierunku :wink: <br>
+  Dwoje z moich dziadków było w swoim sąsiedztwie bardzo znanych z działań na rzecz lokalnej społeczności i w efekcie byli wybierani do Rady Miejskiej.<br>
+  Oboje z moich rodziców otrzymali odznaki państwowe za swoją działaność społeczną.
+  Ja sam przez lata udzielałem się w różny sposób w działaniach społecznościowych i tworzenie takiego projektu jak ten jest dla mnie o wiele ważniejsze niż zdobycie dobrze płatnej pracy jako programista.
+
+* Jeśli miałbym opisać inne swoje zalety, istotne pod kątem zdolności do prowadzenia tego projektu, to byłyby to:
+  Rozległa wiedza ogólna (nie tylko z zakresu IT).
+  Kreatywność (moim "problemem" jest nadmiar, a nie brak pomysłów). :wink:
+  Zdolność do szybkiego przyswajania sobie bardzo specjalistycznej wiedzy, połączona ze stosowaniem jej z powodzeniem w rozwiązaniach praktycznych.
+  Zdolność do ciężkiej wytrwałej pracy, po to aby realizować ambitne cele.
+  Komunikatywność i niekonfliktowa, otwarta osobowość.
+
 
 <p align="right">(<a href="#top">powrót</a>)</p>
