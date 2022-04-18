@@ -28,7 +28,7 @@ Część projektu stworzonego jako szybka odpowiedź na ogromny kryzys humanitar
 Jest to repozytorium zawierające listę miejsc udzielających pomocy ukraińskim uchodźcom i wykorzystywane przez moją aplikację na Androida, [dostępna tutaj](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
 Miejsca mogą posiadać adresy, numery telefonów, e-maile, strony internetowe, informacje o świadczonych usługach, itp..
 
-Ponieważ wprowadzenie tych danych dla jak największej liczby miejsc w krótkim czasie jest dla jednej osoby "mission impossible", to zdecydowanie potrzebuję pomocy.<br>
+Ponieważ wprowadzenie tych danych dla jak największej liczby miejsc w możliwie najkrótszym czasie jest dla jednej osoby "mission impossible", to zdecydowanie potrzebuję pomocy.<br>
 Poniżej znajdują się instrukcje dotyczące przygotowywania tych danych.
 
 ### Cele
@@ -46,7 +46,7 @@ Krótkoterminowe:
 
 Dłuższoterminowe:
 * Stworzenie organizacji prowadzącej ten projekt i zatrudniającej osoby niezbędne do jego rozwoju i utrzymania.
-* Jeśli nie zaszkodzi to projektowi: udostępnić kod źródłowy w formie projektów "open source", dla zapewnienia pełnej transparentności.
+* Jeśli nie zaszkodzi to projektowi: udostępnić kod źródłowy w formie projektów "open source", dla zapewnienia pełnej transparentności (dane aplikacji są już udostępnione na warunkach [licencji GNU GPL](https://github.com/AdamGiergun/IfR-data/blob/main/LICENSE)).
 * Stworzenie narzędzi do wprowadzania danych do bazy (np. wygodny interfejs dla przeglądarki internetowej), oraz API umożliwiające dostęp do tych danych przez interfejsy użytkownika (strona internetowa, aplikacje, wtyczki).
 * Stworzenie interfejsów użytkownika dla innych platform (strona internetowa, aplikacje na inne systemy).
 * Stworzenie wtyczki do stron internetowych, aby umożliwić każdemu chętnemu udostępnienie wybranego zakresu danych z bazy projektu na swojej stronie internetowej.

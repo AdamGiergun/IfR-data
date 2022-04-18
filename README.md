@@ -27,7 +27,7 @@ Part of a project created as a quick response to the huge humanitarian crisis ca
 It is a repository containing a list of spots providing assistance to Ukrainian refugees and used by my Android application, [available here] (https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
 Places can have addresses, telephone numbers, e-mails, websites, information about services provided, etc.
 
-Since it is "mission impossible" for one person to enter this data for as many places as possible in a short time, I definitely need a lot of help.<br>
+Since entering this data for as many spots as possible in the shortest possible time is "mission impossible" for one person, I definitely need a lot of help.<br>
 Instructions on how to prepare this data are provided below.
 
 ### Objectives
@@ -39,15 +39,20 @@ Instructions on how to prepare this data are provided below.
 
 Short term:
 * Create a list of (at least) most spots providing help to refugees.<br>
+
 * Provide high-quality translations.<br>
   [Let me know](mailto:adam.giergun@gmail.com) if you'd like to help me with this task.<br>
   Please start the email title with `#IfR-helpOffer:` in this case.
 
 Long term:
 * Establishing an organization that runs this project and employs people necessary for its development and maintenance.
-* If it does not harm the project: make the source code available in the form of "open source" projects to ensure full transparency.
+
+* If it does not harm the project: make the source code available in the form of "open source" projects to ensure full transparency (application data is already released under the terms of the GNU GPL [license](https://github.com/AdamGiergun/IfR-data/blob/main/LICENSE)).
+
 * Creating tools for entering data into the database (e.g. a convenient interface for a web browser), and API enabling access to this data through user interfaces (website, applications, plugins).
+
 * Creation of user interfaces for other platforms (website, applications for other systems).
+
 * Creating a website plugin to enable anyone willing to share a selected range of data from the project database on their website.
 
 Very long term:
