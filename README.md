@@ -107,14 +107,16 @@ The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-
 ## About me
 
 * I am an IT specialist, in recent years mainly developing my own Android application projects and self-improving in the art of programming.
+  
 * I have many years of experience in the IT industry, most of which is work in a small, dynamic, high-tech company, where a creative approach to projects was very important.
   I participated in many team projects. Often my work was an important (and sometimes a key) part of them, and I also ran many one-man projects for which I was fully responsible.
-* Z ostatnich lat mam też za sobą również doświadczenie z pracy w miedzynarodowym zespole rozproszonym w różnych lokalizacjach, dla firmy [DIO-soft](http://www.dio-soft.com/en/) z Ukrainy,
-  zakontraktowanej przez globalną korporację finansową (niestety utraciła ona ten kontrakt przez obawy koncernu związane z agresją Rosji).
+
+* In recent years, I have also had experience working in an international team dispersed in various locations, for the company [DIO-soft](http://www.dio-soft.com/en/) from Ukraine,
+  contracted by a global financial corporation (unfortunately, DIO-soft lost this contract due to this corporation's concerns about Russia's aggression).
+  
 * In addition to practical experience, eight years ago I graduated from [Cracow University of Economics](https://uek.krakow.pl/),
   in the field of [Applied Computer Science](https://studiuj.uek.krakow.pl/listings/kierunek-informatyka-stosowana-niestarówka-i-stopien/) [(specialization Software Engineering)](https://studiuj.uek.krakow.pl/listings/specjalnosc-inzynieria-oprogramowania-niestacjonarne-i-stopien/).
   The studies were financed from the European Union funds (which was connected with increased requirements). During them, I got a scholarship for my academic performance and my final grade was "Very Good".
-* If I have to describe 
 
 * When it comes to projects of social importance, I am afraid that I am "hereditary" in this direction: wink: <br>
   Two of my grandparents were very famous in their neighborhood for community service and as a result were elected to the City Council. <br>
