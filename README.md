@@ -22,31 +22,34 @@
 
 ### About The Project
 
-Part of a project created as a quick response to a huge humanitarian crisis caused by the War on Ukraine.<br>
-It is repository containing list of spots providing help to Ukrainian refugees and used by my Android app, [available here](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
-Spots can have physical addresses, phone numbers, e-mails, websites, info about services provided, etc..
+Part of a project created as a quick response to the huge humanitarian crisis caused by the war in Ukraine.<br>
+It is a repository containing a list of spots providing assistance to Ukrainian refugees and used by my Android application, [available here] (https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
+Places can have addresses, telephone numbers, e-mails, websites, information about services provided, etc.
 
-As entering this data for as many as possible spots in a short time is "mission impossible" for one person I obviously need a help.<br>
-Below are instructions for preparing this data.
+Since it is "mission impossible" for one person to enter this data for as many places as possible in a short time, I definitely need a lot of help.<br>
+Instructions on how to prepare this data are provided below.
 
 ### Objectives
 
-Now:
-* Add ability to report new spots directly thorough the app
+* Implementing advanced message receiving capabilities (very limited are already present).<br> 
+  The messages would be: important messages, information about events, etc.<br>
+  Messages would be addressed to a specific territorial unit and would have a specific validity period.<br>
+  Users would be able to choose the territorial units for which they would like to receive messages.<br>
 
 Short term:
-* Create a list of (at least) most of the spots providing help for refugees.<br>
-* Provide better translations.<br>
-  [Let me know](mailto:adam.giergun@gmail.com) if you wanna help me with this task.<br>
-  Please, start then e-mail subject with `#IfR-data: `.
+* Create a list of (at least) most spots providing help to refugees.<br>
+* Provide high-quality translations.<br>
+  [Let me know](mailto:adam.giergun@gmail.com) if you'd like to help me with this task.<br>
+  Please start the email title with `#IfR-helpOffer:` in this case.
 
-Longer term:
-* Create tools for entering data to the database (like a some feasible web interface).
-* Create user interface for other platforms.
+Long term:
+* Creating tools for entering data into the database (e.g. a convenient interface for a web browser), and API enabling access to this data through user interfaces (website, applications, plugins).
+* Creation of user interfaces for other platforms (website, applications for other systems).
+* Creating a website plugin to enable anyone willing to share a selected range of data from the project database on their website.
 
-Much longer term:
-* Unfortunately this refugee crisis is not the only one. I hope to convert this project into permanent, to serve in any similar crisis. Please feel free to contact me if you want to help me achieve it: [my e-mail](mailto:adam.giergun@gmail.com) with `#IfR-permanent: `in e-mail subject.
-
+Very long term:
+* Unfortunately, this refugee crisis is not the only one. I hope to turn this project into something permanent to provide help in any humanitarian crisis. <br>
+  Feel free to contact me if you want to help me with this project: [my e-mail is] (mailto: adam.giergun@gmail.com) - please remember to start the e-mail title with `# IfR-permanent:` .
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -59,31 +62,32 @@ Much longer term:
 
 ### Contribution
 
-The best way of supporting this project will be providing me with [translations](https://github.com/AdamGiergun/IfR-data#translations), and an app's data formatted as a JSON file, accordingly to the standard I propose.<br>
-Using Android Studio for entering data is not a must, so look at the [info about alternatives](https://github.com/AdamGiergun/IfR-data/issues/1)
+The most urgent thing would be to provide me with the best possible quality [translations](https://github.com/AdamGiergun/IfR-data#translations) and data for the application.
+It is best for the data to be prepared in JSON format, in accordance with the standard proposed by me. More details below: [Data](https://github.com/AdamGiergun/IfR-data#data) <br>
+It is not necessary to use Android Studio to enter this data, therefore take a look at [information about alternatives](https://github.com/AdamGiergun/IfR-data/issues/1)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Translations
-* Good translations are needed for all READMEs in this repository, and also for [strings](https://github.com/AdamGiergun/IfR-data/blob/main/data/strings.xml) used in the app.
+* Very good quality translations are highly needed for all README files in this repository as well as for [strings](https://github.com/AdamGiergun/IfR-data/blob/main/data/strings.xml) used in this application.
 
-Data are structured in three types: [spot](https://github.com/AdamGiergun/IfR-data#spot), [territorial unit](https://github.com/AdamGiergun/IfR-data#territorial-unit) and [service](https://github.com/AdamGiergun/IfR-data#service).
+The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-data#spot), [territorial unit](https://github.com/AdamGiergun/IfR-data#territorial-unit) and [service](https://github.com/AdamGiergun/IfR-data#service).
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Spot
-* `Spot` contains all the info about place.
-  Spots data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json).<br>
-  For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_SPOT_<language acronym>.md`.
+* The `spot` contains all the information about the place.<br>
+  The `spots` data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json).<br>
+  Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), by selecting the proper `README_SPOT_<language acronym>.md`
   
 ### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit
-* `Territorial unit` is one of the properties of spot coming from administrative division of country.<br>
-  For Poland searchable list of territorial units with ids is provided by Central Statistical Office, and can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default),
-  but as ids come from standard based on ISO 19000 I strongly suspect that other countries have equivalent lists.<br>
+* The `Territorial Unit`, is one of the properties of a place, derived from the administrative division of a given country.<br>
+  For Poland, the searchable list of territorial units with identifiers is provided by the Central Statistical Office and can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default). <br>
+  As the identifiers are from an ISO 19000 based standard, I suspect other countries must use equivalent lists.<br>
   If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2). <br>
-  Data file for territorial units is [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json). <br>
-  For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_TU_<language acronym>.md`.
+  The territorial units data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json). <br>
+  Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/) by selecting the proper `README_TU_<language acronym>.md`.
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;Service  
-* `Service` is (just as it name suggests) a service offered by the spot.<br>
-  Services data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json). <br>
-  For instructions look [here](https://github.com/AdamGiergun/IfR-data/tree/main/instructions), and find a proper `README_SERVICE_<language acronym>.md`.
+* The `Service` is simply the service offered by the given` spot`.<br>
+  The service data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json). <br>
+  Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/) by selecting the specific `README_SERVICE_ <language acronym> .md`.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
