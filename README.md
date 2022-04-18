@@ -118,7 +118,8 @@ The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-
 
 * When it comes to projects of social importance, I am afraid that I am "hereditary" in this direction: wink: <br>
   Two of my grandparents were very famous in their neighborhood for community service and as a result were elected to the City Council. <br>
-  Both of my parents received state badges for their social activities.
+  Both of my parents received state badges for their social activities.<br>
+  As a result, there was always somewhere deep inside me a desire to try to at least equal their achievements.<br>
   I myself have been involved in various social activities over the years and creating a project like this is much more important to me than getting a well-paid job as a programmer.
 
 * If I were to describe my other advantages, relevant to my ability to lead this project, they would be:<br>

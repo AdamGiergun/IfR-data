@@ -120,7 +120,8 @@ Dane są podzielone na trzy typy: [spot](https://github.com/AdamGiergun/IfR-data
 
 * Jak chodzi o projekty o znaczeniu społecznym, to obawiam się, że jestem "dziedzicznie uwarunkowany" w tym kierunku :wink: <br>
   Dwoje z moich dziadków było w swoim sąsiedztwie bardzo znanych z działań na rzecz lokalnej społeczności i w efekcie byli wybierani do Rady Miejskiej.<br>
-  Oboje z moich rodziców otrzymali odznaki państwowe za swoją działaność społeczną.
+  Oboje z moich rodziców otrzymali odznaki państwowe za swoją działaność społeczną.<br>
+  W efekcie zawsze gdzieś w głębi mnie tkwiła chęć do tego, żebym spróbował przynajmniej dorównać ich osiągnięciom.<br>
   Ja sam przez lata udzielałem się w różny sposób w działaniach społecznościowych i tworzenie takiego projektu jak ten jest dla mnie o wiele ważniejsze niż zdobycie dobrze płatnej pracy jako programista.
 
 * Jeśli miałbym opisać inne swoje zalety, istotne pod kątem zdolności do prowadzenia tego projektu, to byłyby to:
