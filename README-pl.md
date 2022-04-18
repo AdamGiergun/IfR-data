@@ -25,7 +25,7 @@
 ### O projekcie
 
 Część projektu stworzonego jako szybka odpowiedź na ogromny kryzys humanitarny wywołany wojną na Ukrainie.<br>
-Jest to repozytorium zawierające listę miejsc udzielających pomocy ukraińskim uchodźcom i wykorzystywane przez moją aplikację na Androida, [dostępna tutaj](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
+Jest to repozytorium zawierające listę miejsc udzielających pomocy ukraińskim uchodźcom i wykorzystywane przez moją aplikację na Androida, [dostępna tutaj](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees). <br>
 Miejsca mogą posiadać adresy, numery telefonów, e-maile, strony internetowe, informacje o świadczonych usługach, itp..
 
 Ponieważ wprowadzenie tych danych dla jak największej liczby miejsc w możliwie najkrótszym czasie jest dla jednej osoby "mission impossible", to zdecydowanie potrzebuję pomocy.<br>
@@ -70,7 +70,7 @@ Długoterminowe:
 ### Jak można wesprzeć ten projekt
 
 Najpilniejsze byłoby dostarczenie mi jak najlepszej jakości [tłumaczeń](https://github.com/AdamGiergun/IfR-data#translations) oraz danych dla aplikacji.
-Najlepiej aby dane przygotowane były w formacie JSON, zgodnie z proponowanym przeze mnie standardem. Wiecej szczegółów poniżej: [Dane](https://github.com/AdamGiergun/IfR-data#dane)<br>
+Najlepiej aby dane przygotowane były w formacie JSON, zgodnie z proponowanym przeze mnie standardem. Wiecej szczegółów poniżej: [Dane](https://github.com/AdamGiergun/IfR-data#dane) <br>
 Używanie Android Studio do wprowadzania tych danych nie jest koniecznością, więc spójrz na [informacje o alternatywach](https://github.com/AdamGiergun/IfR-data/issues/1)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Tłumaczenia
@@ -81,7 +81,7 @@ Dane są podzielone na trzy typy: [spot](https://github.com/AdamGiergun/IfR-data
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Spot
 * `Spot` zawiera wszystkie informacje o miejscu.<br>
-  Plik danych `spotów` można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json).<br>
+  Plik danych `spotów` można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json). <br>
   Instrukcje można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/), wybierając konkretny plik `README_SPOT_<akronim języka>.md`.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit

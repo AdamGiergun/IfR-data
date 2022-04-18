@@ -59,7 +59,7 @@ Long term:
 
 Very long term:
 * Unfortunately, this refugee crisis is not the only one. I hope to turn this project into something permanent to provide help in any humanitarian crisis. <br>
-  Feel free to contact me if you want to help me with this project: [my e-mail is] (mailto: adam.giergun@gmail.com) - please remember to start the e-mail title with `# IfR-permanent:` .
+  Feel free to contact me if you want to help me with this project: [my e-mail is](mailto:adam.giergun@gmail.com) - please remember to start the e-mail title with `# IfR-permanent:` .
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -83,7 +83,7 @@ The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Spot
 * The `spot` contains all the information about the place.<br>
-  The `spots` data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json).<br>
+  The `spots` data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json). <br>
   Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), by selecting the proper `README_SPOT_<language acronym>.md`
   
 ### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit
