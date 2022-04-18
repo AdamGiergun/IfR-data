@@ -44,6 +44,7 @@ Krótkoterminowe:
   Proszę, zacznij w takim wypadku tytuł e-maila od `#IfR-helpOffer: `.
 
 Dłuższoterminowe:
+* Stworzenie organizacji prowadzącej ten projekt i zatrudniającej osoby niezbędne do jego rozwoju i utrzymania. 
 * Stworzenie narzędzi do wprowadzania danych do bazy (np. wygodny interfejs dla przeglądarki internetowej), oraz API umożliwiające dostęp do tych danych przez interfejsy użytkownika (strona internetowa, aplikacje, wtyczki).
 * Stworzenie interfejsów użytkownika dla innych platform (strona internetowa, aplikacje na inne systemy).
 * Stworzenie wtyczki do stron internetowych, aby umożliwić każdemu chętnemu udostępnienie wybranego zakresu danych z bazy projektu na swojej stronie internetowej.

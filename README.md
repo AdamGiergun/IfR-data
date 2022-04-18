@@ -43,6 +43,7 @@ Short term:
   Please start the email title with `#IfR-helpOffer:` in this case.
 
 Long term:
+* Establishing an organization that runs this project and employs people necessary for its development and maintenance.
 * Creating tools for entering data into the database (e.g. a convenient interface for a web browser), and API enabling access to this data through user interfaces (website, applications, plugins).
 * Creation of user interfaces for other platforms (website, applications for other systems).
 * Creating a website plugin to enable anyone willing to share a selected range of data from the project database on their website.
