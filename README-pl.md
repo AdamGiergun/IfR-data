@@ -39,7 +39,10 @@ Teraz:
   Użytkownicy mieliby możliwość wyboru jednostek terytorialnych, dla których chcieliby otrzymywać wiadomości.<br>
 
 Krótkoterminowe:
-* Stworzyć listę (przynajmniej) większości miejsc udzielających pomocy uchodźcom.
+* Stworzyć listę (przynajmniej) większości miejsc udzielających pomocy uchodźcom.<br>
+  Jednym ze sposobów osiągnięcia tego byłaby szeroko zakrojona kampania marketingowa projektu.<br>
+  Nie ulega wątpliwości, że wysoka widoczność projektu zwiększa liczbę instytucji i osób, które chcą się do niego przyczynić o kilka rzędów wielkości.  
+
 * Zapewnić wysokiej jakości tłumaczenia.<br>
   [Daj mi znać](mailto:adam.giergun@gmail.com), jeśli chcesz mi pomóc w tym zadaniu.<br>
   Proszę, zacznij w takim wypadku tytuł e-maila od `#IfR-helpOffer: `.

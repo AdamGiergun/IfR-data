@@ -39,6 +39,8 @@ Instructions on how to prepare this data are provided below.
 
 Short term:
 * Create a list of (at least) most spots providing help to refugees.<br>
+  One way to achieve this would be through an extensive marketing campaign for the project.<br>
+  There is no doubt that the high visibility of the project increases the number of institutions and people willing to contribute to it by several orders of magnitude.
 
 * Provide high-quality translations.<br>
   [Let me know](mailto:adam.giergun@gmail.com) if you'd like to help me with this task.<br>
