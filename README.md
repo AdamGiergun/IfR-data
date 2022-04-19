@@ -4,9 +4,10 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#Other-language-versions">Other language versions</a></li>
+    <li><a href="#about-the-project">About the project</a></li>
     <li><a href="#objectives">Objectives</a></li>
-    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#built-with">Built with</a></li>
     <li><a href="#contribution">Contribution</a>
     <ol>
     <li><a href="#translations">&nbsp;&nbsp;&nbsp;&nbsp;Translations</a></li>
@@ -19,12 +20,20 @@
   </ol>
 </details>
 
+<!-- OTHER LANGUAGE VERSIONS -->
+
+### Other language versions
+
+ * [Wersja polska](https://github.com/AdamGiergun/IfR-data/blob/main/README-pl.md)
+ * [Українська версія (не готова)](https://github.com/AdamGiergun/IfR-data/blob/main/README-uk.md)
+ * [Російська версія (не готова)](https://github.com/AdamGiergun/IfR-data/blob/main/README-ru.md)
+
 <!-- ABOUT THE PROJECT -->
 
 ### About The Project
 
 Part of a project created as a quick response to the huge humanitarian crisis caused by the war in Ukraine.<br>
-It is a repository containing a list of spots providing assistance to Ukrainian refugees and used by my Android application, [available here] (https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees).<br>
+It is a repository containing a list of spots providing assistance to Ukrainian refugees and used by my Android application, [available here](https://play.google.com/store/apps/details?id=eu.adamgiergun.infoforukrainianrefugees). <br>
 Places can have addresses, telephone numbers, e-mails, websites, information about services provided, etc.
 
 Since entering this data for as many spots as possible in the shortest possible time is "mission impossible" for one person, I definitely need a lot of help.<br>
