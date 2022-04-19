@@ -1,4 +1,5 @@
-    SERVICE
+   SERVICE
+
 ```
     {
       "id": "basicMedicalAssistance",
@@ -17,19 +18,24 @@
       }
     }
 ```
-    TERRITORIAL UNIT
+   TERRITORIAL UNIT
 ```
     {
-      "id": "PL",
-      "dbType": "new",
-      "name": {
-        "en": "Poland",
-        "pl": "Polska",
-        "ru": "Польша",
-        "uk": "Польща"
-      }}
+        "id": "PL",
+        "dbType": "new",
+        "name": {
+            "en": "Poland",
+            "pl": "Polska",
+            "ru": "Польша",
+            "uk": "Польща"
+        },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    }
 ```
-    SPOT
+   SPOT
 ```
     {
       "id": "",
