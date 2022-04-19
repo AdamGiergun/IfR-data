@@ -422,6 +422,34 @@
       }
     },
     {
+      "id": "PL-1206",
+      "dbType": "new",
+      "name": {
+        "en": "Kraków County",
+        "pl": "Powiat krakowski",
+        "ru": "Краковский повет",
+        "uk": "Краківський повіт"
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
+    {
+      "id": "PL-1206162",
+      "dbType": "new",
+      "name": {
+        "en": "Gmina Zabierzów",
+        "pl": "Gmina Zabierzów",
+        "ru": "Забежув (гмина)",
+        "uk": "Забежув (гміна)"
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
+    {
       "id": "PL-1212",
       "dbType": "new",
       "name": {
