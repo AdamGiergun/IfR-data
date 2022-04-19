@@ -26,7 +26,7 @@
 
  * [Wersja polska](https://github.com/AdamGiergun/IfR-data/blob/main/README-pl.md)
  * [Українська версія (не готова)](https://github.com/AdamGiergun/IfR-data/blob/main/README-uk.md)
- * [Російська версія (не готова)](https://github.com/AdamGiergun/IfR-data/blob/main/README-ru.md)
+ * [Русская версия (не готова)](https://github.com/AdamGiergun/IfR-data/blob/main/README-ru.md)
 
 <!-- ABOUT THE PROJECT -->
 
