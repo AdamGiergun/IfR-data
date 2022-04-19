@@ -104,9 +104,9 @@ The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-
   Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/) by selecting the proper `README_TU_<language acronym>.md`.
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;Service  
-* The `Service` is simply the service offered by the given` spot`.<br>
+* The `Service` is simply the service offered by the given `spot`.<br>
   The service data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json). <br>
-  Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/) by selecting the specific `README_SERVICE_ <language acronym> .md`.
+  Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/) by selecting the specific `README_SERVICE_<language acronym>.md`.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
