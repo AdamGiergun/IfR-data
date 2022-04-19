@@ -9,7 +9,12 @@
         "pl": "Polska",
         "ru": "Польша",
         "uk": "Польща"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "MD",
       "dbType": "new",
@@ -18,7 +23,12 @@
         "ro": "Молдова",
         "ru": "Молдавия",
         "uk": "Молдова"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "RO",
       "dbType": "new",
@@ -27,7 +37,12 @@
         "ro": "România",
         "ru": "Румыния",
         "uk": "Румунія"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "HU",
       "dbType": "new",
@@ -36,7 +51,12 @@
         "hu": "Magyarország",
         "ru": "Венгрия",
         "uk": "Угорщина"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "SK",
       "dbType": "new",
@@ -45,7 +65,12 @@
         "sk": "Slovensko",
         "ru": "Словакия",
         "uk": "Словаччина"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-02",
       "dbType": "new",
@@ -54,7 +79,12 @@
         "pl": "Województwo dolnośląskie",
         "ru": "Нижнесилезское воеводство",
         "uk": "Нижньосілезьке воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0264",
       "dbType": "new",
@@ -63,7 +93,12 @@
         "pl": "Wrocław",
         "ru": "Вроцлав",
         "uk": "Вроцлав"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-04",
       "dbType": "new",
@@ -72,7 +107,12 @@
         "pl": "Województwo kujawsko-pomorskie",
         "ru": "Куявско-Поморское воеводство",
         "uk": "Куявсько-Поморське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0463",
       "dbType": "new",
@@ -81,7 +121,12 @@
         "pl": "Toruń",
         "ru": "Торунь",
         "uk": "Торунь"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0461",
       "dbType": "new",
@@ -90,7 +135,12 @@
         "pl": "Bydgoszcz",
         "ru": "Быдгощ",
         "uk": "Бидгощ"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-06",
       "dbType": "new",
@@ -99,7 +149,12 @@
         "pl": "Województwo lubelskie",
         "ru": "Люблинское воеводство",
         "uk": "Люблінське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0603",
       "dbType": "new",
@@ -108,7 +163,12 @@
         "pl": "Powiat chełmski",
         "ru": "Хелмский повет",
         "uk": "Холмський повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0603042",
       "dbType": "new",
@@ -117,7 +177,12 @@
         "pl": "Gmina Dorohusk",
         "ru": "Дорохуск (гмина)",
         "uk": "Дорогуськ (гміна)"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0604",
       "dbType": "new",
@@ -126,7 +191,12 @@
         "pl": "Powiat hrubieszowski",
         "ru": "Хрубешувский повет",
         "uk": "Грубешівський повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0604011",
       "dbType": "new",
@@ -135,7 +205,12 @@
         "pl": "Hrubieszów",
         "ru": "Хрубешув",
         "uk": "Грубешів"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0604022",
       "dbType": "new",
@@ -144,7 +219,12 @@
         "pl": "Gmina Dołhobyczów",
         "ru": "Долхобычув (гмина)",
         "uk": "Долобичів (гміна)"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0604032",
       "dbType": "new",
@@ -153,7 +233,12 @@
         "pl": "Gmina Horodło",
         "ru": "Хородло (гмина)",
         "uk": "Городло (гміна)"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0604052",
       "dbType": "new",
@@ -162,7 +247,12 @@
         "pl": "Mircze",
         "ru": "Мирче",
         "uk": "Мірче"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0618",
       "dbType": "new",
@@ -171,7 +261,12 @@
         "pl": "Powiat tomaszowski",
         "ru": "Томашувский повет",
         "uk": "Томашівський повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0618011",
       "dbType": "new",
@@ -180,7 +275,12 @@
         "pl": "Tomaszów Lubelski",
         "ru": "Томашув-Любельски",
         "uk": "Томашів-Любельський"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0618054",
       "dbType": "new",
@@ -189,7 +289,12 @@
         "pl": "Lubycza Królewska",
         "ru": "Любыча-Крулевская",
         "uk": "Любича Королівська"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0662",
       "dbType": "new",
@@ -198,7 +303,12 @@
         "pl": "Chełm",
         "ru": "Хелм",
         "uk": "Холм"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0663",
       "dbType": "new",
@@ -207,7 +317,12 @@
         "pl": "Lublin",
         "ru": "Люблин",
         "uk": "Люблін"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0664",
       "dbType": "new",
@@ -216,7 +331,12 @@
         "pl": "Zamość - powiat",
         "ru": "Замосць повет",
         "uk": "Замостя повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0664011",
       "dbType": "new",
@@ -225,7 +345,12 @@
         "pl": "Zamość",
         "ru": "Замосць",
         "uk": "Замостя"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-08",
       "dbType": "new",
@@ -234,7 +359,12 @@
         "pl": "Województwo lubuskie",
         "ru": "Любушское воеводство",
         "uk": "Любуське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-0861",
       "dbType": "new",
@@ -243,7 +373,12 @@
         "pl": "Gorzów Wielkopolski",
         "ru": "Гожув-Велькопольски",
         "uk": "Ґожув-Велькопольський"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-10",
       "dbType": "new",
@@ -252,7 +387,12 @@
         "pl": "Województwo łódzkie",
         "ru": "Лодзинское воеводство",
         "uk": "Лодзинське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1061",
       "dbType": "new",
@@ -261,7 +401,12 @@
         "pl": "Łódź",
         "ru": "Лодзь",
         "uk": "Лодзь"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-12",
       "dbType": "new",
@@ -270,7 +415,12 @@
         "pl": "Województwo małopolskie",
         "ru": "Малопольское воеводство",
         "uk": "Малопольське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1212",
       "dbType": "new",
@@ -279,7 +429,12 @@
         "pl": "Olkusz - powiat",
         "ru": "Олькушский повет",
         "uk": "Олькуський повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1212054",
       "dbType": "new",
@@ -288,7 +443,12 @@
         "pl": "Olkusz",
         "ru": "Олькуш",
         "uk": "Олькуш"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1261",
       "dbType": "new",
@@ -297,7 +457,12 @@
         "pl": "Kraków",
         "ru": "Краков",
         "uk": "Краків"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1263",
       "dbType": "new",
@@ -306,7 +471,12 @@
         "pl": "Tarnów",
         "ru": "Тарнув",
         "uk": "Тарнів"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-14",
       "dbType": "new",
@@ -315,7 +485,12 @@
         "pl": "Województwo mazowieckie",
         "ru": "Мазовецкое воеводство",
         "uk": "Мазовецьке воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1465",
       "dbType": "new",
@@ -324,7 +499,12 @@
         "pl": "Warszawa",
         "ru": "Варшава",
         "uk": "Варшава"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-16",
       "dbType": "new",
@@ -333,7 +513,12 @@
         "pl": "Województwo opolskie",
         "ru": "Опольское воеводство",
         "uk": "Опольське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1661",
       "dbType": "new",
@@ -342,7 +527,12 @@
         "pl": "Opole",
         "ru": "Ополе",
         "uk": "Ополе"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-18",
       "dbType": "new",
@@ -351,7 +541,12 @@
         "pl": "Województwo podkarpackie",
         "ru": "Подкарпатское воеводство",
         "uk": "Підкарпатське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1801",
       "dbType": "new",
@@ -360,7 +555,12 @@
         "pl": "Powiat bieszczadzki",
         "ru": "Бещадский повят",
         "uk": "Бещадський повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1801083",
       "dbType": "new",
@@ -369,7 +569,12 @@
         "pl": "Ustrzyki Dolne (gmina)",
         "ru": "Устшики-Дольне (гмина)",
         "uk": "Устрики-Долішні (гміна)"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1804",
       "dbType": "new",
@@ -378,7 +583,12 @@
         "pl": "Powiat jarosławski",
         "ru": "Ярославский повят",
         "uk": "Ярославський повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1804082",
       "dbType": "new",
@@ -387,7 +597,12 @@
         "pl": "Radymno (gmina wiejska)",
         "ru": "Радымно (гмина)",
         "uk": "Радимно (гміна)"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1809",
       "dbType": "new",
@@ -396,7 +611,12 @@
         "pl": "Powiat lubaczowski",
         "ru": "Любачувский повят",
         "uk": "Любачівський повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1809042",
       "dbType": "new",
@@ -405,7 +625,12 @@
         "pl": "Lubaczów (gmina wiejska)",
         "ru": "Любачув (гмина)",
         "uk": "Любачів (гміна)"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1813",
       "dbType": "new",
@@ -414,7 +639,12 @@
         "pl": "Powiat przemyski",
         "ru": "Перемышльский повят",
         "uk": "Перемишльський повіт"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1813062",
       "dbType": "new",
@@ -423,7 +653,12 @@
         "pl": "Medyka (gmina wiejska)",
         "ru": "Медыка (гмина)",
         "uk": "Медика (гміна)"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-1862",
       "dbType": "new",
@@ -432,7 +667,12 @@
         "pl": "Przemyśl",
         "ru": "Пшемысль",
         "uk": "Перемишль"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-20",
       "dbType": "new",
@@ -441,7 +681,12 @@
         "pl": "Województwo podlaskie",
         "ru": "Подляское воеводство",
         "uk": "Підляське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-2061",
       "dbType": "new",
@@ -450,7 +695,12 @@
         "pl": "Białystok",
         "ru": "Белосток",
         "uk": "Білосток"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-22",
       "dbType": "new",
@@ -459,7 +709,12 @@
         "pl": "Województwo pomorskie",
         "ru": "Поморское воеводство",
         "uk": "Поморське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-2261",
       "dbType": "new",
@@ -468,7 +723,12 @@
         "pl": "Gdańsk",
         "ru": "Гданьск",
         "uk": "Гданськ"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-24",
       "dbType": "new",
@@ -477,7 +737,12 @@
         "pl": "Województwo śląskie",
         "ru": "Силезское воеводство",
         "uk": "Сілезьке воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-2469",
       "dbType": "new",
@@ -486,7 +751,12 @@
         "pl": "Katowice",
         "ru": "Катовице",
         "uk": "Катовиці"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-26",
       "dbType": "new",
@@ -495,7 +765,12 @@
         "pl": "Województwo świętokrzyskie",
         "ru": "Свентокшиское воеводство",
         "uk": "Свентокшиське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-2661",
       "dbType": "new",
@@ -504,7 +779,12 @@
         "pl": "Kielce",
         "ru": "Кельце",
         "uk": "Кельці"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-28",
       "dbType": "new",
@@ -513,7 +793,12 @@
         "pl": "Województwo warmińsko-mazurskie",
         "ru": "Варминьско-Мазурское воеводство",
         "uk": "Вармінсько-Мазурське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-2862",
       "dbType": "new",
@@ -522,7 +807,12 @@
         "pl": "Olsztyn",
         "ru": "Ольштын",
         "uk": "Ольштин"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-30",
       "dbType": "new",
@@ -531,7 +821,12 @@
         "pl": "Województwo wielkopolskie",
         "ru": "Великопольское воеводство",
         "uk": "Великопольське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-3064",
       "dbType": "new",
@@ -540,7 +835,12 @@
         "pl": "Poznań",
         "ru": "Познань",
         "uk": "Познань"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-32",
       "dbType": "new",
@@ -549,7 +849,12 @@
         "pl": "Województwo zachodniopomorskie",
         "ru": "Западно-Поморское воеводство",
         "uk": "Західнопоморське воєводство"
-      }},
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    },
     {
       "id": "PL-3262",
       "dbType": "new",
@@ -558,6 +863,11 @@
         "pl": "Szczecin",
         "ru": "Щецин",
         "uk": "Щецин"
-      }}
+      },
+      "geoLocation":{
+        "latitude": 0.0,
+        "longitude": 0.0
+      }
+    }
   ]
 }
