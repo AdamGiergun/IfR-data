@@ -131,10 +131,12 @@ Dane są podzielone na trzy typy: [spot](https://github.com/AdamGiergun/IfR-data
   Ja sam przez lata udzielałem się w różny sposób w działaniach społecznościowych i tworzenie takiego projektu jak ten jest dla mnie o wiele ważniejsze niż zdobycie dobrze płatnej pracy jako programista.
 
 * Jeśli miałbym opisać inne swoje zalety, istotne pod kątem zdolności do prowadzenia tego projektu, to byłyby to:
-  Rozległa wiedza ogólna (nie tylko z zakresu IT).
-  Kreatywność (moim "problemem" jest nadmiar, a nie brak pomysłów). :wink:
-  Zdolność do szybkiego przyswajania sobie bardzo specjalistycznej wiedzy, połączona ze stosowaniem jej z powodzeniem w rozwiązaniach praktycznych.
-  Zdolność do ciężkiej wytrwałej pracy, po to aby realizować ambitne cele.
-  Komunikatywność i niekonfliktowa, otwarta osobowość.
+  - Rozległa wiedza ogólna (nie tylko z zakresu IT).
+  - Kreatywność (moim "problemem" jest nadmiar, a nie brak pomysłów). :wink:
+  - Zdolność do szybkiego przyswajania sobie bardzo specjalistycznej wiedzy, połączona ze stosowaniem jej z powodzeniem w rozwiązaniach praktycznych.
+  - Zdolność do ciężkiej wytrwałej pracy, po to aby realizować ambitne cele.
+  - Zaangażowanie: Projekt rozpocząłem 16 marca i od tego dnia zaczynam pracę zwykle o 6 lub 7 rano,
+    i bardzo często kończę około północy (tylko w weekendy, o wstydzie :wink:, pracuję mniej).
+  - Komunikatywność i niekonfliktowa, otwarta osobowość.
 
 <p align="right">(<a href="#top">powrót</a>)</p>

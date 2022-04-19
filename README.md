@@ -141,10 +141,12 @@ The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-
   I myself have been involved in various social activities over the years and creating a project like this is much more important to me than getting a well-paid job as a programmer.
 
 * If I were to describe my other advantages, relevant to my ability to lead this project, they would be:<br>
-  Extensive general knowledge (not only in the field of IT).<br>
-  Creativity (my "problem" is excess, not lack of ideas).<br>
-  The ability to quickly assimilate very specialized knowledge, combined with its successful application in practical solutions.<br>
-  Ability to work hard and persistently in order to achieve ambitious goals.<br>
-  Communicative and non-conflict, open-minded personality.
+  - Extensive general knowledge (not only in the field of IT).<br>
+  - Creativity (my "problem" is excess, not lack of ideas).<br>
+  - The ability to quickly assimilate very specialized knowledge, combined with its successful application in practical solutions.<br>
+  - The ability to work hard and persistently in order to achieve ambitious goals.<br>
+  - Commitment: I started this project on March 16 and from that day I have been usually starting work at 6 or 7 am,
+    and very often I've been finishing around midnight (only on weekends I worked less, shame on me :wink:).
+  - Having communicative and non-conflict, open-minded personality.
   
 <p align="right">(<a href="#top">powrót</a>)</p>
