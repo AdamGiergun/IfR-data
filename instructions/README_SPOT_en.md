@@ -87,6 +87,9 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 ```
    {
       "phone": "",
+```
+ - you can enter multiple phone numbers and separate them with a space.
+```
       "eMail": "",
       "sms": "",
       "name": "",

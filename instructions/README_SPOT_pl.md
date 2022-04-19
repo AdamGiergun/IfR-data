@@ -87,11 +87,14 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 ```
    {
       "phone": "",
+```
+ - można wprowadzić wiele numerów telefonów i oddzielić je spacją.
+```
       "eMail": "",
       "sms": "",
       "name": "",
 ```
-- ostatnia pozycja to n.p. imię i nazwisko osoby do kontaktu lub wydział (wypełniamy tylko jeśli to potrzebne)
+- ostatnia pozycja to n.p. imię i nazwisko osoby do kontaktu lub wydział (wypełniamy tylko jeśli to potrzebne).
 ```
    "services": []
 ```

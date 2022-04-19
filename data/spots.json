@@ -459,7 +459,7 @@
       },
       "contacts": [
         {
-          "phone": "+3614224120",
+          "phone": "+3614224120 +3614224122 +3614224123",
           "eMail": "emb_hu@mfa.gov.ua",
           "sms": "",
           "name": "",
@@ -476,12 +476,6 @@
             "ru": "https://hungary.mfa.gov.ua/",
             "uk": "https://hungary.mfa.gov.ua/"
           }
-        },
-        {
-          "phone": "+3614224122"
-        },
-        {
-          "phone": "+3614224123"
         }
       ],
       "services": [
@@ -628,7 +622,7 @@
       },
       "contacts": [
         {
-          "phone": "+48124296066",
+          "phone": "+48124296066 +48124294522",
           "eMail": "gc_plk@mfa.gov.ua",
           "sms": "",
           "name": "",
@@ -645,9 +639,6 @@
             "ru": "https://krakow.mfa.gov.ua/",
             "uk": "https://krakow.mfa.gov.ua/"
           }
-        },
-        {
-          "phone": "+48124294522"
         }
       ],
       "services": [
@@ -739,7 +730,7 @@
       },
       "contacts": [
         {
-          "phone": "+3642501012",
+          "phone": "+3642501012 +3642501015",
           "eMail": "gc_hun@mfa.gov.ua",
           "sms": "",
           "name": "",
@@ -756,9 +747,6 @@
             "ru": "https://nyiregyhaza.mfa.gov.ua/",
             "uk": "https://nyiregyhaza.mfa.gov.ua/"
           }
-        },
-        {
-          "phone": "+3642501015"
         }
       ],
       "services": [
