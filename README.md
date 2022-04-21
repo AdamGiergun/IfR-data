@@ -41,16 +41,18 @@ Instructions on how to prepare this data are provided below.
 
 ### Objectives
 
-* Implementing advanced message receiving capabilities (very limited are already present).<br> 
-  The messages would be: important messages, information about events, etc.<br>
-  Messages would be addressed to a specific territorial unit and would have a specific validity period.<br>
-  Users would be able to choose the territorial units for which they would like to receive messages.<br>
+Now:
+* Add the ability to sort by location by default.
 
 Short term:
 * Create a list of (at least) most spots providing help to refugees.<br>
   One way to achieve this would be through an extensive marketing campaign for the project.<br>
   There is no doubt that the high visibility of the project increases the number of institutions and people willing to contribute to it by several orders of magnitude.
-
+* Implementing advanced message receiving capabilities (very limited are already present).<br>
+    The messages would be: important messages, information about events, etc.<br>
+    Messages would be addressed to a specific territorial unit and would have a specific validity period.<br>
+    Users would be able to choose the territorial units for which they would like to receive messages.<br>
+* User-reported spots marked as "unconfirmed". Other users should be able to report confirmation of such spots.<br>
 * Provide high-quality translations.<br>
   [Let me know](mailto:adam.giergun@gmail.com) if you'd like to help me with this task.<br>
   Please start the email title with `#IfR-helpOffer:` in this case.

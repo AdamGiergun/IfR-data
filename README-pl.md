@@ -34,14 +34,16 @@ Poniżej znajdują się instrukcje dotyczące przygotowywania tych danych.
 ### Cele
 
 Teraz:
-* Zaimplementowanie zaawansowanych możliwości odbierania wiadomości (bardzo ograniczone są już obecne). Wiadomości to byłyby: ważne komunikaty, informacje o wydarzeniach, itp.<br>
-  Wiadomości byłyby adresowane dla konkretnej jednostki terytorialnej i posiadałyby określony zakres czasowy ważności.<br>
-  Użytkownicy mieliby możliwość wyboru jednostek terytorialnych, dla których chcieliby otrzymywać wiadomości.<br>
+* Dodanie możliwości domyślnego sortowania według lokalizacji.
 
 Krótkoterminowe:
 * Stworzyć listę (przynajmniej) większości miejsc udzielających pomocy uchodźcom.<br>
   Jednym ze sposobów osiągnięcia tego byłaby szeroko zakrojona kampania marketingowa projektu.<br>
   Nie ulega wątpliwości, że wysoka widoczność projektu zwiększa liczbę instytucji i osób, które chcą się do niego przyczynić o kilka rzędów wielkości.  
+* Zaimplementowanie zaawansowanych możliwości odbierania wiadomości (bardzo ograniczone są już obecne). Wiadomości to byłyby: ważne komunikaty, informacje o wydarzeniach, itp.<br>
+  Wiadomości byłyby adresowane dla konkretnej jednostki terytorialnej i posiadałyby określony zakres czasowy ważności.<br>
+  Użytkownicy mieliby możliwość wyboru jednostek terytorialnych, dla których chcieliby otrzymywać wiadomości.<br>
+* Miejsca zgłoszone przez użytkowników oznaczone jako „niepotwierdzone”. Inni użytkownicy powinni mieć możliwość zgłaszania potwierdzenia tego miejsca. <br>
 
 * Zapewnić wysokiej jakości tłumaczenia.<br>
   [Daj mi znać](mailto:adam.giergun@gmail.com), jeśli chcesz mi pomóc w tym zadaniu.<br>
