@@ -52,6 +52,8 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 "territorialUnitId": "",
 ```
  - "Territorial unit id" is one of the properties of spot coming from administrative division of country.<br>
+   First of all, I would suggest [checking here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json),
+   whether the given territorial unit is not present on this list and use its `" id "` if we find it here.<br>
    For Poland searchable list of territorial units with ids is provided by Central Statistical Office, and can be found [here](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default).<br>
    As these ids come from standard based on ISO 19000 I strongly suspect that other countries have equivalent lists.<br>
    If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2)
