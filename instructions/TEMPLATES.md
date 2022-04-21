@@ -40,7 +40,12 @@
     {
       "id": "",
       "confirmed": false,
-      "name": "",
+      "name": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
       "type": "",
       "dbType": "new",
       "descriptionShort": {

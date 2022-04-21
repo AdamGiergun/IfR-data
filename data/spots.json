@@ -4,14 +4,19 @@
       "id": 1,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Website of the Republic of Poland for refugees from Ukraine",
         "pl": "Witryna Rzeczypospolitej Polskiej dla uchodźców z Ukrainy",
         "ru": "Сайт Республики Польша для беженцев из Украины",
         "uk": "Веб-сайт Республіки Польща для біженців з України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -55,7 +60,9 @@
       "id": 51,
       "confirmed": true,
       "verified": false,
-      "name": "UNHCR - The UN Refugee Agency",
+      "name": {
+        "en": "UNHCR - The UN Refugee Agency"
+      },
       "type": "office",
       "dbType": "new",
       "descriptionShort": {
@@ -109,7 +116,9 @@
       "id": 52,
       "confirmed": true,
       "verified": false,
-      "name": "UNHCR - The UN Refugee Agency",
+      "name": {
+        "en": "UNHCR - The UN Refugee Agency"
+      },
       "type": "office",
       "dbType": "new",
       "descriptionShort": {
@@ -163,7 +172,9 @@
       "id": 53,
       "confirmed": true,
       "verified": false,
-      "name": "UNHCR - The UN Refugee Agency",
+      "name": {
+        "en": "UNHCR - The UN Refugee Agency"
+      },
       "type": "office",
       "dbType": "new",
       "descriptionShort": {
@@ -217,14 +228,19 @@
       "id": 101,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "The Ministry of Internal Affairs and Administration \n- Call Center",
         "pl": "Ministerstwo Spraw Wewnętrznych i Administracji \n- Infolinia telefoniczna",
         "ru": "Министерство внутренних дел и администрация \n- Коллцентр",
         "uk": "Міністерство внутрішніх справ та адміністрації \n- Коллцентр"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -271,14 +287,19 @@
       "id": 201,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Embassy of Ukraine - Consular Faculty",
         "pl": "Ambasada Ukrainy - Wydział Konsularny",
         "ru": "Посольство Украины - консульский факультет",
         "uk": "Посольство України - консульський факультет"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -325,14 +346,19 @@
       "id": 202,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Embassy of Ukraine",
         "ro": "Ambasada Ucraineană",
         "ru": "Посольство Украины",
         "uk": "Посольство України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -378,14 +404,19 @@
       "id": 203,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Embassy of Ukraine",
         "ro": "Ambasada Ucraineană",
         "ru": "Посольство Украины",
         "uk": "Посольство України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -432,14 +463,19 @@
       "id": 204,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Embassy of Ukraine",
         "hu": "Ukrajna Nagykövetsége",
         "ru": "Посольство Украины",
         "uk": "Посольство України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -487,14 +523,19 @@
       "id": 205,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Embassy of Ukraine",
         "sk": "Veľvyslanectvо Ukrajiny",
         "ru": "Посольство Украины",
         "uk": "Посольство України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -541,14 +582,19 @@
       "id": 301,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Consulate General of Ukraine",
         "pl": "Konsulat Generalny Ukrainy",
         "ru": "Генеральный консульство Украины",
         "uk": "Генеральне консульство України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -595,14 +641,19 @@
       "id": 302,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Consulate General of Ukraine",
         "pl": "Konsulat Generalny Ukrainy",
         "ru": "Генеральне консульство України",
         "uk": "Генеральне консульство України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -649,14 +700,19 @@
       "id": 303,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Consulate of Ukraine",
         "pl": "Konsulat Ukrainy",
         "ru": "Консульство України",
         "uk": "Консульство України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -703,14 +759,19 @@
       "id": 304,
       "confirmed": true,
       "verified": false,
-      "name": "",
-      "type": "office",
-      "dbType": "new",
-      "descriptionShort": {
+      "name": {
         "en": "Consulate of Ukraine",
         "hu": "Konzulátus Ukrajna",
         "ru": "Консульство України",
         "uk": "Консульство України"
+      },
+      "type": "office",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
       },
       "descriptionLong": {
         "en": "",
@@ -757,7 +818,9 @@
       "id": 1001,
       "confirmed": true,
       "verified": false,
-      "name": "Dom Studencki T-16 \"Tower\"",
+      "name": {
+        "en": "Dom Studencki T-16 \"Tower\""
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -817,7 +880,9 @@
       "id": 1002,
       "confirmed": true,
       "verified": false,
-      "name": "Port Lotniczy",
+      "name": {
+        "en": "Port Lotniczy"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -877,7 +942,9 @@
       "id": 1003,
       "confirmed": true,
       "verified": false,
-      "name": "Hotel Kopernik",
+      "name": {
+        "en": "Hotel Kopernik"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -937,7 +1004,9 @@
       "id": 1004,
       "confirmed": true,
       "verified": false,
-      "name": "Noclegi Pracownicze",
+      "name": {
+        "en": "Noclegi Pracownicze"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -997,7 +1066,9 @@
       "id": 1005,
       "confirmed": true,
       "verified": false,
-      "name": "Pałac Suchodolskich Gminny Ośrodek Kultury i Turystyki",
+      "name": {
+        "en": "Pałac Suchodolskich Gminny Ośrodek Kultury i Turystyki"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1057,7 +1128,9 @@
       "id": 1006,
       "confirmed": true,
       "verified": false,
-      "name": "Przygraniczne Centrum Kultury i Rekreacji",
+      "name": {
+        "en": "Przygraniczne Centrum Kultury i Rekreacji"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1117,7 +1190,9 @@
       "id": 1007,
       "confirmed": true,
       "verified": false,
-      "name": "Przygraniczne Centrum Kultury i Rekreacji",
+      "name": {
+        "en": "Przygraniczne Centrum Kultury i Rekreacji"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1177,7 +1252,9 @@
       "id": 1008,
       "confirmed": true,
       "verified": false,
-      "name": "Szkoła Podstawowa",
+      "name": {
+        "en": "Szkoła Podstawowa"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1237,7 +1314,9 @@
       "id": 1009,
       "confirmed": true,
       "verified": false,
-      "name": "Miejski Ośrodek Sportu i Rekreacji",
+      "name": {
+        "en": "Miejski Ośrodek Sportu i Rekreacji"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1297,7 +1376,9 @@
       "id": 1010,
       "confirmed": true,
       "verified": false,
-      "name": "Ośrodek Sportu i Rekreacji",
+      "name": {
+        "en": "Ośrodek Sportu i Rekreacji"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1357,7 +1438,9 @@
       "id": 1011,
       "confirmed": true,
       "verified": false,
-      "name": "Ośrodek Sportu i Rekreacji",
+      "name": {
+        "en": "Ośrodek Sportu i Rekreacji"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1417,7 +1500,9 @@
       "id": 1012,
       "confirmed": true,
       "verified": false,
-      "name": "Hala OSiR",
+      "name": {
+        "en": "Hala OSiR"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1477,7 +1562,9 @@
       "id": 1013,
       "confirmed": true,
       "verified": false,
-      "name": "Gminny Ośrodek Kultury",
+      "name": {
+        "en": "Gminny Ośrodek Kultury"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1537,7 +1624,9 @@
       "id": 1014,
       "confirmed": true,
       "verified": false,
-      "name": "Zespół Szkół Nr 4",
+      "name": {
+        "en": "Zespół Szkół Nr 4"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1597,7 +1686,9 @@
       "id": 1015,
       "confirmed": true,
       "verified": false,
-      "name": "Urząd Wojewódzki",
+      "name": {
+        "en": "Urząd Wojewódzki"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1657,7 +1748,9 @@
       "id": 1016,
       "confirmed": true,
       "verified": false,
-      "name": "Łódzki Dom Kultury",
+      "name": {
+        "en": "Łódzki Dom Kultury"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1717,7 +1810,9 @@
       "id": 1017,
       "confirmed": true,
       "verified": false,
-      "name": "Dworzec Główny",
+      "name": {
+        "en": "Dworzec Główny"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1777,7 +1872,9 @@
       "id": 1018,
       "confirmed": true,
       "verified": false,
-      "name": "Dworzec PKP",
+      "name": {
+        "en": "Dworzec PKP"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1837,7 +1934,9 @@
       "id": 1019,
       "confirmed": true,
       "verified": false,
-      "name": "Dworzec PKS",
+      "name": {
+        "en": "Dworzec PKS"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1897,7 +1996,9 @@
       "id": 1020,
       "confirmed": true,
       "verified": false,
-      "name": "Dworzec Warszawa Zachodnia",
+      "name": {
+        "en": "Dworzec Warszawa Zachodnia"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -1957,7 +2058,9 @@
       "id": 1021,
       "confirmed": true,
       "verified": false,
-      "name": "COS Torwar",
+      "name": {
+        "en": "COS Torwar"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2017,7 +2120,9 @@
       "id": 1022,
       "confirmed": true,
       "verified": false,
-      "name": "Dom Studenta „Sokrates”",
+      "name": {
+        "en": "Dom Studenta „Sokrates”"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2077,7 +2182,9 @@
       "id": 1023,
       "confirmed": true,
       "verified": false,
-      "name": "Świetlica",
+      "name": {
+        "en": "Świetlica"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2137,7 +2244,9 @@
       "id": 1024,
       "confirmed": true,
       "verified": false,
-      "name": "Hala sportowa",
+      "name": {
+        "en": "Hala sportowa"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2197,7 +2306,9 @@
       "id": 1025,
       "confirmed": true,
       "verified": false,
-      "name": "Szkoła Podstawowa w m. Krowica Sama ,  Krowica Sama",
+      "name": {
+        "en": "Szkoła Podstawowa w m. Krowica Sama ,  Krowica Sama"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2257,7 +2368,9 @@
       "id": 1026,
       "confirmed": true,
       "verified": false,
-      "name": "Była Szkoła Podstawowa",
+      "name": {
+        "en": "Była Szkoła Podstawowa"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2317,7 +2430,9 @@
       "id": 1027,
       "confirmed": true,
       "verified": false,
-      "name": "Centrum Handlu i Magazynowania Korczowa Dolina – Hala Kijowska",
+      "name": {
+        "en": "Centrum Handlu i Magazynowania Korczowa Dolina – Hala Kijowska"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2377,7 +2492,9 @@
       "id": 1028,
       "confirmed": true,
       "verified": false,
-      "name": "Dworzec kolejowy",
+      "name": {
+        "en": "Dworzec kolejowy"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2437,7 +2554,9 @@
       "id": 1029,
       "confirmed": true,
       "verified": false,
-      "name": "Dworzec PKP",
+      "name": {
+        "en": "Dworzec PKP"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2497,7 +2616,9 @@
       "id": 1030,
       "confirmed": true,
       "verified": false,
-      "name": "Dom Harcerza",
+      "name": {
+        "en": "Dom Harcerza"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2557,7 +2678,9 @@
       "id": 1031,
       "confirmed": true,
       "verified": false,
-      "name": "Urząd Wojewódzki",
+      "name": {
+        "en": "Urząd Wojewódzki"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2617,7 +2740,9 @@
       "id": 1032,
       "confirmed": true,
       "verified": false,
-      "name": "Dworzec PKP",
+      "name": {
+        "en": "Dworzec PKP"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2677,7 +2802,9 @@
       "id": 1033,
       "confirmed": true,
       "verified": false,
-      "name": "Miejskie Centrum Kultury",
+      "name": {
+        "en": "Miejskie Centrum Kultury"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2737,7 +2864,9 @@
       "id": 1034,
       "confirmed": true,
       "verified": false,
-      "name": "Punkt recepcyjny",
+      "name": {
+        "en": "Punkt recepcyjny"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2797,7 +2926,9 @@
       "id": 1035,
       "confirmed": true,
       "verified": false,
-      "name": "Międzynarodowe Targi Poznańskie",
+      "name": {
+        "en": "Międzynarodowe Targi Poznańskie"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2857,7 +2988,9 @@
       "id": 1036,
       "confirmed": true,
       "verified": false,
-      "name": "Punkt recepcyjny",
+      "name": {
+        "en": "Punkt recepcyjny"
+      },
       "type": "receptionPoint",
       "dbType": "new",
       "descriptionShort": {
@@ -2917,7 +3050,9 @@
       "id": 1037,
       "confirmed": true,
       "verified": false,
-      "name": "Punkt rejestracji",
+      "name": {
+        "en": "Punkt rejestracji"
+      },
       "type": "registrationPoint",
       "dbType": "new",
       "descriptionShort": {

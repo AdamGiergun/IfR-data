@@ -10,13 +10,19 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 ```
 - należy pozostawić domyślną wartość `false`,
 ```
-"name": "",
+      "name": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
 ```
-- to nazwa miejsca. Sugeruję, żeby była w języku polskim, bo czasem może to ułatwić znalezienie tego miejsca. Jeśli ktoś uważa, że przetłumaczona nazwa będzie lepszym rozwiązaniem, powinien użyć zamiast "name" - "descriptionShort", a pole "name" pozostawić puste ("")
+- nazwa miejsca. Sugeruję, żeby była w języku polskim, bo czasem może to ułatwić znalezienie tego miejsca.<br>
+  W takim wypadku należy nazwę wpisać w pole "en" (w tym wypadku będzie to oznaczać wartość domyślną), a resztę pól usunąć.
 ```
-"type": "office",
+"type": "",
 ```
-- obecnie nie używane, może w którymś momencie to wykorzystam. Aktualne opcje to: "office", "receptionPoint". Zachęcam do zaproponowania innych opcji, jeśli ktoś widzi taką potrzebę.
+- obecnie nie używane, można pozostawić puste. Aktualne opcje to: "office", "receptionPoint". Zachęcam do zaproponowania innych opcji, jeśli ktoś widzi taką potrzebę.
 ```
 "dbType": "new",
 ```
@@ -29,7 +35,7 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
    "uk": ""
 },
 ```
-- To pole można użyć dla przetłumaczonej nazwy (jeśli jest potrzebne, jak wyjaśniłem w opisie pola "name") i/lub dodatkowych informacji.<br>
+- To pole można użyć dla umieszczenia dodatkowych informacji.<br>
   Jeśli chodzi o języki, nie ograniczają się one do tych z przykładu. Można użyć dowolnego akronimu języka.<br>
   Pełną listę akronimów językowych można znaleźć tutaj: [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).<br>
   (należy używać wartości pola "Subtag:" z rekordu oznaczonego jako "Type: language")
@@ -41,7 +47,7 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
    "uk": ""
 },
 ```
-- pole pozostawione do wykorzystania w przyszłości na bardziej rozbudowane informacje. Jeśli ktoś uzna, że warto z niego skorzystać, to znajdę sposób na jego wyświetlenie.
+- pole będzie wyświetlane w widoku szczegółowym punktu (dostępnym przez przycisk "więcej").
 ```
 "territorialUnitId": "",
 ```

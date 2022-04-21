@@ -10,13 +10,19 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 ```
  - leave default `false` value, it's for internal use,
 ```
-"name": "",
+      "name": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
 ```
- - it's the name of the spot, my suggestion is to provide it in local language, as it may sometimes help find it easier. If you think that translated name will be a better solution use "descriptionShort" instead, and leave "name" empty ("")
+ - it's the name of the spot, my suggestion is to provide it in local language, as it may sometimes help find it easier.<br>
+   In such case leave only "en" translation (it will mean "default").
 ```
-"type": "office",
+"type": "",
 ```
- - presently it's for my own internal use, maybe at some point I'll make some use of it. Current choices are: "office", "receptionPoint", but feel free to propose other options.
+ - presently it's for my own internal use only, it might be left empty. Current choices are: "office", "receptionPoint", but feel free to propose other options.
 ```
 "dbType": "new",
 ```
@@ -29,7 +35,7 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
    "uk": ""
 },
 ```
- - use it for translated name (if needed, as explained in the "name" field description), and/or for providing some additional info.<br>
+ - use it for providing some additional info.<br>
    As for languages, these are not limited to these in example. You can use any language acronym.<br>
    Full list of language acronyms can be found here: [List of IANA language subtags](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).<br>
    (use "Subtag:" of "Type: language" record)
@@ -41,7 +47,7 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
    "uk": ""
 },
 ```
- - content of this field will be visible in an extended view of a spot, and available via "more info"
+ - content of this field will be visible in the detailed view of a spot, and available via "more info".
 ```
 "territorialUnitId": "",
 ```
