@@ -37,16 +37,17 @@
 ```
    SPOT
 ```
-    {
-      "id": "",
+{
+      "id": 0,
       "confirmed": false,
+      "verified": false,
       "name": {
         "en": "",
         "pl": "",
         "ru": "",
         "uk": ""
       },
-      "type": "",
+      "type": "registrationPoint",
       "dbType": "new",
       "descriptionShort": {
         "en": "",
@@ -72,11 +73,19 @@
       },
       "contacts": [
         {
-          "phone": "+1234567890",
+          "phone": "",
           "eMail": "",
           "sms": "",
           "name": "",
-          "services": [],
+          "services": [
+            
+          ],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
           "www": {
             "en": "",
             "pl": "",
@@ -86,7 +95,7 @@
         }
       ],
       "services": [
-        "information"
+        
       ]
     }
 ```
