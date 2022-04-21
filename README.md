@@ -48,17 +48,24 @@ Short term:
 * Create a list of (at least) most spots providing help to refugees.<br>
   One way to achieve this would be through an extensive marketing campaign for the project.<br>
   There is no doubt that the high visibility of the project increases the number of institutions and people willing to contribute to it by several orders of magnitude.
+
 * Implementing advanced message receiving capabilities (very limited are already present).<br>
     The messages would be: important messages, information about events, etc.<br>
     Messages would be addressed to a specific territorial unit and would have a specific validity period.<br>
     Users would be able to choose the territorial units for which they would like to receive messages.<br>
 * User-reported spots marked as "unconfirmed". Other users should be able to report confirmation of such spots.<br>
+
 * Provide high-quality translations.<br>
   [Let me know](mailto:adam.giergun@gmail.com) if you'd like to help me with this task.<br>
   Please start the email title with `#IfR-helpOffer:` in this case.
 
 Long term:
 * Establishing an organization that runs this project and employs people necessary for its development and maintenance.
+  
+* Give donors the right to access the closed newsgroup. There they should be able to discuss the future of the project and the way the money is spent. 
+  I am not sure exactly what it will be yet, but I know that such solutions exist (e.g. for stakeholders). Requirements for such a solution:<br>
+ - well-secured access through an individual user account,
+ - the ability to create threads and polls, with the ability to assign weighting to the voice based on voting contribution.
 
 * If it does not harm the project: make the source code available in the form of "open source" projects to ensure full transparency (application data is already released under the terms of the GNU GPL [license](https://github.com/AdamGiergun/IfR-data/blob/main/LICENSE)).
 

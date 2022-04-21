@@ -40,9 +40,11 @@ Krótkoterminowe:
 * Stworzyć listę (przynajmniej) większości miejsc udzielających pomocy uchodźcom.<br>
   Jednym ze sposobów osiągnięcia tego byłaby szeroko zakrojona kampania marketingowa projektu.<br>
   Nie ulega wątpliwości, że wysoka widoczność projektu zwiększa liczbę instytucji i osób, które chcą się do niego przyczynić o kilka rzędów wielkości.  
+
 * Zaimplementowanie zaawansowanych możliwości odbierania wiadomości (bardzo ograniczone są już obecne). Wiadomości to byłyby: ważne komunikaty, informacje o wydarzeniach, itp.<br>
   Wiadomości byłyby adresowane dla konkretnej jednostki terytorialnej i posiadałyby określony zakres czasowy ważności.<br>
   Użytkownicy mieliby możliwość wyboru jednostek terytorialnych, dla których chcieliby otrzymywać wiadomości.<br>
+
 * Miejsca zgłoszone przez użytkowników oznaczone jako „niepotwierdzone”. Inni użytkownicy powinni mieć możliwość zgłaszania potwierdzenia tego miejsca. <br>
 
 * Zapewnić wysokiej jakości tłumaczenia.<br>
@@ -51,9 +53,18 @@ Krótkoterminowe:
 
 Dłuższoterminowe:
 * Stworzenie organizacji prowadzącej ten projekt i zatrudniającej osoby niezbędne do jego rozwoju i utrzymania.
+
+* Daj autorom prawo dostępu do zamkniętej grupy dyskusyjnej. Tam powinni mieć możliwość przedyskutowania przyszłości projektu i sposobu wydatkowania pieniędzy.
+  Nie wiem jeszcze dokładnie, co to będzie, ale wiem, że takie rozwiązania istnieją (np. dla interesariuszy). Wymagania dla takiego rozwiązania:<br>
+  - dobrze zabezpieczony dostęp poprzez indywidualne konto użytkownika,
+  - możliwość tworzenia wątków i sond, z możliwością przypisania wagi do głosu na podstawie udziału w głosowaniu.
+  
 * Jeśli nie zaszkodzi to projektowi: udostępnić kod źródłowy w formie projektów "open source", dla zapewnienia pełnej transparentności (dane aplikacji są już udostępnione na warunkach [licencji GNU GPL](https://github.com/AdamGiergun/IfR-data/blob/main/LICENSE)).
+
 * Stworzenie narzędzi do wprowadzania danych do bazy (np. wygodny interfejs dla przeglądarki internetowej), oraz API umożliwiające dostęp do tych danych przez interfejsy użytkownika (strona internetowa, aplikacje, wtyczki).
+
 * Stworzenie interfejsów użytkownika dla innych platform (strona internetowa, aplikacje na inne systemy).
+
 * Stworzenie wtyczki do stron internetowych, aby umożliwić każdemu chętnemu udostępnienie wybranego zakresu danych z bazy projektu na swojej stronie internetowej.
 
 Długoterminowe:
