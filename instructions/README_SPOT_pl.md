@@ -52,6 +52,8 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 "territorialUnitId": "",
 ```
 - "Territorial unit id" to jedna z właściwości miejsca wywodząca się z podziału administracyjnego kraju.<br>
+  W pierwszy rzędzie prosiłbym [sprawdzić tu](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json),
+  czy dana jednostka terytorialna nie jest obecna na tej liście i użyć jej `"id"`.
   Dla Polski przeszukiwalny wykaz jednostek terytorialnych wraz z identyfikatorami dostarcza GUS i można go znaleźć [tutaj](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default).<br>
   Ponieważ identyfikatory stworzone są na podstawie standardu ISO 19000, podejrzewam, że inne kraje mają równoważne listy.<br>
   Jeśli wiesz, gdzie znaleźć takie listy [daj mi znać](https://github.com/AdamGiergun/IfR-data/issues/2)
