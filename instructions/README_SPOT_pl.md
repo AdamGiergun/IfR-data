@@ -10,12 +10,12 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 ```
 - należy pozostawić domyślną wartość `false`,
 ```
-      "name": {
-        "en": "",
-        "pl": "",
-        "ru": "",
-        "uk": ""
-      },
+"name": {
+   "en": "",
+   "pl": "",
+   "ru": "",
+   "uk": ""
+},
 ```
 - nazwa miejsca. Sugeruję, żeby była w języku polskim, bo czasem może to ułatwić znalezienie tego miejsca.<br>
   W takim wypadku należy nazwę wpisać w pole "en" (w tym wypadku będzie to oznaczać wartość domyślną), a resztę pól usunąć.

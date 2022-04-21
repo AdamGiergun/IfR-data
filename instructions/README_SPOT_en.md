@@ -10,12 +10,12 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 ```
  - leave default `false` value, it's for internal use,
 ```
-      "name": {
-        "en": "",
-        "pl": "",
-        "ru": "",
-        "uk": ""
-      },
+"name": {
+   "en": "",
+   "pl": "",
+   "ru": "",
+   "uk": ""
+},
 ```
  - it's the name of the spot, my suggestion is to provide it in local language, as it may sometimes help find it easier.<br>
    In such case leave only "en" translation (it will mean "default").
