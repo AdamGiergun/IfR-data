@@ -1,0 +1,59 @@
+{
+  "id": 0,
+  "confirmed": false,
+  "verified": false,
+  "name": {
+    "en": "",
+    "pl": "",
+    "ru": "",
+    "uk": ""
+  },
+  "type": "registrationPoint",
+  "dbType": "new",
+  "descriptionShort": {
+    "en": "",
+    "pl": "",
+    "ru": "",
+    "uk": ""
+  },
+  "descriptionLong": {
+    "en": "",
+    "pl": "",
+    "ru": "",
+    "uk": ""
+  },
+  "territorialUnitId": "",
+  "location": {
+    "locality": "",
+    "street": "",
+    "buildingId": "",
+    "flatOrRoomId": "",
+    "postCode": "",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  "contacts": [
+    {
+      "phone": "",
+      "eMail": "",
+      "sms": "",
+      "name": "",
+      "services": [
+      ],
+      "info": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "www": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      }
+    }
+  ],
+  "services": [
+  ]
+}
