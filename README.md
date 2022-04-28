@@ -103,6 +103,7 @@ The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-
 * The `spot` contains all the information about the place.<br>
   The `spots` data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json). <br>
   Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/), by selecting the proper `README_SPOT_<language acronym>.md`
+  [Template](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/TEMPLATE_SPOT.json)
   
 ### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit
 * The `Territorial Unit`, is one of the properties of a place, derived from the administrative division of a given country.<br>
@@ -111,11 +112,13 @@ The data is divided into three types: [spot](https://github.com/AdamGiergun/IfR-
   If you know where to find such lists [let me know](https://github.com/AdamGiergun/IfR-data/issues/2). <br>
   The territorial units data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json). <br>
   Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/) by selecting the proper `README_TU_<language acronym>.md`.
+  [Example](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/TEMPLATE_TERRITORIAL_UNIT.json)
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;Service  
 * The `Service` is simply the service offered by the given `spot`.<br>
   The service data file can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json). <br>
   Instructions can be found [here](https://github.com/AdamGiergun/IfR-data/blob/main/data/) by selecting the specific `README_SERVICE_<language acronym>.md`.
+  [Example](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/TEMPLATE_SERVICE.json)
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
