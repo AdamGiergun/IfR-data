@@ -94,21 +94,24 @@ Dane są podzielone na trzy typy: [spot](https://github.com/AdamGiergun/IfR-data
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Spot
 * `Spot` zawiera wszystkie informacje o miejscu.<br>
-  Plik danych `spotów` można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json). <br>
-  Instrukcje można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/), wybierając konkretny plik `README_SPOT_<akronim języka>.md`.
+  Plik danych `punktów` można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/spots.json). <br>
+  Instrukcję wypełniania danych można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/README_SPOT_pl.md).
+  A szablon [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/TEMPLATE_SPOT.json)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Territorial unit
 * `Territorial Unit`, czyli jednostka terytorialna to jedna z właściwości miejsca, wywodząca się z podziału administracyjnego danego kraju.<br>
   Dla Polski przeszukiwalny wykaz jednostek terytorialnych wraz z identyfikatorami jest dostarczany przez Główny Urząd Statystyczny i można go znaleźć [tutaj](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/wyszukiwanie/wyszukiwanie.aspx?contrast=default). <br>
   Ponieważ identyfikatory pochodzą ze standardu opartego na ISO 19000, podejrzewam, że inne kraje muszą używać równoważnych list.<br>
   Jeśli wiesz, gdzie znaleźć takie listy [daj mi znać](https://github.com/AdamGiergun/IfR-data/issues/2). <br>
-  Plik danych jednostek terytorialnych można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json). <br>
-  Instrukcje można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/), wybierając konkretny plik `README_TU_<akronim języka>.md`.
+  Plik danych `jednostek terytorialnych` można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/territorialUnits.json). <br>
+  Instrukcję można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/README_SERVICES_pl.md).
+  A szablon [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/TEMPLATE_TERRITORIAL_UNIT.json).
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;Service
 * `Service` to usługa oferowana przez dany `spot`.<br>
-  Plik danych usług można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json). <br>
+  Plik danych `usług` można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/services.json). <br>
   Instrukcje można znaleźć [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/data/), wybierając konkretny plik `README_SERVICE_<akronim języka>.md`.
+  A szablon [tutaj](https://github.com/AdamGiergun/IfR-data/blob/main/instructions/TEMPLATE_SERVICE.json).
 
 <p align="right">(<a href="#top">powrót</a>)</p>
 
