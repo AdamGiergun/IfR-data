@@ -138,8 +138,8 @@
         "uk": "Приготування"
       },
       "keywords": {
-        "en": "sandwiches",
-        "pl": "kanapki",
+        "en": "sandwiches, soups",
+        "pl": "kanapki, zupy",
         "ru": "бутерброды",
         "uk": "бутерброди"
       }
@@ -257,6 +257,22 @@
       }
     },
     {
+      "id": "shoes",
+      "dbType": "new",
+      "name": {
+        "en": "Shoes",
+        "pl": "Obuwie",
+        "ru": "Обувь",
+        "uk": "Взуття"
+      },
+      "keywords": {
+        "en": "",
+        "pl": "buty",
+        "ru": "туфли",
+        "uk": "боти"
+      }
+    },
+    {
       "id": "articlesForChildren",
       "dbType": "new",
       "name": {
@@ -362,10 +378,10 @@
         "uk": "Пропозиції роботи"
       },
       "keywords": {
-        "en": "employment",
-        "pl": "zatrudnienie",
-        "ru": "трудоустройство",
-        "uk": "зайнятість"
+        "en": "employment, work",
+        "pl": "zatrudnienie, praca",
+        "ru": "трудоустройство, работа",
+        "uk": "зайнятість, робота"
       }
     },
     {
@@ -494,6 +510,22 @@
         "pl": "lekarz, pielęgniarz, pielęgniarka, zdrowie",
         "ru": "Доктор, медсестра, здоровье",
         "uk": "Доктор, медсестра, здоров'я"
+      }
+    },
+    {
+      "id": "psychologicalHelp",
+      "dbType": "new",
+      "name": {
+        "en": "Psychological help",
+        "pl": "Pomoc psychologiczna",
+        "ru": "Психологическая помощь",
+        "uk": "Психологічна допомога"
+      },
+      "keywords": {
+        "en": "psychologist, health",
+        "pl": "psycholog, zdrowie",
+        "ru": "психолог, здоровье",
+        "uk": "психолог, здоров'я"
       }
     },
     {

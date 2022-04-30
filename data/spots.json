@@ -495,7 +495,7 @@
       },
       "contacts": [
         {
-          "phone": "+3614224120 +3614224122 +3614224123",
+          "phone": "+3614224120\n+3614224122\n+3614224123",
           "eMail": "emb_hu@mfa.gov.ua",
           "sms": "",
           "name": "",
@@ -673,7 +673,7 @@
       },
       "contacts": [
         {
-          "phone": "+48124296066 +48124294522",
+          "phone": "+48124296066\n+48124294522",
           "eMail": "gc_plk@mfa.gov.ua",
           "sms": "",
           "name": "",
@@ -791,7 +791,7 @@
       },
       "contacts": [
         {
-          "phone": "+3642501012 +3642501015",
+          "phone": "+3642501012\n+3642501015",
           "eMail": "gc_hun@mfa.gov.ua",
           "sms": "",
           "name": "",
@@ -1811,7 +1811,10 @@
       "confirmed": true,
       "verified": false,
       "name": {
-        "en": "Dworzec Główny"
+        "en": "Main station, Registration point",
+        "pl": "Dworzec Główny, Punkt rejestracji",
+        "ru": "Главная станция, Регистрационный пункт",
+        "uk": "Головна станція, Точка реєстрації"
       },
       "type": "receptionPoint",
       "dbType": "new",
@@ -3051,7 +3054,10 @@
       "confirmed": true,
       "verified": false,
       "name": {
-        "en": "Punkt rejestracji"
+        "en": "Registration point",
+        "pl": "Punkt rejestracji",
+        "ru": "Регистрационный пункт",
+        "uk": "Точка реєстрації"
       },
       "type": "registrationPoint",
       "dbType": "new",
@@ -3106,6 +3112,583 @@
         "jobOffers",
         "ZUS"
       ]
+    },
+
+    {
+      "id": 2001,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Registration point",
+        "pl": "Punkt rejestracji",
+        "ru": "Регистрационный пункт",
+        "uk": "Точка реєстрації"
+      },
+      "type": "registrationPoint",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Radziwiłłowska",
+        "buildingId": "3",
+        "flatOrRoomId": "",
+        "postCode": "31-026",
+        "latitude": 50.06194785409137,
+        "longitude": 19.947416900805482
+      },
+      "contacts": [
+        {
+          "phone": "+48123236630",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        },
+        {
+          "phone": "+48122102002",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "Information line",
+            "pl": "Infolinia",
+            "ru": "Информационная линия",
+            "uk": "Інформаційна лінія"
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "registration",
+        "information",
+        "temporaryAccommodation",
+        "longTermAccommodation"
+      ]
+    },
+
+    {
+      "id": 2002,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Temporary accommodation",
+        "pl": "Nocleg tymczasowy",
+        "ru": "Временное проживание",
+        "uk": "Тимчасове житло"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "Plac Jana Nowaka Jeziorańskiego",
+        "buildingId": "3",
+        "flatOrRoomId": "",
+        "postCode": "31-154",
+        "latitude": 50.06613732099914,
+        "longitude": 19.94737573378986
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "temporaryAccommodation"
+      ]
+    },
+
+    {
+      "id": 2003,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Information point",
+        "pl": "Punkt informacyjny",
+        "ru": "Информационный пункт",
+        "uk": "Інформаційна точкао"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Open Mo.-Fr. 9-19, Sat.-Sun. 9-14",
+        "pl": "Czynne pn.-pt. 9-19, sb.-nd. 9-14",
+        "ru": "Открыт с понедельника по пятницу 9-19, суббота-воскресенье 9-14",
+        "uk": "Відкрито в понеділок-п’ятниця 9-19, субота-неділя 9-14"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "al. Daszyńskiego",
+        "buildingId": "22",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.05630279322817,
+        "longitude": 19.953614714858016
+      },
+      "contacts": [
+        {
+          "phone": "+48887201598",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "http://otwarty.krakow.pl/"
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+
+    {
+      "id": 2004,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Information point",
+        "pl": "Punkt informacyjny",
+        "ru": "Информационный пункт",
+        "uk": "Інформаційна точкао"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Karmelicka",
+        "buildingId": "34",
+        "flatOrRoomId": "100",
+        "postCode": "",
+        "latitude": 50.066122282634495,
+        "longitude": 19.929627456627063
+      },
+      "contacts": [
+        {
+          "phone": "+48783863012",
+          "eMail": "info@zustricz.pl",
+          "sms": "",
+          "name": "",
+          "services": [
+            "information"
+          ],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "https://zustricz.pl/uk/index/",
+            "pl": "https://zustricz.pl/",
+            "ru": "https://zustricz.pl/uk/index/",
+            "uk": "https://zustricz.pl/uk/index/"
+          }
+        },
+        {
+          "phone": "+48786674005",
+          "eMail": "info@zustricz.pl",
+          "sms": "",
+          "name": "",
+          "services": [
+            "psychologicalHelp"
+          ],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": []
+    },
+
+    {
+      "id": 2005,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Information point, Law advices",
+        "pl": "Punkt informacyjny, Porady prawne",
+        "ru": "Информационный пункт, Юридические советы",
+        "uk": "Інформаційна точкао, Законодавчі консультації"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Entrance from Rzeźnicza Street",
+        "pl": "Wejście od ulicy Rzeźniczej",
+        "ru": "Вход с улицы Rzeźnicza",
+        "uk": "Вхід з вулиці Rzeźnicza"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Podgórska",
+        "buildingId": "34",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.054451058578806,
+        "longitude": 19.95538139072286
+      },
+      "contacts": [
+        {
+          "phone": "+48887202701 (17:00-23:00)\n+48601866602 (PL,EN)\n+48691632685 (UK,RU)",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "Law advices",
+            "pl": "Porady prawne",
+            "ru": "Юридические советы",
+            "uk": "Законодавчі консультації"
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "information"
+      ]
+    },
+
+    {
+      "id": 2006,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Supply: food, cleaning products",
+        "pl": "Zaopatrzenie: żywność, środki czystości",
+        "ru": "Поставлять: продукты питания, чистящие средства",
+        "uk": "Постачання: їжа, прибирання продуктів"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Open from 9-19",
+        "pl": "Otwarte w godz. 9-19",
+        "ru": "Открыт из 9-19",
+        "uk": "Открыт из 9-19"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "al. Daszyńskiego",
+        "buildingId": "16",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.05756101549265,
+        "longitude": 19.952413196020526
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "longTermFood",
+        "hygieneProducts"
+      ]
+    },
+
+    {
+      "id": 2007,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Supply: clothing and footwear",
+        "pl": "Zaopatrzenie: odzież i obuwie",
+        "ru": "Поставлять: Одежда и обувь",
+        "uk": "Постачання: Одяг та взуття"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Open from 10-18",
+        "pl": "Otwarte w godz. 10-18",
+        "ru": "Открыт из 10-18",
+        "uk": "Открыт из 10-18"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "al. Pokoju",
+        "buildingId": "44",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.06423466519753,
+        "longitude": 19.98383191302184
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "clothes",
+        "shoes"
+      ]
+    },
+
+    {
+      "id": 2008,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Supply: take-out soups ready",
+        "pl": "Zaopatrzenie: zupy gotowe na wynos",
+        "ru": "Поставлять: Принять супы",
+        "uk": "Постачання: Візьміть супи готові"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Open from 10-20",
+        "pl": "Otwarte w godz. 10-20",
+        "ru": "Открыт из 10-20",
+        "uk": "Открыт из 10-20"
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Na Zjeździe",
+        "buildingId": "8",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.06423466519753,
+        "longitude": 19.98383191302184
+      },
+      "contacts": [
+        {
+          "phone": "+48506006775",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "takeawayFood"
+      ]
+    },
+
+    {
+      "id": 2009,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Supply: Searching for specific items",
+        "pl": "Zaopatrzenie: poszukiwanie konkretnych przedmiotów",
+        "ru": "Поставлять: Поиск конкретных элементов",
+        "uk": "Постачання: Пошук конкретних елементів"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "",
+        "street": "",
+        "buildingId": "",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.061164007321906,
+        "longitude": 19.93767276294206
+      },
+      "contacts": [
+        {
+          "phone": "",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": "https://www.facebook.com/groups/178048405708795/"
+          }
+        }
+      ],
+      "services": []
     }
   ]
 }
