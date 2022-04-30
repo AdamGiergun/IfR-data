@@ -96,7 +96,7 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
    {
       "phone": "",
 ```
- - można wprowadzić wiele numerów telefonów i oddzielić je spacją.
+ - można wprowadzić wiele numerów telefonów i oddzielić je za pomocą znaków `\n`.
 ```
       "eMail": "",
       "sms": "",
