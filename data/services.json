@@ -81,6 +81,22 @@
       }
     },
     {
+      "id": "educationInfo",
+      "dbType": "new",
+      "name": {
+        "en": "Information about education",
+        "pl": "Informacje o edukacji",
+        "ru": "Информация об образовании",
+        "uk": "Інформація про освіту"
+      },
+      "keywords": {
+        "en": "school, kindergarten",
+        "pl": "szkoła, przedszkole",
+        "ru": "Школа, детский сад",
+        "uk": "Школа, дитячий сад"
+      }
+    },
+    {
       "id": "information",
       "dbType": "new",
       "name": {
@@ -591,6 +607,55 @@
         "ru": "",
         "uk": ""
       }
+    },
+    {
+      "id": "disabled",
+      "dbType": "new",
+      "name": {
+        "en": "Help for people with disabilities",
+        "pl": "Pomoc osobom z niepełnosprawnościami",
+        "ru": "Помогите людям с ограниченными возможностями",
+        "uk": "Допомогти людям з обмеженими можливостями"
+      },
+      "keywords": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      }
+    },
+    {
+      "id": "relocation",
+      "dbType": "new",
+      "name": {
+        "en": "Relocation",
+        "pl": "Relokacja",
+        "ru": "Перемещение",
+        "uk": "Переселення"
+      },
+      "keywords": {
+        "en": "transfer",
+        "pl": "",
+        "ru": "передача",
+        "uk": "передача"
+      }
+    },
+    {
+      "id": "law",
+      "dbType": "new",
+      "name": {
+        "en": "Law advices",
+        "pl": "Porady prawne",
+        "ru": "Юридические советы",
+        "uk": "Законодавчі консультації"
+      },
+      "keywords": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      }
     }
+
   ]
 }

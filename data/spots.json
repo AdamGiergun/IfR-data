@@ -3399,10 +3399,10 @@
       "confirmed": true,
       "verified": true,
       "name": {
-        "en": "Information point, Law advices",
-        "pl": "Punkt informacyjny, Porady prawne",
-        "ru": "Информационный пункт, Юридические советы",
-        "uk": "Інформаційна точкао, Законодавчі консультації"
+        "en": "Information point, Law advices, Education",
+        "pl": "Punkt informacyjny, Porady prawne, Edukacja",
+        "ru": "Информационный пункт, Юридические советы, Образование",
+        "uk": "Інформаційна точкао, Законодавчі консультації, Освіта"
       },
       "type": "",
       "dbType": "new",
@@ -3430,7 +3430,7 @@
       },
       "contacts": [
         {
-          "phone": "+48887202701 (17:00-23:00)\n+48601866602 (PL,EN)\n+48691632685 (UK,RU)",
+          "phone": "+48887202701 (17:00-23:00)\n+48601866602 (PL, EN)\n+48691632685 (UK, RU)",
           "eMail": "",
           "sms": "",
           "name": "",
@@ -3447,10 +3447,50 @@
             "ru": "",
             "uk": ""
           }
+        },
+        {
+          "phone": "+48516983170 (PL, RU, EN)",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "Education - Information: General",
+            "pl": "Edukacja - informacje: ogólna",
+            "ru": "Образование - Информация: Общая",
+            "uk": "Освіта - Інформація: Загальна"
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        },
+        {
+          "phone": "+48579742588 (RU)",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "Education - information: special",
+            "pl": "Edukacja - informacje: specjalna",
+            "ru": "Образование - информация: специальная",
+            "uk": "Освіта - Інформація: Спеціальна"
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
         }
       ],
       "services": [
-        "information"
+        "information",
+        "law",
+        "educationInfo"
       ]
     },
 
@@ -3689,6 +3729,173 @@
         }
       ],
       "services": []
+    },
+
+    {
+      "id": 2010,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Help for people with disabilities",
+        "pl": "Pomoc osobom z niepełnosprawnościami",
+        "ru": "Помогите людям с ограниченными возможностями",
+        "uk": "Допомогти людям з обмеженими можливостями"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "HOTLINE AND E-MAIL IN UKRAINIAN AND POLISH\n\n \n\nRemember to write in the e-mail:\n\nWhat specific help are you looking for?\nHow many people are there in the family / group, how many people with disabilities and what is the disability?\nSince when do you need help and for how long (if it can be determined)?\nTelephone number to one person in the family.\nAre there any pets with you?\nWhich city you’recurrently staying in?",
+        "pl": "INFOLINIA I E-MAIL W JĘZYKU UKRAIŃSKIM I POLSKIM\n\nPamiętajcie, żeby w mailu napisać:\n\nJakiej konkretnie pomocy poszukujecie?\nIle osób liczy rodzina/grupa, ile osób z niepełnosprawnością i jaka to jest niepełnosprawność?\nOd kiedy potrzebna pomoc i na jak długo (jeśli da się to stwierdzić)?\nNumer telefonu do jednej osoby z rodziny.\nCzy są z Wami zwierzęta?\nW jakim mieście się znajdujecie?",
+        "ru": "Телефон доверия и электронного госпитана на украинском и польском языке\n\nНе забудьте написать по электронной почте:\n\nКакая конкретная помощь вы ищете?\nСколько людей в семье/группе, сколько людей с ограниченными возможностями и каким характером)?\nВ какое время вам нужна помощь и в какое время (если вы можете определить)?\nВ каком городе вы сейчас и где (вы можете написать адрес)?\nЕсть ли с вами домашние животные\nНомер телефона для одного человека в семье.",
+        "uk": "Телефон довіри і е-пошта українською та польською мовами\n\nНе забудьте написати на електронну пошту:\n\nЯкої конкретно допомоги ви шукаєте?\ncкільки людей у сім’ї/групі, скільки людей з обмеженими можливостями та якими саме (вказати характер)?\nЗ якого часу вам потрібна допомога і на який термін (якщо це можна визначити)?\nв якому місті ви тепер перебуваєте і де (можна написати адресу)?\nчи разом з вами є якісь домашні тварини\nНомер телефону для однієї особи в сім’ї."
+      },
+      "territorialUnitId": "PL",
+      "location": {
+        "locality": "",
+        "street": "",
+        "buildingId": "",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "contacts": [
+        {
+          "phone": "+48539866471",
+          "eMail": "ukraina@stowarzyszeniemudita.pl",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "MON-SUN 9:00 – 21:00",
+            "pl": "PN-ND 9:00 – 21:00",
+            "ru": "Пон-Вос 9:00-21:00",
+            "uk": "пн-нд 9:00 – 21:00"
+          },
+          "www": {
+            "en": ""
+          }
+        }
+      ],
+      "services": []
+    },
+
+    {
+      "id": 2011,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Support for LGBTQIA people",
+        "pl": "Wsparcie dla osób LGBTQIA",
+        "ru": "Поддержка ЛГБТКИЯ-людей",
+        "uk": "Підтримка ЛГБТКІЯ-людей"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "",
+        "street": "",
+        "buildingId": "",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.061164007321906,
+        "longitude": 19.93767276294206
+      },
+      "contacts": [
+        {
+          "phone": "+48796033101",
+          "eMail": "kontakt@znakirownosci.org.pl ",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          },
+          "www": {
+            "en": ""
+          }
+        }
+      ],
+      "services": []
+    },
+
+    {
+      "id": 2012,
+      "confirmed": true,
+      "verified": true,
+      "name": {
+        "en": "Trips and accommodation in other countries",
+        "pl": "Wyjazdy i zakwaterowanie za granicą",
+        "ru": "Поездки и проживание в других странах",
+        "uk": "Поїздки та проживання в інших країнах"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Siemiradzkiego",
+        "buildingId": "19",
+        "flatOrRoomId": "1",
+        "postCode": "",
+        "latitude": 50.06934464993423,
+        "longitude": 19.92980182878527
+      },
+      "contacts": [
+        {
+          "phone": "+48123149018",
+          "eMail": "kontakt@znakirownosci.org.pl ",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "Mo-Fr 9-17",
+            "pl": "pn.-pt. 9-17",
+            "ru": "Понедельник - пятница 9-17",
+            "uk": "Понеділок - п’ятниця 9-17"
+          },
+          "www": {
+            "en": ""
+          }
+        }
+      ],
+      "services": [
+        "relocation"
+      ]
     }
   ]
 }
