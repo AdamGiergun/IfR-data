@@ -3190,9 +3190,7 @@
       ],
       "services": [
         "registration",
-        "information",
-        "temporaryAccommodation",
-        "longTermAccommodation"
+        "information"
       ]
     },
 
@@ -3525,8 +3523,8 @@
         "buildingId": "16",
         "flatOrRoomId": "",
         "postCode": "",
-        "latitude": 50.05756101549265,
-        "longitude": 19.952413196020526
+        "latitude": 50.0574388,
+        "longitude": 19.9522245
       },
       "contacts": [
         {
