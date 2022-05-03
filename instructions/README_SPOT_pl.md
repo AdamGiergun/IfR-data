@@ -10,6 +10,10 @@ Przykłady wypełnionych danych miejsc można znaleźć  [tutaj](https://github.
 ```
 - należy pozostawić domyślną wartość `false`,
 ```
+"hasLocation": true,
+```
+- informacja dotyczące tego, czy istnieje fizyczne miejsce, do którego można się udać, lub czy jest to tylko usługa, na przykład strona internetowa, linia telefoniczna, itp.,
+```
 "name": {
    "en": "",
    "pl": "",

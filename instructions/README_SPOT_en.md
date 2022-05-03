@@ -10,6 +10,10 @@ Examples of entered spot data are to be found [here](https://github.com/AdamGier
 ```
  - leave default `false` value, it's for internal use,
 ```
+"hasLocation": true,
+```
+ - information on whether there is a physical place where one can go, or whether it is only a service, for example a website, telephone line, etc.,
+```
 "name": {
    "en": "",
    "pl": "",
