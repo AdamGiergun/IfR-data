@@ -4,6 +4,7 @@
       "id": 1,
       "confirmed": true,
       "verified": false,
+      "hasLocation": false,
       "name": {
         "en": "Website of the Republic of Poland for refugees from Ukraine",
         "pl": "Witryna Rzeczypospolitej Polskiej dla uchodźców z Ukrainy",
@@ -56,10 +57,12 @@
         "information"
       ]
     },
+
     {
       "id": 51,
       "confirmed": true,
       "verified": false,
+      "hasLocation": false,
       "name": {
         "en": "UNHCR - The UN Refugee Agency"
       },
@@ -112,10 +115,12 @@
         "financialSupport"
       ]
     },
+
     {
       "id": 52,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "UNHCR - The UN Refugee Agency"
       },
@@ -168,10 +173,12 @@
         "financialSupport"
       ]
     },
+
     {
       "id": 53,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "UNHCR - The UN Refugee Agency"
       },
@@ -224,10 +231,12 @@
         "financialSupport"
       ]
     },
+
     {
       "id": 101,
       "confirmed": true,
       "verified": false,
+      "hasLocation": false,
       "name": {
         "en": "The Ministry of Internal Affairs and Administration \n- Call Center",
         "pl": "Ministerstwo Spraw Wewnętrznych i Administracji \n- Infolinia telefoniczna",
@@ -248,7 +257,7 @@
         "ru": "",
         "uk": ""
       },
-      "territorialUnitId": "PL-1465",
+      "territorialUnitId": "PL",
       "location": {
         "locality": "",
         "street": "",
@@ -283,10 +292,12 @@
         "information"
       ]
     },
+
     {
       "id": 201,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Embassy of Ukraine - Consular Faculty",
         "pl": "Ambasada Ukrainy - Wydział Konsularny",
@@ -342,10 +353,12 @@
         "information"
       ]
     },
+
     {
       "id": 202,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Embassy of Ukraine",
         "ro": "Ambasada Ucraineană",
@@ -400,10 +413,12 @@
         "information"
       ]
     },
+
     {
       "id": 203,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Embassy of Ukraine",
         "ro": "Ambasada Ucraineană",
@@ -459,10 +474,12 @@
         "information"
       ]
     },
+
     {
       "id": 204,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Embassy of Ukraine",
         "hu": "Ukrajna Nagykövetsége",
@@ -523,6 +540,7 @@
       "id": 205,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Embassy of Ukraine",
         "sk": "Veľvyslanectvо Ukrajiny",
@@ -578,10 +596,12 @@
         "information"
       ]
     },
+
     {
       "id": 301,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Consulate General of Ukraine",
         "pl": "Konsulat Generalny Ukrainy",
@@ -637,10 +657,12 @@
         "information"
       ]
     },
+
     {
       "id": 302,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Consulate General of Ukraine",
         "pl": "Konsulat Generalny Ukrainy",
@@ -696,10 +718,12 @@
         "information"
       ]
     },
+
     {
       "id": 303,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Consulate of Ukraine",
         "pl": "Konsulat Ukrainy",
@@ -755,10 +779,12 @@
         "information"
       ]
     },
+
     {
       "id": 304,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Consulate of Ukraine",
         "hu": "Konzulátus Ukrajna",
@@ -814,10 +840,12 @@
         "information"
       ]
     },
+
     {
       "id": 1001,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dom Studencki T-16 \"Tower\""
       },
@@ -876,10 +904,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1002,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Port Lotniczy"
       },
@@ -938,10 +968,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1003,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Hotel Kopernik"
       },
@@ -1000,10 +1032,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1004,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Noclegi Pracownicze"
       },
@@ -1062,10 +1096,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1005,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Pałac Suchodolskich Gminny Ośrodek Kultury i Turystyki"
       },
@@ -1124,10 +1160,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1006,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Przygraniczne Centrum Kultury i Rekreacji"
       },
@@ -1186,10 +1224,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1007,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Przygraniczne Centrum Kultury i Rekreacji"
       },
@@ -1248,10 +1288,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1008,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Szkoła Podstawowa"
       },
@@ -1310,10 +1352,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1009,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Miejski Ośrodek Sportu i Rekreacji"
       },
@@ -1372,10 +1416,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1010,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Ośrodek Sportu i Rekreacji"
       },
@@ -1434,10 +1480,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1011,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Ośrodek Sportu i Rekreacji"
       },
@@ -1496,10 +1544,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1012,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Hala OSiR"
       },
@@ -1558,10 +1608,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1013,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Gminny Ośrodek Kultury"
       },
@@ -1620,10 +1672,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1014,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Zespół Szkół Nr 4"
       },
@@ -1682,10 +1736,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1015,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Urząd Wojewódzki"
       },
@@ -1744,10 +1800,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1016,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Łódzki Dom Kultury"
       },
@@ -1806,10 +1864,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1017,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Main station, Registration point",
         "pl": "Dworzec Główny, Punkt rejestracji",
@@ -1871,10 +1931,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1018,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dworzec PKP"
       },
@@ -1933,10 +1995,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1019,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dworzec PKS"
       },
@@ -1995,10 +2059,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1020,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dworzec Warszawa Zachodnia"
       },
@@ -2057,10 +2123,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1021,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "COS Torwar"
       },
@@ -2119,10 +2187,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1022,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dom Studenta „Sokrates”"
       },
@@ -2181,10 +2251,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1023,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Świetlica"
       },
@@ -2243,10 +2315,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1024,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Hala sportowa"
       },
@@ -2305,10 +2379,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1025,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Szkoła Podstawowa w m. Krowica Sama ,  Krowica Sama"
       },
@@ -2367,10 +2443,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1026,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Była Szkoła Podstawowa"
       },
@@ -2429,10 +2507,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1027,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Centrum Handlu i Magazynowania Korczowa Dolina – Hala Kijowska"
       },
@@ -2491,10 +2571,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1028,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dworzec kolejowy"
       },
@@ -2553,10 +2635,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1029,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dworzec PKP"
       },
@@ -2615,10 +2699,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1030,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dom Harcerza"
       },
@@ -2677,10 +2763,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1031,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Urząd Wojewódzki"
       },
@@ -2739,10 +2827,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1032,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Dworzec PKP"
       },
@@ -2801,10 +2891,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1033,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Miejskie Centrum Kultury"
       },
@@ -2863,10 +2955,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1034,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Punkt recepcyjny"
       },
@@ -2925,10 +3019,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1035,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Międzynarodowe Targi Poznańskie"
       },
@@ -2987,10 +3083,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1036,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Punkt recepcyjny"
       },
@@ -3049,10 +3147,12 @@
         "basicMedicalAssistance"
       ]
     },
+
     {
       "id": 1037,
       "confirmed": true,
       "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Registration point",
         "pl": "Punkt rejestracji",
@@ -3117,7 +3217,8 @@
     {
       "id": 2001,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Registration point",
         "pl": "Punkt rejestracji",
@@ -3197,7 +3298,8 @@
     {
       "id": 2002,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Temporary accommodation",
         "pl": "Nocleg tymczasowy",
@@ -3257,7 +3359,8 @@
     {
       "id": 2003,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Information point",
         "pl": "Punkt informacyjny",
@@ -3314,7 +3417,8 @@
     {
       "id": 2004,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Information point",
         "pl": "Punkt informacyjny",
@@ -3395,7 +3499,8 @@
     {
       "id": 2005,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Information point, Law advices, Education",
         "pl": "Punkt informacyjny, Porady prawne, Edukacja",
@@ -3495,7 +3600,8 @@
     {
       "id": 2006,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Supply: food, cleaning products",
         "pl": "Zaopatrzenie: żywność, środki czystości",
@@ -3556,7 +3662,8 @@
     {
       "id": 2007,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Supply: clothing and footwear",
         "pl": "Zaopatrzenie: odzież i obuwie",
@@ -3617,7 +3724,8 @@
     {
       "id": 2008,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Supply: take-out soups ready",
         "pl": "Zaopatrzenie: zupy gotowe na wynos",
@@ -3677,7 +3785,8 @@
     {
       "id": 2009,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": false,
       "name": {
         "en": "Supply: Searching for specific items",
         "pl": "Zaopatrzenie: poszukiwanie konkretnych przedmiotów",
@@ -3732,7 +3841,8 @@
     {
       "id": 2010,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": false,
       "name": {
         "en": "Help for people with disabilities",
         "pl": "Pomoc osobom z niepełnosprawnościami",
@@ -3787,7 +3897,8 @@
     {
       "id": 2011,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": false,
       "name": {
         "en": "Support for LGBTQIA people",
         "pl": "Wsparcie dla osób LGBTQIA",
@@ -3842,7 +3953,8 @@
     {
       "id": 2012,
       "confirmed": true,
-      "verified": true,
+      "verified": false,
+      "hasLocation": true,
       "name": {
         "en": "Trips and accommodation in other countries",
         "pl": "Wyjazdy i zakwaterowanie za granicą",
