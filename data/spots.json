@@ -3220,10 +3220,7 @@
       "verified": false,
       "hasLocation": true,
       "name": {
-        "en": "Registration point",
-        "pl": "Punkt rejestracji",
-        "ru": "Регистрационный пункт",
-        "uk": "Точка реєстрації"
+        "en": "Żyj w Krakowie\nSpołeczna Przestrzeń Aktywna"
       },
       "type": "registrationPoint",
       "dbType": "new",
@@ -3251,35 +3248,16 @@
       },
       "contacts": [
         {
-          "phone": "+48123236630",
+          "phone": "+48123236620",
           "eMail": "",
           "sms": "",
           "name": "",
           "services": [],
           "info": {
-            "en": "",
-            "pl": "",
-            "ru": "",
-            "uk": ""
-          },
-          "www": {
-            "en": "",
-            "pl": "",
-            "ru": "",
-            "uk": ""
-          }
-        },
-        {
-          "phone": "+48122102002",
-          "eMail": "",
-          "sms": "",
-          "name": "",
-          "services": [],
-          "info": {
-            "en": "Information line",
-            "pl": "Infolinia",
-            "ru": "Информационная линия",
-            "uk": "Інформаційна лінія"
+            "en": "Open: Mon-Fri 8.00-20.00, weekends 8.00-15.00.",
+            "pl": "Czynne: pon-pt 8.00-20.00, weekendy 8.00-15.00.",
+            "ru": "Открыто: пн-пт 8.00-20.00, выходные 8.00-15.00.",
+            "uk": "Відкрито: пн.-пт. 8,00-20,00, вихідні 8.00-15.00."
           },
           "www": {
             "en": "",
@@ -3290,8 +3268,11 @@
         }
       ],
       "services": [
-        "registration",
-        "information"
+        "helpline",
+        "information",
+        "helpdesk",
+        "accommodationHelp",
+        "integrationWorkshops"
       ]
     },
 
@@ -4005,6 +3986,186 @@
       ],
       "services": [
         "relocation"
+      ]
+    },
+
+    {
+      "id": 2013,
+      "confirmed": true,
+      "verified": false,
+      "hasLocation": false,
+      "name": {
+        "en": "Psychological Support Point of the Jagiellonian University",
+        "pl": "Punkt wsparcia psychologicznego UJ",
+        "ru": "Психологическая поддержка Ягеллонского университета",
+        "uk": "Психологічна підтримка Джагеллонського університету"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Meetings can take place by phone or stationary, you should make an appointment at the phone or email.",
+        "pl": "Spotkania mogą odbywać się telefonicznie lub stacjonarnie, należy umówić się pod numerem tel lub mailowo.",
+        "ru": "Встречи могут проходить по телефону или неподвижному, вы должны назначить встречу по телефону или по электронной почте.",
+        "uk": "Зустрічі можуть відбуватися по телефону або нерухомим, вам слід домовитись про зустріч за телефоном або електронною поштою."
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "",
+        "street": "",
+        "buildingId": "",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "contacts": [
+        {
+          "phone": "+48126632403",
+          "eMail": "punktwsparcia@uj.edu.pl",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "- Polish, Ukrainian language: Tuesday, Wednesday, Friday 12: 00-15:00\n- Russian: Wednesday, Friday, at 12: 00-15: 00",
+            "pl": "- język polski, ukraiński: wtorek, środa, piątek godz. 12:00- 15:00\n- język rosyjski: środa, piątek, godz. 12:00-15:00",
+            "ru": "- польский, украинский язык: вторник, среда, пятница 12: 00-15: 00\n- русский: среда, пятница, в 12: 00-15: 00",
+            "uk": "- польська, українська мова: вівторок, середа, п’ятниця 12: 00-15: 00\n- Російська: середа, п’ятниця, в 12: 00-15: 00"
+          },
+          "www": {
+            "en": ""
+          }
+        }
+      ],
+      "services": [
+        "psychologicalHelp"
+      ]
+    },
+
+    {
+      "id": 2014,
+      "confirmed": true,
+      "verified": false,
+      "hasLocation": true,
+      "name": {
+        "en": "Psychological support for persons from Ukraine",
+        "pl": "Psychologiczne wsparcie dla osób z Ukrainy",
+        "ru": "Психологическая поддержка людей из Украины",
+        "uk": "Психологічна підтримка для осіб з України"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Terms after prior telephone arrangement.",
+        "pl": "Terminy po wcześniejszym uzgodnieniu telefonicznym",
+        "ru": "Сроки после предварительного телефонного соглашения.",
+        "uk": "Терміни після попередньої телефонної домовленості."
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Korzeniowskiego",
+        "buildingId": "39",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.0627335716899,
+        "longitude": 19.887995631084898
+      },
+      "contacts": [
+        {
+          "phone": "+48606325160",
+          "eMail": "khrystyna.maksymets@nm.com.pl",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "4th floor, Nowe Motywacje",
+            "pl": "IV piętro, Nowe Motywacje",
+            "ru": "4-й этаж, Nowe Motywacje",
+            "uk": "4 -й поверх, Nowe Motywacje"
+          },
+          "www": {
+            "en": "https://psychologdlaua.pl/",
+            "pl": "https://psychologdlaua.pl/",
+            "ru": "https://psychologdlaua.pl/uk/",
+            "uk": "https://psychologdlaua.pl/uk/"
+          }
+        }
+      ],
+      "services": [
+        "psychologicalHelp"
+      ]
+    },
+
+    {
+      "id": 2015,
+      "confirmed": true,
+      "verified": false,
+      "hasLocation": true,
+      "name": {
+        "en": "Szpital Kliniczny im. dr. Babińskiego\nClinical hospital",
+        "pl": "Szpital Kliniczny im. dr. Babińskiego",
+        "ru": "Szpital Kliniczny im. dr. Babińskiego\nКлиническая больница",
+        "uk": "Szpital Kliniczny im. dr. Babińskiego\nКлінічна лікарня"
+      },
+      "type": "",
+      "dbType": "new",
+      "descriptionShort": {
+        "en": "Support group (women and children) + art therapy classes.",
+        "pl": "Grupa wsparcia (kobiety i dzieci) + zajęcia z arteterapii.",
+        "ru": "Группа поддержки (женщины и дети) + классы арт-терапии.",
+        "uk": "Група підтримки (жінки та діти) + заняття з арт-терапії."
+      },
+      "descriptionLong": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      },
+      "territorialUnitId": "PL-1261",
+      "location": {
+        "locality": "Kraków",
+        "street": "ul. Babińskiego",
+        "buildingId": "29",
+        "flatOrRoomId": "",
+        "postCode": "",
+        "latitude": 50.00426738725625,
+        "longitude": 19.883593328836195
+      },
+      "contacts": [
+        {
+          "phone": "+48608690281",
+          "eMail": "",
+          "sms": "",
+          "name": "",
+          "services": [],
+          "info": {
+            "en": "at Centrum Wsparcia",
+            "pl": "przy Centrum Wsparcia",
+            "ru": "в Centrum Wsparcia",
+            "uk": "в Centrum Wsparcia"
+          },
+          "www": {
+            "en": "",
+            "pl": "",
+            "ru": "",
+            "uk": ""
+          }
+        }
+      ],
+      "services": [
+        "psychologicalHelp"
       ]
     }
   ]

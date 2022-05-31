@@ -113,6 +113,38 @@
       }
     },
     {
+      "id": "helpline",
+      "dbType": "new",
+      "name": {
+        "en": "Helpline",
+        "pl": "Infolinia pomocowa",
+        "ru": "Хелеспловка",
+        "uk": "Довідкова лінія"
+      },
+      "keywords": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      }
+    },
+    {
+      "id": "helpdesk",
+      "dbType": "new",
+      "name": {
+        "en": "Helpdesk",
+        "pl": "Helpdesk",
+        "ru": "Ссылка",
+        "uk": "Довідкова"
+      },
+      "keywords": {
+        "en": "",
+        "pl": "",
+        "ru": "",
+        "uk": ""
+      }
+    },
+    {
       "id": "financialSupport",
       "dbType": "new",
       "name": {
@@ -366,6 +398,38 @@
         "pl": "mieszkanie, pokoje",
         "ru": "квартира, комнаты",
         "uk": "Квартира, кімнати"
+      }
+    },
+    {
+      "id": "accommodationHelp",
+      "dbType": "new",
+      "name": {
+        "en": "Help in finding accommodation",
+        "pl": "Pomoc w znalezieniu zakwaterowania",
+        "ru": "Помощь в поиске жилья",
+        "uk": "Допомога у пошуку житла"
+      },
+      "keywords": {
+        "en": "flat, rooms",
+        "pl": "mieszkanie, pokoje",
+        "ru": "квартира, комнаты",
+        "uk": "Квартира, кімнати"
+      }
+    },
+    {
+      "id": "integrationWorkshops",
+      "dbType": "new",
+      "name": {
+        "en": "Integration workshops",
+        "pl": "Warsztaty integracyjne",
+        "ru": "Интеграционные семинары",
+        "uk": "Інтеграційні семінари"
+      },
+      "keywords": {
+        "en": "classes",
+        "pl": "zajęcia",
+        "ru": "классы",
+        "uk": "заняття"
       }
     },
     {
